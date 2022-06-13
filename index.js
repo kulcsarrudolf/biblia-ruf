@@ -9,6 +9,19 @@ const fetchBibleBook = async (book) => {
   return response.data;
 };
 
+function BibleBook(abbreviation, name) {
+  this.abbreviation = abbreviation;
+  this.name = name;
+}
+
+const showBibleBooks = () => {
+  var bibleBooks = [
+    new BibleBook("4Móz", "Mózes negyedik könyve"),
+    new BibleBook("Zsolt", "A zsoltárok könyve"),
+  ];
+  console.table(bibleBooks);
+};
+
 const fetchBible = async () => {
   const passage = process.argv
     .find((val) => val.includes("--passage") || val.includes("--p"))
@@ -36,4 +49,18 @@ const fetchBible = async () => {
   });
 };
 
-fetchBible();
+const main = () => {
+  const command = process.argv.find(
+    (val) => val.includes("--passage") || val.includes("--p")
+  )
+    ? "showBible"
+    : "showBibleBooks";
+
+  if (command === "showBible") {
+    fetchBible();
+  } else {
+    showBibleBooks();
+  }
+};
+
+main();

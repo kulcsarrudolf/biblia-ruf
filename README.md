@@ -14,6 +14,10 @@ $ node index --p="Zsolt 100:1"
 $ node index --p="Zsolt 100:1-2"
 ```
 
+```bash
+$ node index --showBibleBooks
+```
+
 ## 📜 License
 
 [MIT][license] © [Kulcsár Rudolf][website]
