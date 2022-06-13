@@ -1,0 +1,22 @@
+{
+  "name": "biblia",
+  "version": "1.0.0",
+  "description": "RÚF Biblia",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kulcsarrudolf/biblia.git"
+  },
+  "author": "Kulcsar Rudolf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kulcsarrudolf/biblia/issues"
+  },
+  "homepage": "https://github.com/kulcsarrudolf/biblia#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
