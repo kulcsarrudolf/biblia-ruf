@@ -18,6 +18,10 @@ $ node index --p="Zsolt 100:1-2"
 $ node index --showBibleBooks
 ```
 
+## 🎥 Demo Video
+
+[![Demo Video](https://img.youtube.com/vi/99baGzaIYWE/0.jpg)](https://www.youtube.com/watch?v=99baGzaIYWE)
+
 ## 📜 License
 
 [MIT][license] © [Kulcsár Rudolf][website]
