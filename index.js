@@ -2,7 +2,7 @@ const { default: axios } = require("axios");
 
 const fetchBibleBook = async (book) => {
   const encodedBook = encodeURI(book);
-  const BOOK_URL = `https://raw.githubusercontent.com/kulcsarrudolf/biblia/main/json/${encodedBook}.json`;
+  const BOOK_URL = `https://raw.githubusercontent.com/kulcsarrudolf/biblia-ruf/main/json/${encodedBook}.json`;
 
   const response = await axios.get(BOOK_URL);
 
