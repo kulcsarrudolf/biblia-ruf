@@ -1,25 +1,25 @@
 const { getBiblePassage } = require("./src/");
 const { showBibleBooks } = require("./src/");
+const { help } = require("./src/help");
 
 const parseCommand = () => {
-  const commands = process.argv;
+  const currentCommand = process.argv;
 
-  console.log(commands);
+  const commandList = [
+    { option: "--p", foo: getBiblePassage },
+    { option: "--passage", foo: getBiblePassage },
+    { option: "--showBooks", foo: showBibleBooks },
+    { option: "--help", foo: help },
+  ];
+
+  commandList.forEach((c) => {
+    if (currentCommand.find((val) => val.includes(c.option))) {
+      c.foo();
+    }
+  });
 };
 
 const main = () => {
-  const command = process.argv.find(
-    (val) => val.includes("--passage") || val.includes("--p")
-  )
-    ? "showBible"
-    : "showBibleBooks";
-
-  if (command === "showBible") {
-    getBiblePassage();
-  } else {
-    showBibleBooks();
-  }
-
   parseCommand();
 };
 

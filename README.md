@@ -15,7 +15,7 @@ $ node index --p="Zsolt 100:1-2"
 ```
 
 ```bash
-$ node index --showBibleBooks
+$ node index --showBooks
 ```
 
 ## 🎥 Demo Video
