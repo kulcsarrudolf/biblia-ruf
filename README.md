@@ -1,21 +1,27 @@
 # Biblia (RÚF)
 
+## ❓ How to install CLI?
+
+```bash
+$ npm i -g biblia-ruf
+```
+
 ## ❓ How to use?
 
 ```bash
-$ node index --p="Zsolt 100"
+$ biblia --p="Zsolt 100"
 ```
 
 ```bash
-$ node index --p="Zsolt 100:1"
+$ biblia --p="Zsolt 100:1"
 ```
 
 ```bash
-$ node index --p="Zsolt 100:1-2"
+$ biblia --p="Zsolt 100:1-2"
 ```
 
 ```bash
-$ node index --showBooks
+$ biblia --showBooks
 ```
 
 ## 🎥 Demo Video
