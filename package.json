@@ -1,6 +1,6 @@
 {
-  "name": "biblia",
-  "version": "1.0.0",
+  "name": "biblia-ruf",
+  "version": "1.0.7",
   "description": "RÚF Biblia",
   "main": "index.js",
   "scripts": {
@@ -8,14 +8,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kulcsarrudolf/biblia.git"
+    "url": "git+https://github.com/kulcsarrudolf/biblia-ruf.git"
   },
   "author": "Kulcsar Rudolf",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kulcsarrudolf/biblia/issues"
+    "url": "https://github.com/kulcsarrudolf/biblia-ruf/issues"
   },
-  "homepage": "https://github.com/kulcsarrudolf/biblia#readme",
+  "homepage": "https://github.com/kulcsarrudolf/biblia-ruf#readme",
+  "bin": {
+    "biblia": "./bin/index.js"
+  },
   "dependencies": {
     "axios": "^0.27.2"
   }
