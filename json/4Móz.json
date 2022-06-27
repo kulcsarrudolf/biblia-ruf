@@ -22,46 +22,19 @@
         "verse": "5",
         "text": "Ez a neve azoknak a férfiaknak, akik segíteni fognak nektek: Rúbenből Elícúr, Sedéúr fia,"
       },
-      {
-        "verse": "6",
-        "text": "Simeonból Selumíél, Cúrísaddaj fia,"
-      },
-      {
-        "verse": "7",
-        "text": "Júdából Nahsón, Ammínádáb fia,"
-      },
-      {
-        "verse": "8",
-        "text": "Issakárból Netanél, Cúár fia,"
-      },
-      {
-        "verse": "9",
-        "text": "Zebulonból Elíáb, Hélón fia."
-      },
+      { "verse": "6", "text": "Simeonból Selumíél, Cúrísaddaj fia," },
+      { "verse": "7", "text": "Júdából Nahsón, Ammínádáb fia," },
+      { "verse": "8", "text": "Issakárból Netanél, Cúár fia," },
+      { "verse": "9", "text": "Zebulonból Elíáb, Hélón fia." },
       {
         "verse": "10",
         "text": "József fiai közül: Efraimból Elísámá, Ammíhúd fia, Manasséból pedig Gamlíél, Pedácúr fia,"
       },
-      {
-        "verse": "11",
-        "text": "Benjáminból Abídán, Gidóní fia,"
-      },
-      {
-        "verse": "12",
-        "text": "Dánból Ahíezer, Ammísaddaj fia,"
-      },
-      {
-        "verse": "13",
-        "text": "Ásérból Pagíél, Okrán fia,"
-      },
-      {
-        "verse": "14",
-        "text": "Gádból Eljászáf, Deúél fia,"
-      },
-      {
-        "verse": "15",
-        "text": "Naftáliból Ahíra, Énán fia."
-      },
+      { "verse": "11", "text": "Benjáminból Abídán, Gidóní fia," },
+      { "verse": "12", "text": "Dánból Ahíezer, Ammísaddaj fia," },
+      { "verse": "13", "text": "Ásérból Pagíél, Okrán fia," },
+      { "verse": "14", "text": "Gádból Eljászáf, Deúél fia," },
+      { "verse": "15", "text": "Naftáliból Ahíra, Énán fia." },
       {
         "verse": "16",
         "text": "Ezek a közösség képviselői, az ősi törzsek fejedelmei, Izráel nemzetségfői."
@@ -190,10 +163,7 @@
         "verse": "47",
         "text": "De a léviták ősi törzséből származókat nem vették számba közöttük."
       },
-      {
-        "verse": "48",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "48", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "49",
         "text": "Lévi törzsét ne vedd számba, és ne számold őket hozzá Izráel fiaihoz,"
@@ -380,10 +350,7 @@
         "verse": "4",
         "text": "De Nádáb és Abíhú meghalt az  Úr színe előtt, amikor idegen tűzzel járultak az  Úr színe elé a Sínai-pusztában, fiaik pedig nem voltak. Ezért Eleázár és Ítámár végezték a papi szolgálatot apjuknak, Áronnak a felügyelete alatt."
       },
-      {
-        "verse": "5",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "5", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "6",
         "text": "Vezesd ide Lévi törzsét, és állítsd Áron főpap elé, hogy a szolgálatában segédkezzenek."
@@ -404,10 +371,7 @@
         "verse": "10",
         "text": "Áronnak és fiainak pedig rendeld el, hogy végezzék papi szolgálatukat. Ha illetéktelen közeledik az  Úrhoz, meg kell halnia."
       },
-      {
-        "verse": "11",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "11", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "12",
         "text": "Íme, én magam vettem ki a lévitákat Izráel fiai közül minden elsőszülött helyett, aki anyja méhét megnyitja Izráel fiai között: legyenek azért a léviták az enyéim."
@@ -536,10 +500,7 @@
         "verse": "43",
         "text": "A névjegyzékbe vett elsőszülött férfiak az egy hónapos fiúktól fölfelé a számba vettek közül összesen huszonkétezer-kétszázhetvenhárman voltak."
       },
-      {
-        "verse": "44",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "44", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "45",
         "text": "Vedd külön a lévitákat Izráel fiainak minden elsőszülöttje helyett és a léviták állatait azok állatai helyett, és legyenek a léviták az enyéim. Én vagyok az  Úr."
@@ -653,10 +614,7 @@
         "verse": "20",
         "text": "Ne menjenek be, hogy megláthassák a szent dolgokat akár csak egy pillanatra is, mert akkor meghalnak!"
       },
-      {
-        "verse": "21",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "21", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "22",
         "text": "Számold össze Gérsón fiait is nagycsaládonként és nemzetségenként."
@@ -774,10 +732,7 @@
   {
     "chapter": 5,
     "verses": [
-      {
-        "verse": "1",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "1", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "2",
         "text": "Parancsold meg Izráel fiainak, hogy küldjenek ki a táborból mindenkit, akinek kiütése vagy folyása van, vagy aki holttest miatt tisztátalan."
@@ -790,10 +745,7 @@
         "verse": "4",
         "text": "Izráel fiai eszerint jártak el: kiküldték őket a táboron kívülre. Úgy cselekedtek Izráel fiai, ahogyan Mózesnek megparancsolta az  Úr."
       },
-      {
-        "verse": "5",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "5", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "6",
         "text": "Mondd meg Izráel fiainak: Ha egy férfi vagy egy nő bármilyen vétket követ el egy másik ember ellen, az az  Úr ellen követ el hűtlenséget, és így kártérítéssel tartozik."
@@ -814,10 +766,7 @@
         "verse": "10",
         "text": "Ha valaki azt, ami az övé, szent adományként odaadja a papnak, az a papé legyen."
       },
-      {
-        "verse": "11",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "11", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "12",
         "text": "Szólj Izráel fiaihoz, és mondd meg nekik: Ha valakinek a felesége eltévelyedik, és hűtlenséget követ el ellene,"
@@ -903,10 +852,7 @@
   {
     "chapter": 6,
     "verses": [
-      {
-        "verse": "1",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "1", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "2",
         "text": "Szólj Izráel fiaihoz, és mondd meg nekik: Ha egy férfi vagy nő különleges fogadalmat tesz, názírfogadalmat, vagyis az  Úrnak szenteli magát,"
@@ -987,10 +933,7 @@
         "verse": "21",
         "text": "Ez a törvénye a názírnak, aki fogadalmat tett. Az  Úrnak szóló áldozat ez hajkoronájáért, azon kívül, amire telik neki. Úgy kell a názírság törvényét megtartania, ahogyan a fogadalmat tette."
       },
-      {
-        "verse": "22",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "22", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "23",
         "text": "Mondd meg Áronnak és fiainak: Így áldjátok meg Izráel fiait, ezt mondjátok nekik: "
@@ -1028,10 +971,7 @@
         "verse": "3",
         "text": "és odavitték áldozatukat az  Úr elé: hat födeles szekeret és tizenkét marhát, két fejedelem egy szekeret, és mindegyik egy marhát. Odavezették azokat a hajlék elé."
       },
-      {
-        "verse": "4",
-        "text": "Akkor ezt mondta Mózesnek az  Úr:"
-      },
+      { "verse": "4", "text": "Akkor ezt mondta Mózesnek az  Úr:" },
       {
         "verse": "5",
         "text": "Vedd át tőlük ezeket a kijelentés sátrának szolgálatára; add oda a lévitáknak, mindegyiknek a maga szolgálatához mérten!"
@@ -1076,10 +1016,7 @@
         "verse": "15",
         "text": "egy bikaborjú, egy kos és egy egyéves bárány égőáldozatul,"
       },
-      {
-        "verse": "16",
-        "text": "egy kecskebak vétekáldozatul,"
-      },
+      { "verse": "16", "text": "egy kecskebak vétekáldozatul," },
       {
         "verse": "17",
         "text": "békeáldozatul pedig két marha, öt kos, öt bak és öt egyéves bárány. Ez Nahsónnak, Ammínádáb fiának az áldozati ajándéka."
@@ -1100,10 +1037,7 @@
         "verse": "21",
         "text": "egy bikaborjút, egy kost, egy egyéves bárányt égőáldozatul,"
       },
-      {
-        "verse": "22",
-        "text": "egy kecskebakot vétekáldozatul,"
-      },
+      { "verse": "22", "text": "egy kecskebakot vétekáldozatul," },
       {
         "verse": "23",
         "text": "békeáldozatul pedig két marhát, öt kost, öt bakot és öt egyéves bárányt. Ez Netanélnak, Cúár fiának az áldozati ajándéka."
@@ -1124,10 +1058,7 @@
         "verse": "27",
         "text": "egy bikaborjú, egy kos és egy egyéves bárány égőáldozatul,"
       },
-      {
-        "verse": "28",
-        "text": "egy kecskebak vétekáldozatul,"
-      },
+      { "verse": "28", "text": "egy kecskebak vétekáldozatul," },
       {
         "verse": "29",
         "text": "békeáldozatul pedig két marha, öt kos, öt bak és öt egyéves bárány. Ez Elíábnak, Hélón fiának az áldozati ajándéka."
@@ -1148,10 +1079,7 @@
         "verse": "33",
         "text": "egy bikaborjú, egy kos és egy egyéves bárány égőáldozatul,"
       },
-      {
-        "verse": "34",
-        "text": "egy kecskebak vétekáldozatul,"
-      },
+      { "verse": "34", "text": "egy kecskebak vétekáldozatul," },
       {
         "verse": "35",
         "text": "békeáldozatul pedig két marha, öt kos, öt bak és öt egyéves bárány. Ez Elícúrnak, Sedéúr fiának az áldozati ajándéka."
@@ -1172,10 +1100,7 @@
         "verse": "39",
         "text": "egy bikaborjú, egy kos és egy egyéves bárány égőáldozatul,"
       },
-      {
-        "verse": "40",
-        "text": "egy kecskebak vétekáldozatul,"
-      },
+      { "verse": "40", "text": "egy kecskebak vétekáldozatul," },
       {
         "verse": "41",
         "text": "békeáldozatul pedig két marha, öt kos, öt bak és öt egyéves bárány. Ez Selumíélnak, Cúrísaddaj fiának az áldozati ajándéka."
@@ -1196,10 +1121,7 @@
         "verse": "45",
         "text": "egy bikaborjú, egy kos és egy egyéves bárány égőáldozatul,"
       },
-      {
-        "verse": "46",
-        "text": "egy kecskebak vétekáldozatul,"
-      },
+      { "verse": "46", "text": "egy kecskebak vétekáldozatul," },
       {
         "verse": "47",
         "text": "békeáldozatul pedig két marha, öt kos, öt bak és öt egyéves bárány. Ez Eljászáfnak, Deúél fiának az áldozati ajándéka."
@@ -1220,10 +1142,7 @@
         "verse": "51",
         "text": "egy bikaborjú, egy kos és egy egyéves bárány égőáldozatul,"
       },
-      {
-        "verse": "52",
-        "text": "egy kecskebak vétekáldozatul,"
-      },
+      { "verse": "52", "text": "egy kecskebak vétekáldozatul," },
       {
         "verse": "53",
         "text": "békeáldozatul pedig két marha, öt kos, öt bak és öt egyéves bárány. Ez Elísámának, Ammíhúd fiának az áldozati ajándéka."
@@ -1244,10 +1163,7 @@
         "verse": "57",
         "text": "egy bikaborjú, egy kos és egy egyéves bárány égőáldozatul,"
       },
-      {
-        "verse": "58",
-        "text": "egy kecskebak vétekáldozatul,"
-      },
+      { "verse": "58", "text": "egy kecskebak vétekáldozatul," },
       {
         "verse": "59",
         "text": "békeáldozatul pedig két marha, öt kos, öt bak és öt egyéves bárány. Ez Gamlíélnak, Pedácúr fiának az áldozati ajándéka."
@@ -1268,10 +1184,7 @@
         "verse": "63",
         "text": "egy bikaborjú, egy kos és egy egyéves bárány égőáldozatul,"
       },
-      {
-        "verse": "64",
-        "text": "egy kecskebak vétekáldozatul,"
-      },
+      { "verse": "64", "text": "egy kecskebak vétekáldozatul," },
       {
         "verse": "65",
         "text": "békeáldozatul pedig két marha, öt kos, öt bak és öt egyéves bárány. Ez Abídánnak, Gidóní fiának az áldozati ajándéka."
@@ -1292,10 +1205,7 @@
         "verse": "69",
         "text": "egy bikaborjú, egy kos és egy egyéves bárány égőáldozatul,"
       },
-      {
-        "verse": "70",
-        "text": "egy kecskebak vétekáldozatul,"
-      },
+      { "verse": "70", "text": "egy kecskebak vétekáldozatul," },
       {
         "verse": "71",
         "text": "békeáldozatul pedig két marha, öt kos, öt bak és öt egyéves bárány. Ez Ahíezernek, Ammísaddaj fiának az áldozati ajándéka."
@@ -1316,10 +1226,7 @@
         "verse": "75",
         "text": "egy bikaborjú, egy kos és egy egyéves bárány égőáldozatul,"
       },
-      {
-        "verse": "76",
-        "text": "egy kecskebak vétekáldozatul,"
-      },
+      { "verse": "76", "text": "egy kecskebak vétekáldozatul," },
       {
         "verse": "77",
         "text": "békeáldozatul pedig két marha, öt kos, öt bak és öt egyéves bárány. Ez Pagíélnak, Okrán fiának az áldozati ajándéka."
@@ -1340,10 +1247,7 @@
         "verse": "81",
         "text": "egy bikaborjú, egy kos és egy egyéves bárány égőáldozatul,"
       },
-      {
-        "verse": "82",
-        "text": "egy kecskebak vétekáldozatul,"
-      },
+      { "verse": "82", "text": "egy kecskebak vétekáldozatul," },
       {
         "verse": "83",
         "text": "békeáldozatul pedig két marha, öt kos, öt bak és öt egyéves bárány. Ez Ahírának, Énán fiának az áldozati ajándéka."
@@ -1377,10 +1281,7 @@
   {
     "chapter": 8,
     "verses": [
-      {
-        "verse": "1",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "1", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "2",
         "text": "Szólj Áronhoz, és mondd meg neki: Úgy rakd föl a lámpatartóra a mécseseket, hogy a hét mécses előre világítson. "
@@ -1393,10 +1294,7 @@
         "verse": "4",
         "text": "A lámpatartó aranyból készült, ötvösmunkával; a szára is meg a virága is ötvösmunka volt. Arra a mintára készítette el Mózes a lámpatartót, amelyet az  Úr mutatott neki."
       },
-      {
-        "verse": "5",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "5", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "6",
         "text": "Válaszd külön a lévitákat Izráel fiai közül, és tisztítsd meg őket."
@@ -1465,10 +1363,7 @@
         "verse": "22",
         "text": "Csak azután kezdték meg a léviták szolgálatukat a kijelentés sátránál, Áron és fiai irányításával. Úgy jártak el a lévitákkal kapcsolatban, ahogyan Mózesnek megparancsolta az  Úr. "
       },
-      {
-        "verse": "23",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "23", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "24",
         "text": "Még ez is a lévitákra tartozik: a huszonöt éven felüli lévita hadköteles, és végezzen szolgálatot a kijelentés sátránál."
@@ -1518,10 +1413,7 @@
         "verse": "8",
         "text": "Mózes ezt felelte nekik: Várjatok, míg meghallom, mit parancsol rólatok az  Úr."
       },
-      {
-        "verse": "9",
-        "text": "Ekkor így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "9", "text": "Ekkor így beszélt Mózeshez az  Úr:" },
       {
         "verse": "10",
         "text": "Mondd meg Izráel fiainak: Ha valaki holttest miatt tisztátalanná válik, vagy messze úton van közületek vagy utódaitok közül, az is készítsen páskát az  Úrnak."
@@ -1583,10 +1475,7 @@
   {
     "chapter": 10,
     "verses": [
-      {
-        "verse": "1",
-        "text": "Azután így szólt Mózeshez az  Úr:"
-      },
+      { "verse": "1", "text": "Azután így szólt Mózeshez az  Úr:" },
       {
         "verse": "2",
         "text": "Készíts két harsonát ötvösmunkával, ezüstből készítsd azokat. Ezeket használd a közösség összehívására és a táborok elindítására!"
@@ -1946,10 +1835,7 @@
   {
     "chapter": 13,
     "verses": [
-      {
-        "verse": "1",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "1", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "2",
         "text": "Küldj férfiakat, hogy kémleljék ki Kánaán földjét, amelyet majd Izráel fiainak adok. Mindegyik ősi törzsből egy férfit küldjetek, mind tekintélyes ember legyen."
@@ -1962,50 +1848,20 @@
         "verse": "4",
         "text": "Név szerint ezek voltak: Rúben törzséből Sammúa, Zakkúr fia."
       },
-      {
-        "verse": "5",
-        "text": "Simeon törzséből Sáfát, Hórí fia."
-      },
-      {
-        "verse": "6",
-        "text": "Júda törzséből Káléb, Jefunne fia."
-      },
-      {
-        "verse": "7",
-        "text": "Issakár törzséből Jigál, Jószéf fia."
-      },
-      {
-        "verse": "8",
-        "text": "Efraim törzséből Hóséa, Nún fia."
-      },
-      {
-        "verse": "9",
-        "text": "Benjámin törzséből Paltí, Ráfú fia."
-      },
-      {
-        "verse": "10",
-        "text": "Zebulon törzséből Gaddíél, Szódí fia."
-      },
+      { "verse": "5", "text": "Simeon törzséből Sáfát, Hórí fia." },
+      { "verse": "6", "text": "Júda törzséből Káléb, Jefunne fia." },
+      { "verse": "7", "text": "Issakár törzséből Jigál, Jószéf fia." },
+      { "verse": "8", "text": "Efraim törzséből Hóséa, Nún fia." },
+      { "verse": "9", "text": "Benjámin törzséből Paltí, Ráfú fia." },
+      { "verse": "10", "text": "Zebulon törzséből Gaddíél, Szódí fia." },
       {
         "verse": "11",
         "text": "A József törzséhez tartozó Manassé-törzsből Gaddí, Szúszí fia."
       },
-      {
-        "verse": "12",
-        "text": "Dán törzséből Ammíél, Gemallí fia."
-      },
-      {
-        "verse": "13",
-        "text": "Ásér törzséből Szetúr, Míkáél fia."
-      },
-      {
-        "verse": "14",
-        "text": "Naftáli törzséből Nahbí, Vofszí fia."
-      },
-      {
-        "verse": "15",
-        "text": "Gád törzséből Geúél, Mákí fia."
-      },
+      { "verse": "12", "text": "Dán törzséből Ammíél, Gemallí fia." },
+      { "verse": "13", "text": "Ásér törzséből Szetúr, Míkáél fia." },
+      { "verse": "14", "text": "Naftáli törzséből Nahbí, Vofszí fia." },
+      { "verse": "15", "text": "Gád törzséből Geúél, Mákí fia." },
       {
         "verse": "16",
         "text": "Így hívták azokat a férfiakat, akiket elküldött Mózes, hogy kémleljék ki az országot. Mózes Hóséát, Nún fiát Józsuénak nevezte el."
@@ -2207,10 +2063,7 @@
         "verse": "31",
         "text": "De beviszem gyermekeiteket, akikről ti azt mondtátok, hogy prédára jutnak; ők majd megismerik azt a földet, amelyet ti megvetettetek."
       },
-      {
-        "verse": "32",
-        "text": "Ti azonban itt a pusztában fogtok elhullani."
-      },
+      { "verse": "32", "text": "Ti azonban itt a pusztában fogtok elhullani." },
       {
         "verse": "33",
         "text": "Fiaitok pásztorok lesznek a pusztában negyven esztendeig, és bűnhődnek a ti hűtlenségetekért, míg mind egy szálig el nem hullotok holtan a pusztában."
@@ -2268,10 +2121,7 @@
   {
     "chapter": 15,
     "verses": [
-      {
-        "verse": "1",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "1", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "2",
         "text": "Szólj Izráel fiaihoz, és mondd meg nekik: Amikor bementek arra a földre, amelyet nektek adok, hogy ott lakjatok,"
@@ -2332,10 +2182,7 @@
         "verse": "16",
         "text": "Ugyanaz a törvény és ugyanaz az előírás vonatkozzék rátok és a köztetek tartózkodó jövevényre."
       },
-      {
-        "verse": "17",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "17", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "18",
         "text": "Szólj Izráel fiaihoz, és mondd meg nekik: Amikor bementek arra a földre, ahova beviszlek titeket,"
@@ -2412,10 +2259,7 @@
         "verse": "36",
         "text": "Kivitte azért őt az egész közösség a táboron kívülre, ott halálra kövezték, ahogyan megparancsolta Mózesnek az  Úr."
       },
-      {
-        "verse": "37",
-        "text": "Azután ezt mondta Mózesnek az  Úr:"
-      },
+      { "verse": "37", "text": "Azután ezt mondta Mózesnek az  Úr:" },
       {
         "verse": "38",
         "text": "Szólj Izráel fiaihoz, és mondd meg nekik, hogy csináljanak bojtokat a ruhájuk szegélyére, nemzedékről nemzedékre, és tegyenek a szegélyen levő bojtokra kék bíbor zsinórt."
@@ -2449,10 +2293,7 @@
         "verse": "3",
         "text": "Ezek egybegyűltek Mózes és Áron ellen, és ezt mondták nekik: Elegünk van belőletek! Miért emelitek magatokat az  Úr gyülekezete fölé?! Hiszen szent az egész közösség a maga egészében, és közöttük van az  Úr!"
       },
-      {
-        "verse": "4",
-        "text": "Ezt hallva Mózes arcra borult,"
-      },
+      { "verse": "4", "text": "Ezt hallva Mózes arcra borult," },
       {
         "verse": "5",
         "text": "majd így szólt Kórahhoz és egész csoportjához: Majd reggel tudtul adja az  Úr, hogy ki az övé, ki a szent, és ki közeledhet hozzá. Az közeledhet hozzá, akit kiválasztott."
@@ -2525,10 +2366,7 @@
         "verse": "22",
         "text": "Ekkor arcra borultak, és ezt mondták: Ó, Isten, aki lelket adsz minden élőlénynek! Miért haragszol az egész közösségre, holott csak egyetlen ember vétkezett?"
       },
-      {
-        "verse": "23",
-        "text": "Ekkor így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "23", "text": "Ekkor így beszélt Mózeshez az  Úr:" },
       {
         "verse": "24",
         "text": "Mondd meg a közösségnek: Menjetek el Kórah, Dátán és Abírám hajlékának a környékéről!"
@@ -2582,10 +2420,7 @@
   {
     "chapter": 17,
     "verses": [
-      {
-        "verse": "1",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "1", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "2",
         "text": "Mondd meg Eleázárnak, Áron főpap fiának, hogy szedje ki a szenesserpenyőket a tűzből, mert meg vannak szentelve, a bennük levő szenet pedig szórd széjjel."
@@ -2614,10 +2449,7 @@
         "verse": "8",
         "text": "Mózes és Áron pedig odament a kijelentés sátra elé."
       },
-      {
-        "verse": "9",
-        "text": "Ekkor így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "9", "text": "Ekkor így beszélt Mózeshez az  Úr:" },
       {
         "verse": "10",
         "text": "Húzódjatok félre ettől a közösségtől, hadd semmisítsem meg őket egy pillanat alatt! Ők pedig arcra borultak."
@@ -2642,10 +2474,7 @@
         "verse": "15",
         "text": "Ekkor visszatért Áron Mózeshez, a kijelentés sátrának a bejáratához, és megszűnt a csapás."
       },
-      {
-        "verse": "16",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "16", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "17",
         "text": "Szólj Izráel fiaihoz, és végy egy-egy vesszőt nagycsaládjaik minden fejedelmétől, összesen tizenkét vesszőt. Mindegyiknek a nevét írd föl a maga vesszejére."
@@ -2795,10 +2624,7 @@
         "verse": "24",
         "text": "Mert a lévitáknak adom örökségül Izráel fiainak a tizedét, amelyet felajánlásként az  Úrnak felajánlanak. Ezért mondtam nekik, hogy Izráel fiai között nem kaphatnak örökséget."
       },
-      {
-        "verse": "25",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "25", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "26",
         "text": "Beszélj a lévitákkal, és mondd meg nekik: Amikor megkapjátok Izráel fiaitól a tizedet, amelyet az ő javaikból adtam nektek örökségül, ajánljátok fel a tizedük tizedét felajánlásként az  Úrnak."
@@ -2949,10 +2775,7 @@
         "verse": "6",
         "text": "Mózes és Áron pedig a gyülekezet elől a kijelentés sátrának bejáratához ment, és ott arcra borult. Ekkor megjelent nekik az  Úr dicsősége."
       },
-      {
-        "verse": "7",
-        "text": "Ekkor így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "7", "text": "Ekkor így beszélt Mózeshez az  Úr:" },
       {
         "verse": "8",
         "text": "Vedd a botodat, és testvéreddel, Áronnal együtt gyűjtsd össze a közösséget, és szemük láttára parancsoljátok meg a sziklának, hogy adjon vizet! Fakassz nekik vizet a sziklából, és adj inni a közösségnek és állataiknak!"
@@ -3622,14 +3445,8 @@
         "verse": "8",
         "text": "bement az izráeli férfi után a sátor belsejébe, és hasba szúrta mindkettőjüket: az izráeli embert és azt a nőt is. Ezzel elhárult a csapás Izráel fiairól."
       },
-      {
-        "verse": "9",
-        "text": "Huszonnégyezer halottja lett a csapásnak."
-      },
-      {
-        "verse": "10",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "9", "text": "Huszonnégyezer halottja lett a csapásnak." },
+      { "verse": "10", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "11",
         "text": "Fineás, Áron főpap fiának, Eleázárnak a fia elfordította haragomat Izráel fiairól, amikor felindulásomnak megfelelően bánt velük, s ezért nem semmisítettem meg Izráel fiait felindulásomban."
@@ -3650,10 +3467,7 @@
         "verse": "15",
         "text": "A megölt midjáni nő neve pedig Kozbí volt, annak a Cúrnak a leánya, aki a midjáni törzsek egyik nagycsaládjának a feje volt."
       },
-      {
-        "verse": "16",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "16", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "17",
         "text": "Támadjátok meg a midjániakat, és pusztítsátok őket,"
@@ -3662,10 +3476,7 @@
         "verse": "18",
         "text": "mert ők is ellenetek támadtak, amikor aljas tervet eszeltek ki ellenetek Peór révén és húguk, Kozbí, a midjáni fejedelem leánya révén, akit megöltek a Peór miatt támadt csapás napján."
       },
-      {
-        "verse": "19",
-        "text": "A csapás után a következők történtek:"
-      }
+      { "verse": "19", "text": "A csapás után a következők történtek:" }
     ]
   },
   {
@@ -3699,10 +3510,7 @@
         "verse": "7",
         "text": "A rúbeni nemzetségekből negyvenháromezer-hétszázharmincat vettek számba."
       },
-      {
-        "verse": "8",
-        "text": "Pallú fia volt Elíáb."
-      },
+      { "verse": "8", "text": "Pallú fia volt Elíáb." },
       {
         "verse": "9",
         "text": "Elíáb fiai voltak: Nemúél, Dátán és Abírám. Ezek, Dátán és Abírám a közösség képviselői voltak, de lázadást szítottak Mózes és Áron ellen Kórah csoportjával, föllázadva az  Úr ellen."
@@ -3711,10 +3519,7 @@
         "verse": "10",
         "text": "Ezért a föld megnyitotta száját, és elnyelte őket Kórahhal együtt annak a csoportnak a halálakor, amikor a tűz megemésztett kétszázötven embert. Így lettek intő jellé."
       },
-      {
-        "verse": "11",
-        "text": "De Kórah fiai nem haltak meg."
-      },
+      { "verse": "11", "text": "De Kórah fiai nem haltak meg." },
       {
         "verse": "12",
         "text": "Simeon fiai nemzetségeik szerint ezek voltak: Nemúéltól való a nemúéli nemzetség, Jámíntól a jámíni nemzetség, Jákíntól a jákíni nemzetség,"
@@ -3851,10 +3656,7 @@
         "verse": "45",
         "text": "Beríá fiaitól: Hébertől a héberi nemzetség, Malkíéltól a malkíéli nemzetség."
       },
-      {
-        "verse": "46",
-        "text": "Ásér leányának a neve Szerah volt."
-      },
+      { "verse": "46", "text": "Ásér leányának a neve Szerah volt." },
       {
         "verse": "47",
         "text": "Ásér fiainak a nemzetségeiből összesen ötvenháromezer-négyszázat vettek számba."
@@ -3875,10 +3677,7 @@
         "verse": "51",
         "text": "Izráel fiai közül tehát összesen hatszázegyezer-hétszázharminc embert vettek számba."
       },
-      {
-        "verse": "52",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "52", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "53",
         "text": "Ezek között osszátok fel a földet örökségül a névjegyzék szerint!"
@@ -3952,14 +3751,8 @@
         "verse": "4",
         "text": "Miért tűnjék el apánk neve a nemzetségéből, csak azért, mert nem volt fia? Adj nekünk birtokot apánk testvérei között!"
       },
-      {
-        "verse": "5",
-        "text": "Mózes az  Úr elé vitte ügyüket,"
-      },
-      {
-        "verse": "6",
-        "text": "az  Úr pedig ezt mondta Mózesnek:"
-      },
+      { "verse": "5", "text": "Mózes az  Úr elé vitte ügyüket," },
+      { "verse": "6", "text": "az  Úr pedig ezt mondta Mózesnek:" },
       {
         "verse": "7",
         "text": "Igazuk van Celofhád leányainak. Adj nekik örökségül birtokot apjuk testvérei között: juttasd nekik apjuk örökségét!"
@@ -3992,10 +3785,7 @@
         "verse": "14",
         "text": "mert fellázadtatok parancsom ellen a Cin-pusztában, amikor perlekedett a közösség, és nem mutattátok fel szentségemet előttük azoknál a vizeknél, Meríbá vizeinél, Kádésban, a Cin-pusztában."
       },
-      {
-        "verse": "15",
-        "text": "Ekkor Mózes így beszélt az  Úrhoz:"
-      },
+      { "verse": "15", "text": "Ekkor Mózes így beszélt az  Úrhoz:" },
       {
         "verse": "16",
         "text": "Az  Úr, a minden embernek lelket adó Isten rendeljen egy férfit a közösség élére."
@@ -4033,10 +3823,7 @@
   {
     "chapter": 28,
     "verses": [
-      {
-        "verse": "1",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "1", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "2",
         "text": "Parancsold meg Izráel fiainak, és mondd meg nekik: Vigyázzatok arra, hogy a megszabott időben mutassátok be a nekem szóló áldozatot, az én kenyeremet kedves illatú tűzáldozatul."
@@ -4396,10 +4183,7 @@
   {
     "chapter": 31,
     "verses": [
-      {
-        "verse": "1",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "1", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "2",
         "text": "Állj bosszút Izráel fiaiért a midjániakon, azután elődeid mellé kerülsz."
@@ -4492,10 +4276,7 @@
         "verse": "24",
         "text": "Ruhátokat is mossátok ki a hetedik napon, hogy tiszták legyetek. Azután bejöhettek a táborba."
       },
-      {
-        "verse": "25",
-        "text": "Azután ezt mondta Mózesnek az  Úr:"
-      },
+      { "verse": "25", "text": "Azután ezt mondta Mózesnek az  Úr:" },
       {
         "verse": "26",
         "text": "Számold össze a foglyokat, az elfogott embereket és állatokat, Eleázár pappal és a közösség családfőivel együtt."
@@ -4524,14 +4305,8 @@
         "verse": "32",
         "text": "Ez volt az, ami a megszerzett zsákmányból megmaradt; abból, amit zsákmányolt a hadinép: hatszázhetvenötezer juh,"
       },
-      {
-        "verse": "33",
-        "text": "hetvenkétezer marha,"
-      },
-      {
-        "verse": "34",
-        "text": "hatvanegyezer szamár"
-      },
+      { "verse": "33", "text": "hetvenkétezer marha," },
+      { "verse": "34", "text": "hatvanegyezer szamár" },
       {
         "verse": "35",
         "text": "és harminckétezer ember: azok a nők, akik nem ismerték a férfival való hálást."
@@ -4568,18 +4343,9 @@
         "verse": "43",
         "text": "tehát a közösségre eső felerész ennyi volt: háromszázharminchétezer-ötszáz juh,"
       },
-      {
-        "verse": "44",
-        "text": "harminchatezer marha,"
-      },
-      {
-        "verse": "45",
-        "text": "harmincezer-ötszáz szamár"
-      },
-      {
-        "verse": "46",
-        "text": "és tizenhatezer ember."
-      },
+      { "verse": "44", "text": "harminchatezer marha," },
+      { "verse": "45", "text": "harmincezer-ötszáz szamár" },
+      { "verse": "46", "text": "és tizenhatezer ember." },
       {
         "verse": "47",
         "text": "Az Izráel fiainak jutott felerészből elvett Mózes minden ötven emberből és állatból egyet, és odaadta azokat a lévitáknak, akik az  Úr hajlékánál végezték a tennivalóikat, ahogyan megparancsolta Mózesnek az  Úr."
@@ -4753,10 +4519,7 @@
         "verse": "34",
         "text": "Gád fiai fölépítették Díbónt, Atárótot és Aróért,"
       },
-      {
-        "verse": "35",
-        "text": "Atrót-Sófánt, Jazért és Jogbohát,"
-      },
+      { "verse": "35", "text": "Atrót-Sófánt, Jazért és Jogbohát," },
       {
         "verse": "36",
         "text": "Bét-Nimrát és Bét-Háránt, ezeket a megerősített városokat és a juhok aklait."
@@ -5019,10 +4782,7 @@
   {
     "chapter": 34,
     "verses": [
-      {
-        "verse": "1",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "1", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "2",
         "text": "Parancsold meg Izráel fiainak, és mondd meg nekik: Ha majd bementek Kánaán földjére, az a föld, Kánaán földje jut nektek örökségül a következő határok szerint:"
@@ -5079,10 +4839,7 @@
         "verse": "15",
         "text": "Ez a két és fél törzs a Jordánon innen, keleten, Jerikóval szemben kapta meg örökségét."
       },
-      {
-        "verse": "16",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "16", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "17",
         "text": "Név szerint ezek legyenek azok a férfiak, akik felosztják közöttetek örökségül az országot: Eleázár pap és Józsué, Nún fia."
@@ -5099,10 +4856,7 @@
         "verse": "20",
         "text": "Simeon fiainak törzséből Semúél, Ammíhúd fia."
       },
-      {
-        "verse": "21",
-        "text": "Benjámin törzséből Elídád, Kiszlón fia."
-      },
+      { "verse": "21", "text": "Benjámin törzséből Elídád, Kiszlón fia." },
       {
         "verse": "22",
         "text": "Dán fiainak a törzséből Bukkí fejedelem, Joglí fia."
@@ -5172,10 +4926,7 @@
         "verse": "8",
         "text": "Úgy adjátok ki Izráel fiainak birtokából ezeket a városokat, hogy akinek több jutott, attól többet, akinek kevesebb, attól kevesebbet vegyetek el. Mindegyik törzs aszerint adjon városaiból a lévitáknak, hogy milyen nagy a neki kiosztott örökség."
       },
-      {
-        "verse": "9",
-        "text": "Azután így beszélt Mózeshez az  Úr:"
-      },
+      { "verse": "9", "text": "Azután így beszélt Mózeshez az  Úr:" },
       {
         "verse": "10",
         "text": "Szólj Izráel fiaihoz, és mondd meg nekik: Amikor átkeltek a Jordánon Kánaán földjére,"

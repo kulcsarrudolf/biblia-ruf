@@ -1,0 +1,3631 @@
+[
+  {
+    "chapter": 1,
+    "verses": [
+      { "verse": "1", "text": "Ádám, Sét, Enós," },
+      { "verse": "2", "text": "Kénán, Mahalalél, Jered," },
+      { "verse": "3", "text": "Énók, Metúselah, Lámek," },
+      { "verse": "4", "text": "Nóé, Sém, Hám és Jáfet." },
+      {
+        "verse": "5",
+        "text": "Jáfet fiai voltak: Gómer, Mágóg, Mádaj, Jáván, Túbal, Mesek és Tírász."
+      },
+      { "verse": "6", "text": "Gómer fiai voltak: Askenáz, Rífat és Tógarmá." },
+      {
+        "verse": "7",
+        "text": "Jáván fiai voltak: Elísá, Tarsís, Kittím és Dódáním."
+      },
+      {
+        "verse": "8",
+        "text": "Hám fiai voltak: Kús, Micrajim, Pút és Kánaán."
+      },
+      {
+        "verse": "9",
+        "text": "Kús fiai voltak: Szebá, Havílá, Szabtá, Ramá és Szabteká. Ramá fiai voltak: Sába és Dedán."
+      },
+      {
+        "verse": "10",
+        "text": "Kús nemzette Nimródot. Ez kezdett hatalmaskodni a földön."
+      },
+      {
+        "verse": "11",
+        "text": "Micrajim nemzette a lúdiakat, az anámiakat, a lehábiakat és a naftúhiakat,"
+      },
+      {
+        "verse": "12",
+        "text": "a patrósziakat és a kaszlúhiakat. Innen származtak a filiszteusok és a kaftóriak."
+      },
+      {
+        "verse": "13",
+        "text": "Kánaán nemzette elsőszülöttjét, Szidónt, azután Hétet"
+      },
+      {
+        "verse": "14",
+        "text": "meg a jebúsziakat, az emóriakat, a girgásiakat,"
+      },
+      { "verse": "15", "text": "a hivvieket, az arkiakat és a színieket," },
+      { "verse": "16", "text": "az arvadiakat, a cemáriakat és a hamátiakat." },
+      {
+        "verse": "17",
+        "text": "Sém fiai voltak: Élám, Assúr, Arpaksad, Lúd, Arám, Úc, Húl, Geter és Mesek."
+      },
+      {
+        "verse": "18",
+        "text": "Arpaksad nemzette Selahot, és Selah nemzette Hébert."
+      },
+      {
+        "verse": "19",
+        "text": "Hébernek is született két fia: az egyiknek Peleg volt a neve, mivel az ő idejében váltak szét a föld népei. Testvérének Joktán volt a neve."
+      },
+      {
+        "verse": "20",
+        "text": "Joktán nemzette Almódádot, Selefet, Hacarmávetet és Jerahot,"
+      },
+      { "verse": "21", "text": "Hadórámot, Úzált és Diklát," },
+      { "verse": "22", "text": "Ébált, Abímáélt és Sábát," },
+      {
+        "verse": "23",
+        "text": "Ófírt, Havílát és Jóbábot. Ezek mind Joktán fiai voltak."
+      },
+      { "verse": "24", "text": "Sém, Arpaksad, Selah," },
+      { "verse": "25", "text": "Héber, Peleg, Reú," },
+      { "verse": "26", "text": "Szerúg, Náhór, Táré," },
+      { "verse": "27", "text": "Abrám, azaz Ábrahám." },
+      { "verse": "28", "text": "Ábrahám fiai Izsák és Izmael voltak." },
+      {
+        "verse": "29",
+        "text": "Ezek a leszármazottaik: Izmael elsőszülöttje Nebájót, azután következett Kédár, Abdeél és Mibszám,"
+      },
+      { "verse": "30", "text": "továbbá Mismá, Dúmá, Masszá és Hadad, Témá," },
+      {
+        "verse": "31",
+        "text": "Jetúr, Náfís és Kédmá. Ezek voltak Izmael fiai."
+      },
+      {
+        "verse": "32",
+        "text": "Ketúrának, Ábrahám másodfeleségének a fiai ezek voltak: ő szülte Zimránt, Joksánt, Medánt, Midjánt, Jisbákot és Súahot. Joksán fiai voltak Sába és Dedán."
+      },
+      {
+        "verse": "33",
+        "text": "Midján fiai pedig: Éfá, Éfer, Hanók, Abídá és Eldáá. Ezek mind Ketúrá leszármazottai."
+      },
+      {
+        "verse": "34",
+        "text": "Ábrahám nemzette Izsákot. Izsák fiai Ézsau és Izráel voltak."
+      },
+      {
+        "verse": "35",
+        "text": "Ézsau fiai voltak: Elífáz, Reúél, Jeús, Jalám és Kórah."
+      },
+      {
+        "verse": "36",
+        "text": "Elífáz fiai voltak: Témán, Ómár, Cefí, Gatám, Kenaz, Timnától pedig Amálék."
+      },
+      {
+        "verse": "37",
+        "text": "Reúél fiai voltak: Nahat, Zerah, Sammá és Mizzá."
+      },
+      {
+        "verse": "38",
+        "text": "Széír fiai voltak: Lótán és Sóbál, Cibón és Aná, Dísón, Écer és Dísán."
+      },
+      {
+        "verse": "39",
+        "text": "Lótán fiai: Hórí és Hómám, Lótánnak a húga pedig Timna."
+      },
+      {
+        "verse": "40",
+        "text": "Sóbál fiai voltak: Alján, Mánahat, Ébál, Sefí és Ónám. Cibón fiai voltak: Ajjá és Aná."
+      },
+      {
+        "verse": "41",
+        "text": "Aná fia volt Dísón, Dísón fiai voltak: Hamrán, Esbán, Jitrán és Kerán."
+      },
+      {
+        "verse": "42",
+        "text": "Écer fiai voltak: Bilhán, Zaaván és Jaakán. Dísón fia volt Úc és Arán is."
+      },
+      {
+        "verse": "43",
+        "text": "Ezek a királyok uralkodtak Edómban, mielőtt Izráel fiainak királyuk lett volna: Bela, Beór fia, városának a neve Dinhábá volt."
+      },
+      {
+        "verse": "44",
+        "text": "Bela halála után a bocrai Jóbáb, Zerah fia lett a király."
+      },
+      {
+        "verse": "45",
+        "text": "Jóbáb halála után a Témán földjéről való Húsám lett a király."
+      },
+      {
+        "verse": "46",
+        "text": "Húsám halála után Hadad, Bedad fia lett a király, aki megverte a midjániakat Móáb mezején. Városának a neve Avít volt."
+      },
+      {
+        "verse": "47",
+        "text": "Hadad halála után a maszrékai Szamlá lett a király."
+      },
+      {
+        "verse": "48",
+        "text": "Szamlá halála után a rehóbót-hannáhári Saul lett a király."
+      },
+      {
+        "verse": "49",
+        "text": "Saul halála után Baal-Hánán, Akbór fia lett a király."
+      },
+      {
+        "verse": "50",
+        "text": "Baal-Hánán halála után Hadad lett a király. Városának a neve Páí volt, feleségének a neve Mehétabél, aki Mézáháb leányának, Matrédnak a leánya volt."
+      },
+      {
+        "verse": "51",
+        "text": "Hadad halála után ezek lettek Edóm nemzetségfői: Timmá nemzetségfő, Aljá nemzetségfő, Jetét nemzetségfő,"
+      },
+      {
+        "verse": "52",
+        "text": "Oholíbámá nemzetségfő, Élá nemzetségfő, Pínón nemzetségfő,"
+      },
+      {
+        "verse": "53",
+        "text": "Kenaz nemzetségfő, Témán nemzetségfő, Mibcár nemzetségfő,"
+      },
+      {
+        "verse": "54",
+        "text": "Magdíél nemzetségfő és Írám nemzetségfő. Ezek voltak Edóm nemzetségfői."
+      }
+    ]
+  },
+  {
+    "chapter": 2,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Ezek voltak Izráel fiai: Rúben, Simeon, Lévi és Júda, Issakár és Zebulon,"
+      },
+      {
+        "verse": "2",
+        "text": "Dán, József és Benjámin, Naftáli, Gád és Ásér."
+      },
+      {
+        "verse": "3",
+        "text": "Júda fiai voltak: Ér, Ónán és Sélá. Ez a három a kánaáni Súa leányától született neki. De Ért, Júda elsőszülött fiát az  Úr gonosznak tartotta, ezért megölte."
+      },
+      {
+        "verse": "4",
+        "text": "A menye, Támár szülte neki Pérecet és Zerahot. Júdának összesen öt fia volt."
+      },
+      { "verse": "5", "text": "Pérec fiai voltak: Hecrón és Hámúl." },
+      {
+        "verse": "6",
+        "text": "Zerah fiai voltak: Zimrí, Étán, Hémán, Kalkól és Dára, összesen öten."
+      },
+      {
+        "verse": "7",
+        "text": "Karmí fia volt Ákán, aki szerencsétlenséget hozott Izráelre, mivel hűtlenül bánt a kiirtásra rendelt dolgokkal."
+      },
+      { "verse": "8", "text": "Étán fia volt: Azarjá." },
+      {
+        "verse": "9",
+        "text": "Hecrónnak ezek a fiai születtek: Jerahmeél, Rám és Kelúbaj."
+      },
+      {
+        "verse": "10",
+        "text": "Rám nemzette Ammínádábot, Ammínádáb nemzette Nahsónt, Júda fiainak a fejedelmét."
+      },
+      {
+        "verse": "11",
+        "text": "Nahsón nemzette Szalmát, Szalmá nemzette Bóázt,"
+      },
+      {
+        "verse": "12",
+        "text": "Bóáz nemzette Óbédot, Óbéd pedig nemzette Isait."
+      },
+      {
+        "verse": "13",
+        "text": "Isai nemzette elsőszülöttjeként Elíábot, másodikként Abínádábot, harmadikként Simát,"
+      },
+      { "verse": "14", "text": "negyedikként Netanélt, ötödikként Raddajt," },
+      { "verse": "15", "text": "hatodikként Ócemet, hetedikként Dávidot" },
+      {
+        "verse": "16",
+        "text": "és nővéreiket: Cerúját és Abígajilt. Cerújá fiai voltak: Abísaj, Jóáb és Aszáél, ezek hárman."
+      },
+      {
+        "verse": "17",
+        "text": "Abígajil szülte Amászát, Amászának az apja pedig az izmaeli Jeter volt."
+      },
+      {
+        "verse": "18",
+        "text": "Kálébnak, Hecrón fiának a feleségétől, Azúbától és Jeríóttól ezek a fiai születtek: Jéser, Sóbáb és Ardón."
+      },
+      {
+        "verse": "19",
+        "text": "Azúbá halála után Káléb elvette Efrátot, aki Húrt szülte neki."
+      },
+      { "verse": "20", "text": "Húr nemzette Úrít, Úrí nemzette Becalélt." },
+      {
+        "verse": "21",
+        "text": "Azután bement Hecrón hatvanéves korában Mákírnak, Gileád apjának a leányához, feleségül vette, és ő szülte neki Szegúbot."
+      },
+      {
+        "verse": "22",
+        "text": "Szegúb nemzette Jáírt, akinek huszonhárom városa volt Gileád földjén."
+      },
+      {
+        "verse": "23",
+        "text": "De Gesúr és Arám elvette Jáír sátorfalvait, Kenátot és falvait, hatvan várost. Ezek mind Gileád apjának, Mákírnak a fiaié voltak."
+      },
+      {
+        "verse": "24",
+        "text": "Hecrón halála után Káléb Efrátába ment. Hecrón felesége volt Abijjá is. Ő szülte neki Ashúrt, Tekóa atyját."
+      },
+      {
+        "verse": "25",
+        "text": "Jerahmeélnek, Hecrón elsőszülöttjének a fiai voltak: Rám, az elsőszülött, továbbá Búná, Óren, Ócem Ahijjától."
+      },
+      {
+        "verse": "26",
+        "text": "Jerahmeélnek volt egy másik felesége is, név szerint Atárá. Ő volt Ónám anyja."
+      },
+      {
+        "verse": "27",
+        "text": "Rámnak, Jerahmeél elsőszülöttjének a fiai voltak: Maac, Jámín és Éker."
+      },
+      {
+        "verse": "28",
+        "text": "Ónám fiai voltak: Sammaj és Jádá. Sammaj fiai voltak: Nádáb és Abísúr."
+      },
+      {
+        "verse": "29",
+        "text": "Abísúr feleségének a neve Abíhajil volt. Ő szülte neki Ahbánt és Mólídot."
+      },
+      {
+        "verse": "30",
+        "text": "Nádáb fiai voltak: Szeled és Appajim. Szeled gyermektelenül halt meg."
+      },
+      {
+        "verse": "31",
+        "text": "Appajim fia: Jisí. Jisí fia: Sésán. Sésán fia: Ahlaj."
+      },
+      {
+        "verse": "32",
+        "text": "Jádának, Sammaj testvérének a fiai: Jeter és Jónátán. Jeter gyermektelenül halt meg."
+      },
+      {
+        "verse": "33",
+        "text": "Jónátán fiai: Pelet és Zázá. Ezek voltak Jerahmeél fiai."
+      },
+      {
+        "verse": "34",
+        "text": "Sésánnak nem voltak fiai, csak leányai. De volt Sésánnak egy Jarhá nevű egyiptomi szolgája."
+      },
+      {
+        "verse": "35",
+        "text": "Sésán ennek a szolgának, Jarhának adta feleségül a leányát, aki Attajt szülte neki."
+      },
+      {
+        "verse": "36",
+        "text": "Attaj nemzette Nátánt, és Nátán nemzette Zábádot."
+      },
+      {
+        "verse": "37",
+        "text": "Zábád nemzette Eflált, és Eflál nemzette Óbédot."
+      },
+      {
+        "verse": "38",
+        "text": "Óbéd nemzette Jéhút, és Jéhú nemzette Azarját."
+      },
+      {
+        "verse": "39",
+        "text": "Azarjá nemzette Helecet, és Helec nemzette Elászát."
+      },
+      {
+        "verse": "40",
+        "text": "Elászá nemzette Sziszmajt, és Sziszmaj nemzette Sallúmot."
+      },
+      {
+        "verse": "41",
+        "text": "Sallúm nemzette Jekamját, és Jekamjá nemzette Elísámát."
+      },
+      {
+        "verse": "42",
+        "text": "Kálébnak, Jerahmeél testvérének a fiai: Mésá, az elsőszülöttje, aki Zífnek volt az atyja; továbbá Márésának, Hebrón atyjának a fiai."
+      },
+      {
+        "verse": "43",
+        "text": "Hebrón fiai voltak: Kórah, Tappúah, Rekem és Sema."
+      },
+      {
+        "verse": "44",
+        "text": "Sema nemzette Rahamot, Jorkoám apját. Rekem nemzette Sammajt."
+      },
+      {
+        "verse": "45",
+        "text": "Sammaj fia Máón volt. Máón volt Bétcúr atyja."
+      },
+      {
+        "verse": "46",
+        "text": "Éfá, Káléb másodfelesége szülte Háránt, Mócát és Gázézt, és Hárán nemzette Gázézt."
+      },
+      {
+        "verse": "47",
+        "text": "Johdaj fiai voltak: Regem, Jótám és Gésán, Pelet, Éfá és Saaf."
+      },
+      {
+        "verse": "48",
+        "text": "Káléb másodfelesége, Maaká szülte Sebert és Tirhanát."
+      },
+      {
+        "verse": "49",
+        "text": "Ő szülte még Saafot, Madmanná atyját, Sevát, Makbéná atyját és Gibá atyját. Káléb leánya Akszá volt."
+      },
+      {
+        "verse": "50",
+        "text": "Ezek voltak Káléb fiai: Ben-Húr, Efrátá elsőszülöttje, Sóbál, Kirjat-Jeárím atyja,"
+      },
+      {
+        "verse": "51",
+        "text": "Szalmá, Betlehem atyja, Háréf, Bét-Gádér atyja."
+      },
+      {
+        "verse": "52",
+        "text": "Sóbálnak, Kirjat-Jeárím atyjának a fiai voltak: Reájá és a mánahatiak fele,"
+      },
+      {
+        "verse": "53",
+        "text": "továbbá Kirjat-Jeárím nemzetségei: a jitriek, a pútiak, a sumátiak és a misráiak. Ezektől származtak a córiak és az estáuliak."
+      },
+      {
+        "verse": "54",
+        "text": "Szalmá fiai voltak: Betlehem és a netófáiak, Atrót-Bét-Jóáb, valamint a mánahatiak másik fele: azok, akik nem córiak."
+      },
+      {
+        "verse": "55",
+        "text": "A Jabécban lakó írástudók nemzetségei voltak a tirátiak, a simátiak és a szúkátiak. Ezek voltak a kéniek, akik Hammattól, Bét-Rékáb atyjától származtak."
+      }
+    ]
+  },
+  {
+    "chapter": 3,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Ezek voltak Dávid fiai, akik Hebrónban születtek: Amnón volt az elsőszülött, a jezréeli Ahínóamtól; Dániel a második, a karmeli Abígajiltól;"
+      },
+      {
+        "verse": "2",
+        "text": "Absolon a harmadik, Maaká fia, aki Talmajnak, Gesúr királyának a leánya volt; Adónijjá a negyedik, Haggít fia;"
+      },
+      {
+        "verse": "3",
+        "text": "Sefatjá az ötödik, Abítáltól; Jitreám a hatodik, Eglá nevű feleségétől."
+      },
+      {
+        "verse": "4",
+        "text": "Hatan születtek Hebrónban, ahol hét esztendeig és hat hónapig uralkodott. Jeruzsálemben pedig harminchárom esztendeig uralkodott."
+      },
+      {
+        "verse": "5",
+        "text": "Jeruzsálemben ez a négy született Batsúától, Ammíél leányától: Simá, Sóbáb, Nátán és Salamon."
+      },
+      {
+        "verse": "6",
+        "text": "Rajtuk kívül ez a kilenc: Jibhár, Elísámá és Elífelet,"
+      },
+      { "verse": "7", "text": "Nógah, Nefeg és Jáfía," },
+      { "verse": "8", "text": "továbbá Elísámá, Eljádá és Elífelet." },
+      {
+        "verse": "9",
+        "text": "Ezek mind Dávid fiai voltak, másodfeleségeinek a fiain és a nővérükön, Támáron kívül."
+      },
+      {
+        "verse": "10",
+        "text": "Salamon fia volt Roboám, ennek a fia Abijjá, ennek a fia Ászá, ennek a fia Jósáfát,"
+      },
+      {
+        "verse": "11",
+        "text": "ennek a fia Jórám, ennek a fia Ahazjá, ennek a fia Jóás,"
+      },
+      {
+        "verse": "12",
+        "text": "ennek a fia Amacjá, ennek a fia Azarjá, ennek a fia Jótám,"
+      },
+      {
+        "verse": "13",
+        "text": "ennek a fia Áház, ennek a fia Ezékiás, ennek a fia Manassé,"
+      },
+      { "verse": "14", "text": "ennek a fia Ámón, ennek a fia Jósiás." },
+      {
+        "verse": "15",
+        "text": "Jósiás fiai ezek voltak: Jóhánán volt az elsőszülött, Jójákím a második, Cidkijjá a harmadik, Sallúm a negyedik."
+      },
+      { "verse": "16", "text": "Jójákím fia volt Jekonjá és Cidkijjá." },
+      {
+        "verse": "17",
+        "text": "Jekonjá fia volt Asszír, ennek a fia Sealtíél,"
+      },
+      {
+        "verse": "18",
+        "text": "Malkírám, Pedájá, Senaccar, Jekamjá, Hósámá és Nedabjá."
+      },
+      {
+        "verse": "19",
+        "text": "Pedájá fia volt Zerubbábel és Simí. Zerubbábel fiai voltak Mesullám és Hananjá, az ő nővérük volt Selómít."
+      },
+      {
+        "verse": "20",
+        "text": "Rajtuk kívül ez az öt: Hasubá, Óhel, Berekjá, Haszadjá és Júsab-Heszed."
+      },
+      {
+        "verse": "21",
+        "text": "Hananjá fia volt Pelatjá és Jesajá, az ő fia volt Refájá, Arnán, Óbadjá és Sekanjá is."
+      },
+      {
+        "verse": "22",
+        "text": "Sekanjá utódai hatan voltak: Semajá és Semajá fiai: Hattús, Jigál, Báríah, Nearjá és Sáfát."
+      },
+      {
+        "verse": "23",
+        "text": "Nearjának három fia volt: Eljóénaj, Hizkijjá és Azríkám."
+      },
+      {
+        "verse": "24",
+        "text": "Eljóénajnak hét fia volt: Hódavjá, Eljásíb, Pelájá, Akkúb, Jóhánán, Delájá és Anání."
+      }
+    ]
+  },
+  {
+    "chapter": 4,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Júda fiai voltak: Pérec, Hecrón, Karmí, Húr és Sóbál."
+      },
+      {
+        "verse": "2",
+        "text": "Sóbál fia, Reájá nemzette Jahatot, Jahat nemzette Ahúmajt és Lahadot. Ezek a córiak nemzetségei."
+      },
+      {
+        "verse": "3",
+        "text": "Ezeknek volt Étám az apja: Jizreel, Jismá és Jidbás; nővérük neve Haclelpóní volt."
+      },
+      {
+        "verse": "4",
+        "text": "Penúél Gedór apja, Ézer pedig Húsá apja volt. Ezek Húrnak, Efrátá elsőszülöttjének, Betlehem apjának a fiai."
+      },
+      {
+        "verse": "5",
+        "text": "Ashúrnak, Tekóa atyjának két felesége volt: Helá és Naará."
+      },
+      {
+        "verse": "6",
+        "text": "Naará szülte neki Ahuzzámot, Héfert, Témenít és az ahastáriakat. Ezek voltak Naará fiai."
+      },
+      { "verse": "7", "text": "Helá fiai voltak: Ceret, Jecóhar és Etnán." },
+      {
+        "verse": "8",
+        "text": "Kóc nemzette Ánúbot, Haccóbébát és Aharhélnak, Hárúm fiának a nemzetségeit."
+      },
+      {
+        "verse": "9",
+        "text": "Jabéc tekintélyesebb volt testvéreinél. Anyja nevezte el Jabécnak, mert ezt mondta: Bizony fájdalommal szültem őt!"
+      },
+      {
+        "verse": "10",
+        "text": "Jabéc segítségül hívta Izráel Istenét, és ezt mondta: Bárcsak nagyon megáldanál engem, és kiszélesítenéd határomat, velem lennél, és megoltalmaznál a bajtól, hogy ne érjen fájdalom! És megadta neki Isten, amit kért."
+      },
+      {
+        "verse": "11",
+        "text": "Kelúb, Súhá testvére nemzette Mehírt. Ő Estón apja."
+      },
+      {
+        "verse": "12",
+        "text": "Estón nemzette Bét-Ráfát, Pászéahot és Tehinnát, Ír-Náhás atyját. Ezek a rékaiak."
+      },
+      {
+        "verse": "13",
+        "text": "Kenaz fiai Otníél és Szerájá voltak. Otníél fia Hatat volt."
+      },
+      {
+        "verse": "14",
+        "text": "Meónótaj nemzette Ofrát, Szerájá nemzette Jóábot, a gé-harásímbeliek atyját, akik mesteremberek voltak."
+      },
+      {
+        "verse": "15",
+        "text": "Kálébnak, Jefunne fiának a fiai voltak: Írú, Élá és Naam. Élá fia volt Kenaz."
+      },
+      {
+        "verse": "16",
+        "text": "Jehallelél fiai voltak: Zíf, Zífá, Tírjá és Aszarél."
+      },
+      {
+        "verse": "17",
+        "text": "Ezrá fiai voltak: Jeter, Mered, Éfer és Jálón. Ennek a felesége lett terhes Mirjámmal, majd Sammajjal és Jisbáhhal, Estemóa atyjával."
+      },
+      {
+        "verse": "18",
+        "text": "Ennek a júdai felesége szülte Jeredet, Gedór atyját, Hébert, Szókó atyját és Jekútíélt, Zánóah atyját. Mindezek Bitjának, a fáraó leányának az utódai, akit még Mered vett feleségül."
+      },
+      {
+        "verse": "19",
+        "text": "Hódijjá feleségének, Naham nővérének a fiai voltak: a geremi Keílá atyja és a maakái Estemóa."
+      },
+      {
+        "verse": "20",
+        "text": "Simon fiai voltak: Amnón, Rinná, Ben-Hánán és Tílón. Jisí fia volt Zóhét és Ben-Zóhét."
+      },
+      {
+        "verse": "21",
+        "text": "Júda fiának, Sélának a fiai voltak: Ér, Léká atyja, Ladá, Márésá atyja és a takácsok házának a nemzetségei Bét-Asbéában,"
+      },
+      {
+        "verse": "22",
+        "text": "azután Jókím meg a kózébáiak, Jóás és Száráf, akik Móábból házasodtak, de visszatértek Betlehembe. Régi dolgok ezek!"
+      },
+      {
+        "verse": "23",
+        "text": "Ők voltak a fazekasok, Netáím és Gedérá lakói, akik a király mellett, az ő szolgálatában laktak ott."
+      },
+      {
+        "verse": "24",
+        "text": "Simeon fiai voltak: Nemúél, Jámín, Járíb, Zerah és Saul."
+      },
+      {
+        "verse": "25",
+        "text": "Ennek a fia Sallúm, ennek a fia Mibszám, ennek a fia Mismá volt."
+      },
+      {
+        "verse": "26",
+        "text": "Mismá utódai: az ő fia volt Hammúél, ennek a fia Zakkúr, ennek a fia Simí."
+      },
+      {
+        "verse": "27",
+        "text": "Simínek tizenhat fia és hat leánya volt, de testvéreinek nem sok fia volt, és egész nemzetségük nem volt olyan népes, mint Júda fiaié."
+      },
+      {
+        "verse": "28",
+        "text": "Ezek Beérsebában, Móládában és Hacar-Súálban laktak,"
+      },
+      { "verse": "29", "text": "továbbá Bilhában, Ecemben és Tóládban," },
+      { "verse": "30", "text": "Betúélban, Hormában és Ciklágban," },
+      {
+        "verse": "31",
+        "text": "Bét-Markábótban, Hacar-Szúszímban, Bét-Biríben és Saarajimban. Ezek voltak a városaik Dávid uralkodásának kezdetéig."
+      },
+      {
+        "verse": "32",
+        "text": "Településeik voltak: Étám és Ajin, Rimmón, Tóken és Ásán, ez az öt város"
+      },
+      {
+        "verse": "33",
+        "text": "és mindazok a települések, amelyek ezek körül a városok körül voltak Baalig. Ezek voltak a lakóhelyeik, és volt nekik származási jegyzékük is."
+      },
+      { "verse": "34", "text": "Mesóbáb, Jamlék és Jósá, Amacjá fia," },
+      {
+        "verse": "35",
+        "text": "Jóél és Jéhú, Jósibjá fia, aki Szerájá fia, Aszíél unokája volt,"
+      },
+      {
+        "verse": "36",
+        "text": "Eljóénaj, Jaakóbá, Jesóhájá, Aszájá, Adíél, Jeszímiél, Benájá"
+      },
+      {
+        "verse": "37",
+        "text": "és Zízá, Sifí fia, aki Allón fia, aki Jedájá fia, aki Simrí fia, aki Semajá fia volt:"
+      },
+      {
+        "verse": "38",
+        "text": "ezek a név szerint említettek fejedelmek voltak, akiknek a nemzetségei igen megszaporodtak."
+      },
+      {
+        "verse": "39",
+        "text": "Ezért elmentek Gedór felé, a völgy keleti részéig, hogy ott keressenek nyájaiknak legelőt."
+      },
+      {
+        "verse": "40",
+        "text": "Találtak is kövér és jó legelőt. Az a föld pedig tágas, nyugalmas és csendes volt. Azelőtt hámiak laktak ott,"
+      },
+      {
+        "verse": "41",
+        "text": "de Ezékiásnak, Júda királyának az idejében eljöttek ezek a név szerint följegyzettek, szétverték azoknak a sátrait, és kiirtották a meúniakat, akiket ott találtak. Így van ez ma is. A helyükre telepedtek, mert ott találtak nyájaiknak legelőt."
+      },
+      {
+        "verse": "42",
+        "text": "És közülük, Simeon fiai közül ötszáz ember elment a Széír-hegységbe, Jisí fiainak, Pelatjának, Nearjának, Refájának és Uzzíélnek a vezetésével."
+      },
+      {
+        "verse": "43",
+        "text": "Levágták Amálék menekültjeinek a maradékát, és ott laknak a mai napig is."
+      }
+    ]
+  },
+  {
+    "chapter": 5,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Rúbennek, Izráel elsőszülöttjének a fiai. Ő volt az elsőszülött, de mivel bemocskolta apja ágyát, elsőszülöttségi joga Izráel fiának, Józsefnek a fiaira szállt. Mégsem vezették át József elsőszülöttségét a származási jegyzékbe,"
+      },
+      {
+        "verse": "2",
+        "text": "mert Júda hatalmasabb volt testvéreinél, és a fejedelem is belőle származott, bár az elsőszülöttségi jog Józsefet illette."
+      },
+      {
+        "verse": "3",
+        "text": "Rúbennek, Izráel elsőszülöttjének a fiai voltak: Hanók, Pallú, Hecrón és Karmí."
+      },
+      {
+        "verse": "4",
+        "text": "Jóél utódai: az ő fia volt Semajá, ennek a fia Góg, ennek a fia Simí,"
+      },
+      {
+        "verse": "5",
+        "text": "ennek a fia Míká, ennek a fia Reájá, ennek a fia Baal,"
+      },
+      {
+        "verse": "6",
+        "text": "ennek a fia Beérá, akit fogságba vitt Tiglat-Pileszer asszír király. Beérá volt a rúbeniek fejedelme."
+      },
+      {
+        "verse": "7",
+        "text": "Ezek voltak a testvérei nemzetségük szerint, akiket származásuk szerint jegyzékbe vettek: Jeíél nemzetségfő és Zekarjá"
+      },
+      {
+        "verse": "8",
+        "text": "meg Bela, Ázáz fia, aki Sema fia, aki Jóél fia volt. Lakóhelye Aróérban volt egészen Nebóig és Baal-Meónig,"
+      },
+      {
+        "verse": "9",
+        "text": "kelet felé pedig az Eufrátesz folyamig elnyúló puszta széléig terjeszkedett, mert megszaporodott a jószáguk Gileád földjén."
+      },
+      {
+        "verse": "10",
+        "text": "Saul idejében háborút indítottak a hagriak ellen; kiirtották őket, majd a sátraikban laktak Gileád egész keleti vidékén."
+      },
+      {
+        "verse": "11",
+        "text": "Gád fiai velük szemben laktak Básán földjén Szalkáig."
+      },
+      {
+        "verse": "12",
+        "text": "Jóél volt a nemzetségfő, Sáfám a helyettese; Janaj és Sáfát is Básánban lakott."
+      },
+      {
+        "verse": "13",
+        "text": "Testvéreik családonként ezek voltak: Míkáél, Mesullám, Seba, Jóraj, Jakán, Zía és Héber, összesen heten."
+      },
+      {
+        "verse": "14",
+        "text": "Ezek Abíhajil fiai, aki Húrí fia, aki Járóah fia, aki Gileád fia, aki Míkáél fia, aki Jesísaj fia, aki Jahdó fia, aki Búz fia volt."
+      },
+      {
+        "verse": "15",
+        "text": "Ahí, Abdíél fia, Gúní unokája volt a család nemzetségfője."
+      },
+      {
+        "verse": "16",
+        "text": "Ők lakták Gileádot, a Básánt és az ottani falvakat, továbbá a Sárónt összes legelőjével együtt, egyik végétől a másikig."
+      },
+      {
+        "verse": "17",
+        "text": "Mindezeket felvették a származási jegyzékbe Jótámnak, Júda királyának és Jeroboámnak, Izráel királyának az idejében."
+      },
+      {
+        "verse": "18",
+        "text": "Rúben fiai, a gádiak és Manassé törzsének az egyik fele – csupa vitéz, karddal-pajzzsal fölszerelt gyalogos vagy íjász, képzett harcos, negyvennégyezer-hétszázhatvan hadköteles –"
+      },
+      {
+        "verse": "19",
+        "text": "háborút indított a hagriak ellen, Jetúr, Náfís és Nódáb ellen."
+      },
+      {
+        "verse": "20",
+        "text": "Segítséget kaptak velük szemben, és hatalmukba kerültek a hagriak és mindazok, akik velük tartottak, mert Istenhez kiáltottak segítségért a harcban, ő pedig meghallgatta kérésüket, mert bíztak benne."
+      },
+      {
+        "verse": "21",
+        "text": "Jószágukat is elhajtották: ötvenezer tevét, kétszázötvenezer juhot, kétezer szamarat, valamint százezer embert."
+      },
+      {
+        "verse": "22",
+        "text": "Sokan estek el halálra sebzetten, mert Istentől volt ez a harc. Az ő helyükön laktak a fogságig."
+      },
+      {
+        "verse": "23",
+        "text": "Manassé törzsének egyik fele azon a földön telepedett le, amely Básántól Baal-Hermónig, Szenírig és a Hermón-hegységig terjed. Ezek igen megsokasodtak."
+      },
+      {
+        "verse": "24",
+        "text": "Családjaik nemzetségfői ezek voltak: Éfer, Jisí, Elíél, Azríél, Jirmejá, Hódavjá és Jahdíél, vitéz férfiak, híres emberek, családjaik nemzetségfői."
+      },
+      {
+        "verse": "25",
+        "text": "De hűtlenné váltak őseik Istenéhez, mert azoknak a népeknek az isteneivel paráználkodtak, amelyeket Isten kipusztított előlük az országból."
+      },
+      {
+        "verse": "26",
+        "text": "Ezért arra indította Izráel Istene Púl asszír királynak és Tiglat-Pileszer asszír királynak a lelkét, hogy fogságba vigye a rúbenieket, a gádiakat és Manassé törzse felét. Elvitte őket Halahba és a Hábór mellé, Hárába és Gózán folyója mellé. Ott vannak még ma is."
+      },
+      { "verse": "27", "text": "Lévi fiai Gérsón, Kehát és Merárí voltak." },
+      {
+        "verse": "28",
+        "text": "Kehát fiai voltak: Amrám, Jichár, Hebrón és Uzzíél."
+      },
+      {
+        "verse": "29",
+        "text": "Amrám gyermekei Áron, Mózes és Mirjám, Áron fiai pedig Nádáb, Abíhú, Eleázár és Ítámár voltak."
+      },
+      {
+        "verse": "30",
+        "text": "Eleázár nemzette Fineást, Fineás nemzette Abísúát,"
+      },
+      {
+        "verse": "31",
+        "text": "Abísúa nemzette Bukkít, Bukkí nemzette Uzzít,"
+      },
+      {
+        "verse": "32",
+        "text": "Uzzí nemzette Zerahját, Zerahjá nemzette Merájótot,"
+      },
+      {
+        "verse": "33",
+        "text": "Merájót nemzette Amarját, Amarjá nemzette Ahítúbot,"
+      },
+      {
+        "verse": "34",
+        "text": "Ahítúb nemzette Cádókot, Cádók nemzette Ahímaacot,"
+      },
+      {
+        "verse": "35",
+        "text": "Ahímaac nemzette Azarját, Azarjá nemzette Jóhánánt,"
+      },
+      {
+        "verse": "36",
+        "text": "Jóhánán nemzette Azarját; ő már abban a templomban végezte a papi szolgálatot, amelyet Salamon épített Jeruzsálemben."
+      },
+      {
+        "verse": "37",
+        "text": "Azarjá nemzette Amarját, Amarjá nemzette Ahítúbot,"
+      },
+      {
+        "verse": "38",
+        "text": "Ahítúb nemzette Cádókot, Cádók nemzette Sallúmot,"
+      },
+      {
+        "verse": "39",
+        "text": "Sallúm nemzette Hilkijját, Hilkijjá nemzette Azarját,"
+      },
+      {
+        "verse": "40",
+        "text": "Azarjá nemzette Szeráját, Szerájá nemzette Jócádákot."
+      },
+      {
+        "verse": "41",
+        "text": "Amikor az  Úr Júdát és Jeruzsálemet Nebukadneccarral fogságba vitette, Jócádák is velük ment."
+      }
+    ]
+  },
+  {
+    "chapter": 6,
+    "verses": [
+      { "verse": "1", "text": "Lévi fiai Gérsón, Kehát és Merárí voltak." },
+      {
+        "verse": "2",
+        "text": "Név szerint ezek voltak Gérsón fiai: Libní és Simí."
+      },
+      {
+        "verse": "3",
+        "text": "Kehát fiai voltak: Amrám, Jichár, Hebrón és Uzzíél."
+      },
+      {
+        "verse": "4",
+        "text": "Merárí fiai Mahlí és Músí voltak. Ezek Lévi nemzetségei családjaik szerint."
+      },
+      {
+        "verse": "5",
+        "text": "Gérsón fia Libní, ennek a fia Jahat, ennek a fia Zimmá,"
+      },
+      {
+        "verse": "6",
+        "text": "ennek a fia Jóáh, ennek a fia Iddó, ennek a fia Zerah és ennek a fia Jeotraj."
+      },
+      {
+        "verse": "7",
+        "text": "Kehát utódai voltak: az ő fia Ammínádáb, ennek a fia Kórah, ennek a fia Asszír,"
+      },
+      {
+        "verse": "8",
+        "text": "ennek a fia Elkáná, ennek a fia Ebjászáf, ennek a fia pedig Asszír."
+      },
+      {
+        "verse": "9",
+        "text": "Ennek a fia Tahat, ennek a fia Úríél, ennek a fia Uzzijjá és ennek a fia Saul."
+      },
+      { "verse": "10", "text": "Elkáná fiai Amászaj és Ahímót voltak." },
+      {
+        "verse": "11",
+        "text": "Ennek a fia Elkáná, ennek a fia Cófaj, ennek a fia Nahat,"
+      },
+      {
+        "verse": "12",
+        "text": "ennek a fia Elíáb, ennek a fia Jeróhám, ennek a fia Elkáná, ennek a fia Sámuel."
+      },
+      {
+        "verse": "13",
+        "text": "Sámuel fiai: Jóél volt az elsőszülött, Abijjá a második."
+      },
+      {
+        "verse": "14",
+        "text": "Merárí utódai voltak: Mahlí, ennek a fia Libní, ennek a fia Simí, ennek a fia Uzzá,"
+      },
+      {
+        "verse": "15",
+        "text": "ennek a fia Simá, ennek a fia Haggijjá és ennek a fia Aszájá."
+      },
+      {
+        "verse": "16",
+        "text": "Ezeket bízta meg Dávid, hogy az  Úr házában vezessék az éneklést, miután elhelyezte ott a ládát."
+      },
+      {
+        "verse": "17",
+        "text": "Ők végezték az éneklés szolgálatát a kijelentés sátrának a hajléka előtt, amíg Salamon föl nem építette az  Úr házát Jeruzsálemben, szolgálatban állva a rájuk vonatkozó rendtartás szerint."
+      },
+      {
+        "verse": "18",
+        "text": "Ezek álltak szolgálatban fiaikkal együtt: a kehátiak fiai közül Hémán, az énekes, aki Jóél fia, aki Sámuel fia,"
+      },
+      {
+        "verse": "19",
+        "text": "aki Elkáná fia, aki Jeróhám fia, aki Elíél fia, aki Tóah fia,"
+      },
+      {
+        "verse": "20",
+        "text": "aki Cúf fia, aki Elkáná fia, aki Mahat fia, aki Amászaj fia,"
+      },
+      {
+        "verse": "21",
+        "text": "aki Elkáná fia, aki Jóél fia, aki Azarjá fia, aki Cefanjá fia,"
+      },
+      {
+        "verse": "22",
+        "text": "aki Tahat fia, aki Asszír fia, aki Ebjászáf fia, aki Kórah fia,"
+      },
+      {
+        "verse": "23",
+        "text": "aki Jichár fia, aki Kehát fia, aki Lévi fia, aki pedig Izráel fia volt."
+      },
+      {
+        "verse": "24",
+        "text": "Testvére, Ászáf állt a jobbján. Ászáf Berekjá fia volt, aki Simá fia,"
+      },
+      {
+        "verse": "25",
+        "text": "aki Míkáél fia, aki Baaszéjá fia, aki Malkijjá fia,"
+      },
+      { "verse": "26", "text": "aki Etní fia, aki Zerah fia, aki Adájá fia," },
+      { "verse": "27", "text": "aki Étán fia, aki Zimmá fia, aki Simí fia," },
+      {
+        "verse": "28",
+        "text": "aki Jahat fia, aki Gérsón fia, aki Lévi fia volt."
+      },
+      {
+        "verse": "29",
+        "text": "Testvéreik, Merárí fiai, bal felől voltak: Étán, Kísí fia, aki Abdí fia, aki Mallúk fia,"
+      },
+      {
+        "verse": "30",
+        "text": "aki Hasabjá fia, aki Amacjá fia, aki Hilkijjá fia,"
+      },
+      { "verse": "31", "text": "aki Amcí fia, aki Bání fia, aki Semer fia," },
+      {
+        "verse": "32",
+        "text": "aki Mahlí fia, aki Músí fia, aki Merárí fia, aki Lévi fia volt."
+      },
+      {
+        "verse": "33",
+        "text": "Testvéreikre, a lévitákra volt bízva mindenféle szolgálat az Isten házának hajlékánál."
+      },
+      {
+        "verse": "34",
+        "text": "Az áldozatokat azonban Áron és fiai mutatták be az égőáldozati és az illatáldozati oltáron, továbbá ők végeztek minden teendőt a szentek szentjében, és ők szereztek engesztelést Izráelnek – mindenben úgy, ahogyan Mózes, az Isten szolgája megparancsolta."
+      },
+      {
+        "verse": "35",
+        "text": "Áron utódai ezek voltak: Eleázár volt a fia, ennek a fia Fineás, ennek a fia Abísúa,"
+      },
+      {
+        "verse": "36",
+        "text": "ennek a fia Bukkí, ennek a fia Uzzí, ennek a fia Zerahjá,"
+      },
+      {
+        "verse": "37",
+        "text": "ennek a fia Merájót, ennek a fia Amarjá, ennek a fia Ahítúb,"
+      },
+      {
+        "verse": "38",
+        "text": "ennek a fia Cádók, és ennek a fia Ahímaac volt."
+      },
+      {
+        "verse": "39",
+        "text": "Ezek voltak a lakóhelyeik, a területükön levő sátortáborok: Áron fiai közül a kehátiak nemzetségének, mivel a sorsolás révén nekik jutott,"
+      },
+      {
+        "verse": "40",
+        "text": "odaadták Júda földjén Hebrónt a körülötte levő legelőkkel együtt."
+      },
+      {
+        "verse": "41",
+        "text": "De a város mezejét és falvait Kálébnak, Jefunne fiának adták."
+      },
+      {
+        "verse": "42",
+        "text": "Áron fiainak adták a menedékvárosokat: Hebrónt, Libnát és legelőit, Jattírt és Estemóát és legelőit,"
+      },
+      { "verse": "43", "text": "Hílézt és legelőit, Debírt és legelőit," },
+      { "verse": "44", "text": "Ásánt és legelőit, Bét-Semest és legelőit." },
+      {
+        "verse": "45",
+        "text": "Benjámin törzséből pedig Gebát és legelőit, Álemetet és legelőit, Anátótot és legelőit. Nemzetségeiknek összesen tizenhárom városuk volt."
+      },
+      {
+        "verse": "46",
+        "text": "Kehát többi fiának, akik a törzs nemzetségéből még hátra voltak, tíz város jutott sorsolás útján Efraim törzséből, Dán törzséből és Manassé törzsének a feléből."
+      },
+      {
+        "verse": "47",
+        "text": "Gérsón fiainak nemzetségeik szerint tizenhárom város jutott Issakár törzséből, Ásér törzséből, Naftáli törzséből és Manassé törzséből Básánban."
+      },
+      {
+        "verse": "48",
+        "text": "Merárí fiainak nemzetségeik szerint tizenkét város jutott sorsolás útján Rúben törzséből, Gád törzséből és Zebulon törzséből."
+      },
+      {
+        "verse": "49",
+        "text": "Így adtak Izráel fiai a lévitáknak városokat és legelőket."
+      },
+      {
+        "verse": "50",
+        "text": "Sorsolással adták oda Júda fiainak törzséből, Simeon fiainak törzséből és Benjámin fiainak törzséből ezeket a név szerint megnevezett városokat."
+      },
+      {
+        "verse": "51",
+        "text": "Kehát fiainak többi nemzetsége Efraim törzsétől kapta meg a nekik kisorsolt városokat."
+      },
+      {
+        "verse": "52",
+        "text": "Nekik adták át az alábbi menedékvárosokat: Sikemet és legelőit Efraim hegyvidékén, Gézert és legelőit,"
+      },
+      {
+        "verse": "53",
+        "text": "Jokmeámot és legelőit, Bét-Hórónt és legelőit,"
+      },
+      {
+        "verse": "54",
+        "text": "Ajjálónt és legelőit, Gat-Rimmónt és legelőit;"
+      },
+      {
+        "verse": "55",
+        "text": "Manassé fele törzséből Ánért és legelőit meg Bileámot és legelőit. Ezeket adták Kehát többi fia nemzetségének."
+      },
+      {
+        "verse": "56",
+        "text": "Gérsón fiainak adták Manassé fél törzsének a nemzetségeiből Básánban Gólánt és legelőit, Astárótot és legelőit;"
+      },
+      {
+        "verse": "57",
+        "text": "Issakár törzséből Kedest és legelőit, Dobratot és legelőit,"
+      },
+      { "verse": "58", "text": "Rámótot és legelőit meg Ánémot és legelőit;" },
+      {
+        "verse": "59",
+        "text": "Ásér törzséből Másált és legelőit, Abdónt és legelőit,"
+      },
+      { "verse": "60", "text": "Húkókot és legelőit, Rehóbot és legelőit;" },
+      {
+        "verse": "61",
+        "text": "Naftáli törzséből Galileában Kedest és legelőit, Hammónt és legelőit, Kirjátajimot és legelőit."
+      },
+      {
+        "verse": "62",
+        "text": "Merárí többi fiának Zebulon törzséből Rimmónót és legelőit, Tábórt és legelőit;"
+      },
+      {
+        "verse": "63",
+        "text": "a Jordánon túl, Jerikóval szemben, a Jordántól keletre eső részen Rúben törzséből a pusztában Becert és legelőit, Jahcát és legelőit,"
+      },
+      { "verse": "64", "text": "Kedémótot és legelőit, Méfaatot és legelőit;" },
+      {
+        "verse": "65",
+        "text": "Gád törzséből Gileádban Rámótot és legelőit, Mahanajimot és legelőit,"
+      },
+      { "verse": "66", "text": "Hesbónt és legelőit, Jazért és legelőit." }
+    ]
+  },
+  {
+    "chapter": 7,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Issakárnak négy fia volt: Tólá, Púá, Jásúb és Simrón."
+      },
+      {
+        "verse": "2",
+        "text": "Tólá fiai voltak Uzzí, Refájá, Jeríél, Jahmaj, Jibszám és Sámuel. Tólá családfői nemzetségük kiváló vitézei voltak. Számuk Dávid idejében huszonkétezer-hatszáz volt."
+      },
+      {
+        "verse": "3",
+        "text": "Uzzí fia volt Jizrahjá. Jizrahjá fiai voltak: Míkáél, Óbadjá, Jóél és Jissijjá. Mind az öten főemberek voltak."
+      },
+      {
+        "verse": "4",
+        "text": "Családi névjegyzékük szerint a hozzájuk tartozó, katonai szolgálatra rendelt csapatokhoz harminchatezer ember tartozott, mert sok feleségük és sok fiuk volt."
+      },
+      {
+        "verse": "5",
+        "text": "Testvéreik, Issakár egész nemzetsége, kiváló vitézek voltak, összesen nyolcvanhétezren, akiket beírtak a származási jegyzékbe."
+      },
+      {
+        "verse": "6",
+        "text": "Benjámin fiai hárman voltak: Bela, Beker és Jedíaél."
+      },
+      {
+        "verse": "7",
+        "text": "Bela fiai voltak: Ecbón, Uzzí, Uzzíél, Jerímót és Írí, ez az öt családfő és kiváló vitéz. A származási jegyzékbe huszonkétezer-harmincnégyen voltak beírva."
+      },
+      {
+        "verse": "8",
+        "text": "Beker fiai voltak: Zemírá, Jóás, Elíézer, Eljóénaj, Omrí, Jerémót, Abijjá, Anátót és Álemet. Mindezek Beker fiai voltak."
+      },
+      {
+        "verse": "9",
+        "text": "A származási jegyzékbe húszezer-kétszáz tőlük származó családfő és kiváló vitéz volt beírva."
+      },
+      {
+        "verse": "10",
+        "text": "Jedíaél fia Bilhán volt. Bilhán fiai voltak: Jeús, Benjámin, Éhúd, Kenaaná, Zétán, Tarsís és Ahísahar."
+      },
+      {
+        "verse": "11",
+        "text": "Mindezek Jedíaél fiai voltak, családfők és kiváló vitézek; a katonai szolgálatra alkalmas emberek tizenhétezer-kétszázan voltak."
+      },
+      {
+        "verse": "12",
+        "text": "Suppím és Huppím Ír fiai voltak. Husím Ahér fia volt."
+      },
+      {
+        "verse": "13",
+        "text": "Naftáli fiai voltak: Jahacíél, Gúní, Jécer és Sallúm, Bilha unokái."
+      },
+      {
+        "verse": "14",
+        "text": "Manassé fia volt Aszríél, akit arám másodfelesége szült. Ő szülte Mákírt, Gileád atyját is."
+      },
+      {
+        "verse": "15",
+        "text": "Mákír pedig feleségül vette Huppím és Suppím Maaká nevű húgát. Egy másik fiának Celofhád volt a neve. Celofhádnak csak leányai voltak."
+      },
+      {
+        "verse": "16",
+        "text": "Maaká, Mákír felesége fiút szült, akit Peresnek nevezett el, öccsét pedig Seresnek. Ennek a fiai voltak Úlám és Rekem."
+      },
+      {
+        "verse": "17",
+        "text": "Úlám fia Bedán volt. Ezek Gileádnak, Mákír fiának, Manassé unokájának a fiai."
+      },
+      {
+        "verse": "18",
+        "text": "Nővére, Móleket szülte Íshódot, Abíezert és Mahlát."
+      },
+      {
+        "verse": "19",
+        "text": "Semída fiai voltak Ahján, Sekem, Likhí és Aníám."
+      },
+      {
+        "verse": "20",
+        "text": "Efraim fia volt Sútelah, ennek a fia Bered, ennek a fia Tahat, ennek a fia Eládá, ennek a fia Tahat,"
+      },
+      {
+        "verse": "21",
+        "text": "ennek a fia Zábád, ennek a fiai: Sútelah, Ézer és Elád. Ezeket megölték a gátiak, annak a földnek az őslakosai, mert lementek, hogy elvegyék a jószágukat."
+      },
+      {
+        "verse": "22",
+        "text": "Apjuk, Efraim sokáig gyászolt, ezért elmentek hozzá a testvérei, hogy megvigasztalják."
+      },
+      {
+        "verse": "23",
+        "text": "Azután bement a feleségéhez, az pedig teherbe esett, és fiút szült, akit Beríának neveztek el, mert ez akkor történt, amikor szerencsétlenség érte a házát."
+      },
+      {
+        "verse": "24",
+        "text": "Leánya Seerá volt, aki Alsó- és Felső-Bét-Hórónt és Uzzén-Seerát építette."
+      },
+      {
+        "verse": "25",
+        "text": "Fia Refah volt, ennek a fia Resef, ennek a fia Telah, ennek a fia Tahan,"
+      },
+      {
+        "verse": "26",
+        "text": "ennek a fia Ladán, ennek a fia Ammíhúd, ennek a fia Elísámá,"
+      },
+      {
+        "verse": "27",
+        "text": "ennek a fia Nún, ennek a fia pedig Józsué volt."
+      },
+      {
+        "verse": "28",
+        "text": "Az ő birtokuk és lakóhelyük volt Bétel és falvai, keletre Naarán, nyugatra Gézer és falvai, Sikem és falvai, egészen Ajjáig és falvaiig."
+      },
+      {
+        "verse": "29",
+        "text": "Manassé fiainak a birtokában voltak Bét-Seán és falvai, Taanak és falvai, Megiddó és falvai, Dór és falvai. Ezekben laktak Izráel fiának, Józsefnek az utódai."
+      },
+      {
+        "verse": "30",
+        "text": "Ásér fiai voltak: Jimná, Jisvá, Jisví, Beríá és ezeknek a húga, Szerah."
+      },
+      {
+        "verse": "31",
+        "text": "Beríá fiai voltak Héber és Malkíél, aki Birzajit apja volt."
+      },
+      {
+        "verse": "32",
+        "text": "Héber nemzette Jaflétot, Sómért, Hótámot és ezeknek a húgát, Súát."
+      },
+      {
+        "verse": "33",
+        "text": "Jaflét fiai voltak: Pászak, Bimhál és Asvát. Ezek Jaflét fiai."
+      },
+      {
+        "verse": "34",
+        "text": "Sómér fiai voltak: Ahí, Rohgá, Jehubbá és Arám."
+      },
+      {
+        "verse": "35",
+        "text": "Testvérének, Hélemnek a fiai voltak: Cófah, Jimná, Séles és Ámal."
+      },
+      {
+        "verse": "36",
+        "text": "Cófah fiai voltak: Szúah, Harnefer, Súál, Bérí és Jimrá,"
+      },
+      {
+        "verse": "37",
+        "text": "meg Becer, Hód, Sammá, Silsá, Jitrán és Beérá."
+      },
+      { "verse": "38", "text": "Jeter fiai voltak: Jefunne, Piszpá és Ará." },
+      { "verse": "39", "text": "Ullá fiai voltak: Árah, Hanníél és Ricjá." },
+      {
+        "verse": "40",
+        "text": "Mindezek Ásér utódai voltak: családfők, válogatott, kiváló vitézek, elsők a fejedelmek között. Amikor származási jegyzékbe vették őket a katonai szolgálatra, szám szerint huszonhatezren voltak."
+      }
+    ]
+  },
+  {
+    "chapter": 8,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Benjámin nemzette elsőszülöttjeként Belát, másodikként Asbélt, harmadikként Ahrahot,"
+      },
+      { "verse": "2", "text": "negyedikként Nóhát, ötödikként pedig Ráfát." },
+      { "verse": "3", "text": "Bela fiai voltak: Addár, Gérá és Abíhúd," },
+      { "verse": "4", "text": "Abísúa, Naamán és Ahóah," },
+      { "verse": "5", "text": "Gérá, Sefúfán és Húrám." },
+      {
+        "verse": "6",
+        "text": "Ezek voltak Éhúd fiai, Geba lakóinak a családfői, de áttelepítették őket Mánahatba:"
+      },
+      {
+        "verse": "7",
+        "text": "Naamán, Ahijjá és Gérá, aki áttelepítette őket, és ő nemzette Uzzát meg Ahíhúdot."
+      },
+      {
+        "verse": "8",
+        "text": "Saharajim Móáb mezején nemzett fiakat, miután elbocsátotta feleségeit, Húsímot és Baarát;"
+      },
+      {
+        "verse": "9",
+        "text": "Hódesnek, a feleségének nemzette Jóbábot, Cibját, Mésát és Malkámot,"
+      },
+      {
+        "verse": "10",
+        "text": "Jeúcot, Szokját és Mirmát. Ezek a fiai családfők voltak."
+      },
+      { "verse": "11", "text": "Húsímnak nemzette Abítúbot és Elpaalt." },
+      {
+        "verse": "12",
+        "text": "Elpaal fiai voltak: Éber, Misám és Semed, aki Ónót, Lódot és falvait építette,"
+      },
+      {
+        "verse": "13",
+        "text": "Beríá és Sema, Ajjálón lakóinak a családfői kergették el Gát lakosait."
+      },
+      { "verse": "14", "text": "Ahjó, Sásák és Jerémót," },
+      { "verse": "15", "text": "Zebadjá, Arád és Éder," },
+      { "verse": "16", "text": "Míkáél, Jispá és Jóhá voltak Beríá fiai." },
+      { "verse": "17", "text": "Zebadjá, Mesullám, Hizkí és Héber," },
+      {
+        "verse": "18",
+        "text": "Jismeraj, Jizlíá és Jóbáb voltak Elpaal fiai."
+      },
+      { "verse": "19", "text": "Jákím, Zikrí és Zabdí," },
+      { "verse": "20", "text": "Elíénaj, Cilletaj és Elíél," },
+      { "verse": "21", "text": "Adájá, Berájá és Simrát voltak Simí fiai." },
+      { "verse": "22", "text": "Jispán, Éber és Elíél," },
+      { "verse": "23", "text": "Abdón, Zikrí és Hánán," },
+      { "verse": "24", "text": "Hananjá, Élám és Antótijjá," },
+      { "verse": "25", "text": "Jifdejá és Penúél voltak Sásák fiai." },
+      { "verse": "26", "text": "Samseraj, Seharjá és Ataljá," },
+      {
+        "verse": "27",
+        "text": "Jaaresjá, Élijjá és Zikrí voltak Jeróhám fiai."
+      },
+      {
+        "verse": "28",
+        "text": "Ezek a családfők nemzetségük főemberei voltak, Jeruzsálemben laktak."
+      },
+      {
+        "verse": "29",
+        "text": "Gibeónban lakott Jeíél, Gibeón atyja; feleségének Maaká volt a neve."
+      },
+      {
+        "verse": "30",
+        "text": "Elsőszülött fia Abdón volt, azután Cúr, Kís, Baal és Nádáb,"
+      },
+      { "verse": "31", "text": "Gedór, Ahjó és Zeker." },
+      {
+        "verse": "32",
+        "text": "Miklót nemzette Simát. Rokonságukkal együtt ezek is Jeruzsálemben laktak, testvéreikkel átellenben."
+      },
+      {
+        "verse": "33",
+        "text": "Nér nemzette Kíst, Kís nemzette Sault, Saul nemzette Jónátánt, Malkísúát, Abínádábot és Esbaalt."
+      },
+      {
+        "verse": "34",
+        "text": "Jónátán fia Meríbbaal volt, és Meríbbaal nemzette Míkát."
+      },
+      {
+        "verse": "35",
+        "text": "Míká fiai Pítón, Melek, Taréa és Áház voltak."
+      },
+      {
+        "verse": "36",
+        "text": "Áház nemzette Jóaddát, Jóaddá nemzette Álemetet, Azmávetet és Zimrít, Zimrí nemzette Mócát,"
+      },
+      {
+        "verse": "37",
+        "text": "Mócá nemzette Binát. Ennek a fia volt Refájá, ennek a fia Elászá, és ennek a fia Ácél."
+      },
+      {
+        "verse": "38",
+        "text": "Ácélnak hat fia volt, név szerint ezek: Azríkám, Bókerú, Jismáél, Searjá, Óbadjá és Hánán; mindezek Ácél fiai voltak."
+      },
+      {
+        "verse": "39",
+        "text": "Testvérének, Éseknek a fiai voltak: Úlám az elsőszülött, Jeús a második, és Elífelet a harmadik."
+      },
+      {
+        "verse": "40",
+        "text": "Úlám fiai kiváló vitézek és íjászok voltak. Gyermekeik és unokáik megsokasodva százötvenen voltak. Mindezek Benjámin fiai voltak."
+      }
+    ]
+  },
+  {
+    "chapter": 9,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Így vették egész Izráelt származási jegyzékbe, és írták be őket Izráel királyainak a könyvébe. A júdaiakat hűtlenségük miatt fogságba hurcolták Babilóniába."
+      },
+      {
+        "verse": "2",
+        "text": "Az első lakosok, akik visszakerültek birtokukra és városaikba, izráeliek, papok, léviták és templomszolgák voltak."
+      },
+      {
+        "verse": "3",
+        "text": "Jeruzsálemben Júda és Benjámin fiai, valamint Efraim és Manassé fiai közül valók laktak:"
+      },
+      {
+        "verse": "4",
+        "text": "Útaj, Ammíhúd fia, aki Omrí fia, aki Imrí fia, aki Bání fia, Pérecnek, Júda fiának az utódai közül."
+      },
+      {
+        "verse": "5",
+        "text": "A sílóiak közül Aszájá, az elsőszülött és a fiai."
+      },
+      {
+        "verse": "6",
+        "text": "Zerah fiai közül Jeúél és rokonsága, hatszázkilencvenen."
+      },
+      {
+        "verse": "7",
+        "text": "Benjámin fiai közül való volt Szallú, Messullám fia, aki Hódavjá fia, aki Hasszenuá fia volt."
+      },
+      {
+        "verse": "8",
+        "text": "Továbbá Jibnejá, Jeróhám fia, Élá, Uzzí fia, aki Mikrí fia volt, és Mesullám, Sefatjá fia, aki Reúél fia, aki Jibnijjá fia volt."
+      },
+      {
+        "verse": "9",
+        "text": "Rokonaik származásuk szerint kilencszázötvenhatan voltak. Mindezek a férfiak családfők voltak, ki-ki a maga családjában."
+      },
+      {
+        "verse": "10",
+        "text": "A papok közé tartozott Jedajá, Jójáríb és Jákín;"
+      },
+      {
+        "verse": "11",
+        "text": "Azarjá, Hilkijjá fia, aki Mesullám fia, aki Cádók fia, aki Merájót fia, aki Ahítúbnak, az Isten háza felügyelőjének a fia volt."
+      },
+      {
+        "verse": "12",
+        "text": "Továbbá Adájá, Jeróhám fia, aki Pashúr fia, aki Malkijjá fia volt, és Maszaj, Adíél fia, aki Jahzérá fia, aki Mesullám fia, aki Mesillémít fia, aki Immér fia volt."
+      },
+      {
+        "verse": "13",
+        "text": "Rokonságuk, a családfők ezerhétszázhatvanan voltak, kiváló emberek Isten háza szolgálatának a munkájában."
+      },
+      {
+        "verse": "14",
+        "text": "A léviták közé tartozott Semajá, Hassúb fia, aki Azríkám fia, aki Hasabjá fia volt, Merárí fiai közül."
+      },
+      {
+        "verse": "15",
+        "text": "Bakbakkar, Heres és Gálál, továbbá Mattanjá, Míká fia, aki Zikrí fia, aki Ászáf fia volt."
+      },
+      {
+        "verse": "16",
+        "text": "Azután Óbadjá, Semajá fia, aki Gálál fia, aki Jedútún fia volt; meg Berekjá, Ászá fia, Elkáná unokája, aki a netófáiak falvaiban lakott."
+      },
+      {
+        "verse": "17",
+        "text": "Kapuőrök voltak: Sallúm, Akkúb, Talmón és Ahíman. Testvérük, Sallúm volt a vezetőjük;"
+      },
+      {
+        "verse": "18",
+        "text": "még most is ott szolgálnak a keletre néző királyi kapunál. Ők voltak a kapuőrök Lévi fiainak a táboraiban."
+      },
+      {
+        "verse": "19",
+        "text": "Sallúm pedig, Kóré fia, aki Ebjászáf fia, aki Kórah fia volt, testvéreivel együtt, akik a kórahiak családjából származtak, a szolgálat munkájában a sátor küszöbének az őrei voltak, mert már őseik is az  Úr tábora bejáratának az őrei voltak."
+      },
+      {
+        "verse": "20",
+        "text": "Fejedelmük egykor Fineás, Eleázár fia volt – az  Úr legyen vele!"
+      },
+      {
+        "verse": "21",
+        "text": "Zekarjá, Meselemjá fia a kijelentés sátra bejáratának a kapuőre volt."
+      },
+      {
+        "verse": "22",
+        "text": "A küszöbök választott kapuőrei összesen kétszáztizenketten voltak. Őket falvaikban vették származási jegyzékbe, megbízatásukat már Dávid, sőt Sámuel, a látó alapozta meg."
+      },
+      {
+        "verse": "23",
+        "text": "Ők és fiaik őrizték az  Úr házának, illetve a sátornak a kapuit."
+      },
+      {
+        "verse": "24",
+        "text": "A négy égtáj irányában voltak őrök: keletre, nyugatra, északra és délre."
+      },
+      {
+        "verse": "25",
+        "text": "A falvakban lakó testvéreiknek időről időre hét napra be kellett vonulniuk hozzájuk."
+      },
+      {
+        "verse": "26",
+        "text": "Mert az állandó megbízatás a négy főkapuőré volt, akik léviták voltak. Ők voltak az Isten háza kamráinak és kincseinek a felügyelői."
+      },
+      {
+        "verse": "27",
+        "text": "Az Isten háza körül töltötték az éjszakát, mivel rájuk volt bízva az őrködés, és ők nyitották ki minden reggel az ajtókat."
+      },
+      {
+        "verse": "28",
+        "text": "A kapuőrök közül kerültek ki azok, akikre az istentiszteleti fölszereléseket bízták. Ezeket megszámolva kellett bevinniük és megszámolva kellett kihozniuk."
+      },
+      {
+        "verse": "29",
+        "text": "Közülük kerültek ki azok is, akik számon tartották a fölszerelést, a szentély egész fölszerelését: a finomlisztet, a bort, az olajat, a tömjént és a balzsamokat is;"
+      },
+      {
+        "verse": "30",
+        "text": "ám a balzsamokból az illatos kenetet csak a papoknak volt szabad kikeverni."
+      },
+      {
+        "verse": "31",
+        "text": "Mattitjára, az egyik lévitára, a kórahi Sallúm elsőszülöttjére bízták a sütés munkájának felügyeletét."
+      },
+      {
+        "verse": "32",
+        "text": "Néhány keháti testvérükre bízták, hogy a sorba rakott kenyereket szombatról szombatra kirakják."
+      },
+      {
+        "verse": "33",
+        "text": "Az énekesek, a léviták családfői soha nem pihenhettek kamráikban, mert éjjel-nappal végezniük kellett munkájukat."
+      },
+      {
+        "verse": "34",
+        "text": "A léviták családfői voltak ezek, származásuk szerint főemberek, és Jeruzsálemben laktak."
+      },
+      {
+        "verse": "35",
+        "text": "Gibeónban lakott Jeíél, Gibeón atyja; feleségének Maaká volt a neve."
+      },
+      {
+        "verse": "36",
+        "text": "Elsőszülött fia Abdón volt, azután Cúr, Kís, Baal, Nér és Nádáb,"
+      },
+      { "verse": "37", "text": "Gedór, Ahjó, Zekarjá és Miklót." },
+      {
+        "verse": "38",
+        "text": "Miklót nemzette Simát. Rokonságukkal együtt ezek is Jeruzsálemben laktak, testvéreikkel átellenben."
+      },
+      {
+        "verse": "39",
+        "text": "Nér nemzette Kíst, Kís nemzette Sault, Saul nemzette Jónátánt, Malkísúát, Abínádábot és Esbaalt."
+      },
+      {
+        "verse": "40",
+        "text": "Jónátán fia Meríbbaal volt, és Meríbbaal nemzette Míkát."
+      },
+      {
+        "verse": "41",
+        "text": "Míká fiai voltak: Pítón, Melek, Taréa és Áház."
+      },
+      {
+        "verse": "42",
+        "text": "Áház nemzette Jarát, Jará nemzette Álemetet, Azmávetet és Zimrít, Zimrí nemzette Mócát,"
+      },
+      {
+        "verse": "43",
+        "text": "Mócá nemzette Binát, ennek a fia volt Refájá, ennek a fia Elászá, ennek a fia Ácél."
+      },
+      {
+        "verse": "44",
+        "text": "Ácélnak hat fia volt, név szerint ezek: Azríkám, Bókerú, Jismáél, Searjá, Óbadjá és Hánán. Ezek voltak Ácél fiai."
+      }
+    ]
+  },
+  {
+    "chapter": 10,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "A filiszteusok háborút viseltek Izráel ellen, és az izráeliek megfutamodtak a filiszteusok előtt. Elesettek borították a Gilbóa-hegyet."
+      },
+      {
+        "verse": "2",
+        "text": "A filiszteusok Saulnak és fiainak a nyomába szegődtek, és megölték a filiszteusok Jónátánt, Abínádábot és Malkísúát, Saul fiait."
+      },
+      {
+        "verse": "3",
+        "text": "Heves küzdelem dúlt Saul körül, de végül eltalálták az íjászok. Megsebesítették az íjászok,"
+      },
+      {
+        "verse": "4",
+        "text": "ezért azt mondta Saul a fegyverhordozójának: Húzd ki a kardod, és szúrj le vele, hogy ha ideérnek ezek a körülmetéletlenek, ne űzzenek gúnyt belőlem! De a fegyverhordozó nem akarta megtenni, mert nagyon félt. Ekkor fogta Saul a kardját, és beledőlt."
+      },
+      {
+        "verse": "5",
+        "text": "Amikor látta a fegyverhordozója, hogy meghalt Saul, ő is a kardjába dőlt, és meghalt."
+      },
+      {
+        "verse": "6",
+        "text": "Így halt meg Saul és három fia, és vele együtt egész háza népe is meghalt."
+      },
+      {
+        "verse": "7",
+        "text": "Amikor látták mindazok az izráeliek, akik a völgyben laktak, hogy azok megfutamodtak, és hogy Saul is meghalt fiaival együtt, elhagyták városaikat, és elmenekültek, a filiszteusok pedig odajöttek, és letelepedtek azokban."
+      },
+      {
+        "verse": "8",
+        "text": "Másnap eljöttek a filiszteusok, hogy kifosszák az elesetteket. Megtalálták Sault és a fiait, amint ott feküdtek a Gilbóa-hegyen."
+      },
+      {
+        "verse": "9",
+        "text": "Kifosztották őt, magukkal vitték a fejét és a fegyvereit, és körbeküldték a filiszteusok földjén, hogy megvigyék az örömhírt bálványaiknak és a népnek."
+      },
+      {
+        "verse": "10",
+        "text": "Fegyverzetét isteneik templomában helyezték el, koponyáját pedig kiakasztották Dágón templomában."
+      },
+      {
+        "verse": "11",
+        "text": "Amikor azonban meghallották a jábés-gileádiak, hogy mit tettek Saullal a filiszteusok,"
+      },
+      {
+        "verse": "12",
+        "text": "harcosaik elindultak, és leszedték Saulnak és fiainak a holttestét, és elvitték Jábésba. Ott temették el csontjaikat Jábésban egy tölgyfa alatt, majd hétnapos böjtöt tartottak."
+      },
+      {
+        "verse": "13",
+        "text": "Így halt meg Saul a hűtlensége miatt, mert hűtlen lett az  Úrhoz, és nem fogadta meg az  Úr szavát. Sőt szellemet idéztetett, és azt kérdezte meg,"
+      },
+      {
+        "verse": "14",
+        "text": "nem az  Urat kérdezte meg. Ezért ölette meg őt, a királyságot pedig Dávidra, Isai fiára ruházta."
+      }
+    ]
+  },
+  {
+    "chapter": 11,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Ezután egész Izráel összegyűlt Dávidhoz Hebrónba, és ezt mondta: Nézd, mi a csontod és húsod vagyunk!"
+      },
+      {
+        "verse": "2",
+        "text": "Azelőtt is, amikor még Saul volt a király, te vezetted harcba és hoztad vissza Izráelt, és ezt mondta neked Istened, az  Úr: Te leszel népemnek, Izráelnek a pásztora, te leszel népemnek, Izráelnek a fejedelme!"
+      },
+      {
+        "verse": "3",
+        "text": "Megjelentek tehát Izráel vénei a király előtt Hebrónban, és Dávid szövetséget kötött velük Hebrónban az  Úr színe előtt. Ők pedig fölkenték Dávidot Izráel királyává, ahogyan kijelentette Sámuel által az  Úr."
+      },
+      {
+        "verse": "4",
+        "text": "Ezután Dávid egész Izráellel együtt elment Jeruzsálem, azaz Jebúsz alá, ahol a jebúsziak voltak az ország őslakói."
+      },
+      {
+        "verse": "5",
+        "text": "Jebúsz lakói ezt mondták Dávidnak: Ide ugyan nem jössz be! Dávid azonban elfoglalta Sion sziklavárát, és ez lett Dávid városa."
+      },
+      {
+        "verse": "6",
+        "text": "Azt mondta Dávid: Aki elsőnek vág le egy jebúszit, az lesz a fővezér! Mivel elsőnek Jóáb, Cerújá fia jutott föl, ő lett a fővezér."
+      },
+      {
+        "verse": "7",
+        "text": "Azután letelepedett Dávid a sziklavárban, ezért nevezték el azt Dávid városának."
+      },
+      {
+        "verse": "8",
+        "text": "És Dávid kiépítette a várost körös-körül, a Milló-erődöt és környékét, Jóáb pedig a város többi részét állította helyre."
+      },
+      {
+        "verse": "9",
+        "text": "Dávid egyre jobban emelkedett, mert vele volt a Seregek  Ura."
+      },
+      {
+        "verse": "10",
+        "text": "Ezek voltak Dávid legkiválóbb vitézei, akik támogatták őt az uralkodásban, és egész Izráellel együtt királlyá tették az  Úr igéje szerint, melyet Izráelről mondott."
+      },
+      {
+        "verse": "11",
+        "text": "Ezek voltak szám szerint Dávid vitézei: Josobám, Hakmóní fia, egy főtiszt, aki úgy forgatta a lándzsáját, hogy egy alkalommal háromszáz embert döfött le."
+      },
+      {
+        "verse": "12",
+        "text": "Azután Eleázár, az ahóhi Dódónak a fia, egyike a három vitéznek."
+      },
+      {
+        "verse": "13",
+        "text": "Ő volt Dávid mellett Efesz-Dammímban, ahova a filiszteusok harcra gyülekeztek. A mező egy darabja árpával volt ott bevetve. Amikor a hadinép megfutamodott a filiszteusok előtt,"
+      },
+      {
+        "verse": "14",
+        "text": "ők megálltak annak a darab földnek a közepén, megvédték azt, és megverték a filiszteusokat. Így adott az  Úr nagy győzelmet."
+      },
+      {
+        "verse": "15",
+        "text": "Egyszer a harminc vezér közül hárman elmentek Dávidhoz a kősziklára, az Adullám-barlangba, amikor a filiszteusok serege a Refáím-völgyben táborozott."
+      },
+      {
+        "verse": "16",
+        "text": "Dávid akkor a sziklavárban volt, a filiszteusok előőrse pedig ugyanakkor Betlehemnél."
+      },
+      {
+        "verse": "17",
+        "text": "Dávid eltikkadt, és ezt mondta: Ó, bárcsak valaki vizet hozna nekem a betlehemi kútból, onnan a kapu mellől!"
+      },
+      {
+        "verse": "18",
+        "text": "Erre ez a három ember áttört a filiszteus táboron, vizet merített Betlehemben a kapu melletti kútból, elhozták, és odavitték Dávidnak. Dávid azonban nem akarta meginni, hanem kiöntötte áldozatul az  Úrnak,"
+      },
+      {
+        "verse": "19",
+        "text": "és ezt mondta: Isten mentsen meg attól, hogy ilyet tegyek! Igyam meg azoknak az embereknek a vérét, akik kockára tették az életüket?! Mert az életüket tették kockára, amikor azt elhozták. Ezért nem akarta meginni. Ilyeneket vitt véghez ez a három vitéz."
+      },
+      {
+        "verse": "20",
+        "text": "Abísaj, Jóáb testvére volt ennek a háromnak a parancsnoka. Ő úgy forgatta a lándzsáját, hogy háromszáz embert döfött le. Ő volt a leghíresebb a három közül."
+      },
+      {
+        "verse": "21",
+        "text": "A három közül a másik kettőnél tekintélyesebb volt, ezért lett a parancsnokuk, de a hárommal nem ért föl."
+      },
+      {
+        "verse": "22",
+        "text": "A Kabceélból való Benájá, Jójádá fia is kiváló ember volt, és nagy tetteket vitt véghez. Ő vágta le Móáb két bajnokát. Ő ment le egy verembe, és megölt egy oroszlánt, amikor egyszer hó esett."
+      },
+      {
+        "verse": "23",
+        "text": "Ugyanő vágott le egy öt könyök magas egyiptomi embert, bár az egyiptomi kezében akkora lándzsa volt, mint a szövőszék tartófája. Ő meg csak bottal ment rá, de kiragadta az egyiptomi kezéből a lándzsát, és a saját lándzsájával ölte meg."
+      },
+      {
+        "verse": "24",
+        "text": "Ilyeneket vitt véghez Benájá, Jójádá fia. Ő is nevezetes volt, mint az a három vitéz."
+      },
+      {
+        "verse": "25",
+        "text": "Tekintélyes volt a harminc között, de a háromnak nem ért a nyomába. Dávid a testőrök vezetőjévé tette."
+      },
+      {
+        "verse": "26",
+        "text": "Kiváló vitézek voltak: Aszáél, Jóáb testvére, Elhánán, a betlehemi Dódó fia,"
+      },
+      { "verse": "27", "text": "a haróri Sammót, a pelóni Helec," },
+      { "verse": "28", "text": "a tekóai Írá, Ikkés fia, az anátóti Abíezer," },
+      { "verse": "29", "text": "a húsái Szibbekaj, az ahóhi Ílaj," },
+      {
+        "verse": "30",
+        "text": "a netófái Mahraj, a netófái Héled, Baaná fia,"
+      },
+      {
+        "verse": "31",
+        "text": "a benjámini Gibeából való Ítaj, Ríbaj fia, a pirátóni Benájá,"
+      },
+      { "verse": "32", "text": "a nahalé-gaasi Húraj, az arbai Abíél," },
+      { "verse": "33", "text": "a baharúmi Azmávet, a saalbóni Eljahbá," },
+      {
+        "verse": "34",
+        "text": "a gizóni Hásém fiai, a harári Jónátán, Ságé fia,"
+      },
+      { "verse": "35", "text": "a harári Ahíám, Szákár fia, Elífal, Úr fia," },
+      { "verse": "36", "text": "a mekérai Héfer, a pelóni Ahijjá," },
+      { "verse": "37", "text": "a karmeli Hecró, Naaraj, Ezbaj fia," },
+      { "verse": "38", "text": "Jóél, Nátán testvére, Mibhár, Hagrí fia," },
+      {
+        "verse": "39",
+        "text": "az ammóni Celek meg a béróti Nahraj, Jóábnak, Cerújá fiának a fegyverhordozója,"
+      },
+      { "verse": "40", "text": "a jeteri Írá, a jeteri Gáréb," },
+      { "verse": "41", "text": "a hettita Úriás, Zábád, Ahlaj fia," },
+      {
+        "verse": "42",
+        "text": "Adíná, a rúbeni Sízá fia, a rúbeniek egyik főembere és vele még harmincan;"
+      },
+      { "verse": "43", "text": "Hánán, Maaká fia, és a mitni Jósáfát," },
+      {
+        "verse": "44",
+        "text": "az asterái Uzzijjá, az aróéri Hótám fiai: Sámá és Jeíél,"
+      },
+      { "verse": "45", "text": "Simrí fia, Jedíaél és testvére, a tíci Jóhá," },
+      {
+        "verse": "46",
+        "text": "a mahavimi Elíél, Elnaam fiai: Jeríbaj és Jósavjá, a móábi Jitmá,"
+      },
+      { "verse": "47", "text": "Elíél, Óbéd és a mecóbájái Jaaszíél." }
+    ]
+  },
+  {
+    "chapter": 12,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Ezek voltak azok, akik Dávidhoz mentek Ciklágba akkor, amikor bujdosnia kellett Saul, Kís fia elől. Ők is a hősök közé tartoztak, akik segítették a harcban."
+      },
+      {
+        "verse": "2",
+        "text": "Íjjal voltak fölszerelve, jobb és bal kézzel egyaránt tudtak parittyával köveket, íjjal pedig nyilakat lőni. Ezek Saul benjámini rokonságához tartoztak."
+      },
+      {
+        "verse": "3",
+        "text": "Vezérük Ahíezer volt és Jóás, a gibeai Semáá fiai, és Jezíél meg Pelet, Azmávet fiai, továbbá Beráká és az anátóti Jéhú,"
+      },
+      {
+        "verse": "4",
+        "text": "a gibeóni Jismajá, a harminc vitéz egyike és ennek a harmincnak a vezetője."
+      },
+      {
+        "verse": "5",
+        "text": "Jirmejá, Jahazíél, Jóhánán és a gedérái Józábád."
+      },
+      {
+        "verse": "6",
+        "text": "Elúzaj, Jerímót, Bealjá, Semarjáhú és a hárífi Sefatjáhú,"
+      },
+      {
+        "verse": "7",
+        "text": "Elkáná, Jissijjá, Azarél, Jóezer és Josobám, a kórahiak"
+      },
+      { "verse": "8", "text": "és a gedóri Jeróhám fiai: Jóélá és Zebadjá." },
+      {
+        "verse": "9",
+        "text": "Gádiak is csatlakoztak Dávidhoz, amikor a sziklavárban, a pusztában volt. Kiváló vitézek, katonának elszegődött emberek, pajzzsal és dárdával fölszerelve; arcuk olyan volt, mint az oroszláné, és olyan gyorsak voltak, mint a zergék a hegyen."
+      },
+      {
+        "verse": "10",
+        "text": "Ézer volt az első, Óbadjá a második, Elíáb a harmadik,"
+      },
+      { "verse": "11", "text": "Mismanná a negyedik, Jirmejá az ötödik," },
+      { "verse": "12", "text": "Attaj a hatodik, Elíél a hetedik," },
+      { "verse": "13", "text": "Jóhánán a nyolcadik, Elzábád a kilencedik," },
+      { "verse": "14", "text": "Jirmejá a tizedik, Makbannaj a tizenegyedik." },
+      {
+        "verse": "15",
+        "text": "Ezek a gádiak csapatparancsnokok voltak. A legkisebb is fölért százzal, a legnagyobb meg ezerrel."
+      },
+      {
+        "verse": "16",
+        "text": "Ezek keltek át a Jordánon az első hónapban, amikor színültig volt a medre, és megfutamították a völgy egész lakosságát keletre és nyugatra."
+      },
+      {
+        "verse": "17",
+        "text": "Benjáminiak és júdaiak is mentek Dávid sziklavárához."
+      },
+      {
+        "verse": "18",
+        "text": "Dávid azonban kivonult eléjük, és így kezdett beszélni hozzájuk: Ha békés szándékkal jöttetek hozzám, hogy segítségemre legyetek, szívesen leszek együtt veletek. De ha el akartok árulni ellenségeimnek, holott az én kezemhez nem tapad erőszak, látni fog és megbüntet atyáink Istene!"
+      },
+      {
+        "verse": "19",
+        "text": "Ekkor Amászaj, a harmincak vezére lélekkel eltelve így szólt: Tied vagyunk, Dávid, veled tartunk, Isai fia! Békesség, békesség neked! Békesség segítőidnek, mert megsegít téged Istened!Erre magához fogadta őket Dávid, és csapatparancsnokokká tette őket."
+      },
+      {
+        "verse": "20",
+        "text": "Manassébeliek is pártoltak át Dávidhoz, amikor a filiszteusokkal hadba vonult Saul ellen. De nem segítette őket, mert elküldték őt a filiszteusok városfejedelmei, miután tanácsot tartottak, és azt mondták: Ha ez visszatér az urához, Saulhoz, az a fejünkbe kerül!"
+      },
+      {
+        "verse": "21",
+        "text": "Ciklág felé menetelt, amikor átpártoltak hozzá Manasséból Adnah, Józábád, Jedíaél, Míkáél, Józábád, Elíhú és Cilletaj, akik Manassé ezredeinek a vezetői voltak."
+      },
+      {
+        "verse": "22",
+        "text": "Ezek segítették Dávidot a csapatok élén, mert mindnyájan kiváló vitézek voltak, és parancsnokok lettek a hadseregben."
+      },
+      {
+        "verse": "23",
+        "text": "Napról napra mentek ilyenek Dávidhoz, hogy segítsék, míg aztán olyan nagy nem lett a tábora, mint az Istené."
+      },
+      {
+        "verse": "24",
+        "text": "Ennyi volt azoknak a harcra fölfegyverzett embereknek a száma, akik Dávidhoz mentek Hebrónba, hogy ráruházzák Saul királyságát az  Úr parancsa szerint:"
+      },
+      {
+        "verse": "25",
+        "text": "Júda fiai, akik pajzsot és dárdát viseltek, hatezer-nyolcszázan voltak, fölfegyverkezve a harcra."
+      },
+      {
+        "verse": "26",
+        "text": "Simeon fiai közül való volt hétezer-száz kiváló, harcra termett vitéz."
+      },
+      {
+        "verse": "27",
+        "text": "A Lévi fiai közül valók négyezer-hatszázan voltak,"
+      },
+      {
+        "verse": "28",
+        "text": "továbbá Jójádá, az ároniták fejedelme háromezer-hétszáz emberrel"
+      },
+      {
+        "verse": "29",
+        "text": "és az ifjú Cádók, kiváló vitéz, atyja háza népével, huszonkét vezető emberrel."
+      },
+      {
+        "verse": "30",
+        "text": "Benjámin fiai közül való volt Saulnak háromezer rokona, mert akkor még a többségük megmaradt Saul házának a szolgálatában."
+      },
+      {
+        "verse": "31",
+        "text": "Efraim fiai közül való volt húszezer-nyolcszáz kiváló vitéz, családjuk leghíresebb tagjai."
+      },
+      {
+        "verse": "32",
+        "text": "Manassé fél törzséből való volt tizennyolcezer ember, akiket név szerint jelöltek ki, hogy menjenek el és tegyék királlyá Dávidot."
+      },
+      {
+        "verse": "33",
+        "text": "Issakár fiai közül ott voltak, akik felismerték az alkalmas időt, és tudták, mit kell tennie Izráelnek: kétszáz főember és parancsnokságuk alatt egész rokonságuk."
+      },
+      {
+        "verse": "34",
+        "text": "Zebulonból egy akarattal fölsereglett ötvenezer hadköteles, teljes fegyverzettel fölszerelt sorkatona."
+      },
+      {
+        "verse": "35",
+        "text": "Naftáliból jött ezer vezető ember, és velük együtt harminchétezren pajzzsal és lándzsával;"
+      },
+      {
+        "verse": "36",
+        "text": "a dániak közül huszonnyolcezer-hatszáz sorkatona;"
+      },
+      { "verse": "37", "text": "Ásérból negyvenezer hadköteles sorkatona," },
+      {
+        "verse": "38",
+        "text": "a Jordánon túlról pedig a rúbeniek és a gádiak közül meg Manassé törzse másik feléből százhúszezer ember harcra készen, teljes fegyverzetben."
+      },
+      {
+        "verse": "39",
+        "text": "Mindezek a harcosok csatasorba rendezve, tiszta szívvel érkeztek Hebrónba, hogy egész Izráel királyává tegyék Dávidot, de Izráel többi része is kész volt egy akarattal királlyá tenni Dávidot."
+      },
+      {
+        "verse": "40",
+        "text": "És ott maradtak Dáviddal három napig, ettek-ittak, mert testvéreik gondoskodtak róluk."
+      },
+      {
+        "verse": "41",
+        "text": "Sőt még a környékbeliek is, el egészen Issakárig, Zebulonig és Naftáliig, bőven hoztak kenyeret szamarakon, tevéken, öszvéreken és marhákon, élelmet, lisztet, préselt fügét és aszú szőlőt, bort és olajat, marhát és juhot, mert öröm volt Izráelben."
+      }
+    ]
+  },
+  {
+    "chapter": 13,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Dávid tanácsot tartott az ezredesekkel, századosokkal, valamennyi vezérével,"
+      },
+      {
+        "verse": "2",
+        "text": "majd ezt mondta Dávid Izráel egész gyülekezetének: Ha jónak látjátok, és ha Istenünknek, az  Úrnak úgy tetszik, üzenjük meg otthon maradt testvéreinknek Izráel egész területén, meg a papoknak és a lévitáknak a legelőkkel ellátott városaikban, hogy gyűljenek ide hozzánk,"
+      },
+      {
+        "verse": "3",
+        "text": "és hozzuk el magunkhoz Istenünk ládáját, mert Saul idejében nem törődtünk vele."
+      },
+      {
+        "verse": "4",
+        "text": "Erre azt mondta az egész gyülekezet, hogy így kell tenni, tetszett ugyanis a dolog az egész népnek."
+      },
+      {
+        "verse": "5",
+        "text": "Összegyűjtötte azért Dávid egész Izráelt az egyiptomi Síhórtól egészen a Hamátba vezető útig, hogy hozzák el az Isten ládáját Kirjat-Jeárímból."
+      },
+      {
+        "verse": "6",
+        "text": "Felvonult tehát Dávid egész Izráellel együtt Baalába, azaz a Júdában levő Kirjat-Jeárímba, hogy elhozzák onnan Istennek, a kerúbokon trónoló  Úrnak a ládáját, akinek a nevét segítségül szokták hívni."
+      },
+      {
+        "verse": "7",
+        "text": "Az Isten ládáját egy új szekéren szállították el Abínádáb házából, Uzzá és Ahjó vezették a szekeret."
+      },
+      {
+        "verse": "8",
+        "text": "Dávid és egész Izráel pedig szent táncot járt Isten színe előtt teljes erővel, énekelve, citera, lant, dob, cintányér és harsona kíséretével."
+      },
+      {
+        "verse": "9",
+        "text": "Amikor Kídón szérűjéhez értek, Uzzá kinyújtotta a kezét, hogy megfogja a ládát, mert megbotlottak az ökrök."
+      },
+      {
+        "verse": "10",
+        "text": "Ezért fellángolt az  Úr haragja Uzzá ellen. Lesújtott rá, mivel kinyújtotta kezét a láda felé, és meghalt ott, az Isten színe előtt."
+      },
+      {
+        "verse": "11",
+        "text": "Dávid pedig megdöbbent attól, hogy az  Úr összetörte Uzzát. Ezért nevezik azt a helyet Pérec-Uzzának mindmáig."
+      },
+      {
+        "verse": "12",
+        "text": "Akkor félni kezdett Dávid az Istentől, és ezt gondolta: Hogy hozathatnám magamhoz az Isten ládáját?"
+      },
+      {
+        "verse": "13",
+        "text": "Ezért Dávid nem magához vitette a ládát, Dávid városába, hanem elvitette a gáti Óbéd-Edóm házába."
+      },
+      {
+        "verse": "14",
+        "text": "Három hónapig volt az Isten ládája Óbéd-Edóm családjánál, az ő házában, és megáldotta az  Úr Óbéd-Edóm háza népét és mindenét."
+      }
+    ]
+  },
+  {
+    "chapter": 14,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Hírám, Tírusz királya követeket küldött Dávidhoz, azután cédrusfákat, kőműveseket és ácsmestereket, hogy palotát építsenek neki."
+      },
+      {
+        "verse": "2",
+        "text": "Ekkor megértette Dávid, hogy az  Úr megerősítette a királyságát Izráelben, és hogy naggyá és magasztossá tette uralkodását népének, Izráelnek a javára."
+      },
+      {
+        "verse": "3",
+        "text": "Dávid több nőt is feleségül vett még Jeruzsálemben, és további fiakat és leányokat nemzett."
+      },
+      {
+        "verse": "4",
+        "text": "Ez a nevük azoknak a gyermekeinek, akik Jeruzsálemben születtek: Sammúa, Sóbáb, Nátán és Salamon,"
+      },
+      { "verse": "5", "text": "Jibhár, Elísúa és Elpelet," },
+      { "verse": "6", "text": "Nógah, Nefeg és Jáfía," },
+      { "verse": "7", "text": "Elísámá, Beeljádá és Elífelet." },
+      {
+        "verse": "8",
+        "text": "Amikor meghallották a filiszteusok, hogy Dávidot fölkenték egész Izráel királyává, fölvonultak a filiszteusok mind, hogy megkeressék Dávidot. Meghallotta ezt Dávid, és kivonult ellenük."
+      },
+      {
+        "verse": "9",
+        "text": "A filiszteusok megérkeztek, és ellepték a Refáím-völgyet."
+      },
+      {
+        "verse": "10",
+        "text": "Akkor megkérdezte Dávid az Istent: Fölvonuljak-e a filiszteusok ellen? Kezembe adod-e őket? Az  Úr ezt felelte neki: Vonulj föl, kezedbe adom őket!"
+      },
+      {
+        "verse": "11",
+        "text": "Fölvonultak tehát Baal-Perácímba, és ott megverte őket Dávid. Akkor ezt mondta Dávid: Áttört az Isten általam ellenségeimen, mint víz a gáton! Ezért nevezték el azt a helyet Baal-Perácímnak."
+      },
+      {
+        "verse": "12",
+        "text": "A filiszteusok otthagyták isteneiket, Dávid pedig azt parancsolta, hogy égessék el azokat."
+      },
+      {
+        "verse": "13",
+        "text": "Később ismét ellepték a filiszteusok a völgyet."
+      },
+      {
+        "verse": "14",
+        "text": "Ekkor Dávid újra megkérdezte az Istent, Isten pedig azt felelte neki: Ne vonulj közvetlenül utánuk, hanem kerüld meg őket, és a szederfák felől vonulj ellenük!"
+      },
+      {
+        "verse": "15",
+        "text": "Ha majd lépések neszét hallod a szederfák teteje felől, akkor szállj csatába, mert előtted megy Isten, hogy megverje a filiszteusok táborát!"
+      },
+      {
+        "verse": "16",
+        "text": "Dávid úgy tett, ahogyan megparancsolta neki az Isten, és vágták a filiszteusok seregét Gibeóntól Gézerig."
+      },
+      {
+        "verse": "17",
+        "text": "Dávidnak híre ment minden országban, és az  Úr rettegést keltett iránta valamennyi nép között."
+      }
+    ]
+  },
+  {
+    "chapter": 15,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Dávid házakat épített magának városában, helyet jelölt ki az Isten ládájának, és sátort vont föléje."
+      },
+      {
+        "verse": "2",
+        "text": "Akkor mondta ezt Dávid: Nem szabad másnak hordoznia az Isten ládáját, csak a lévitáknak, mert őket választotta ki az  Úr, hogy állandóan hordozzák és gondozzák az  Úr ládáját."
+      },
+      {
+        "verse": "3",
+        "text": "Összegyűjtötte azért Dávid Jeruzsálemben egész Izráelt, hogy az  Úr ládáját arra a helyre vitesse, amelyet kijelölt számára."
+      },
+      {
+        "verse": "4",
+        "text": "Összegyűjtötte Dávid Áron fiait és a lévitákat is:"
+      },
+      {
+        "verse": "5",
+        "text": "Kehát fiainak a vezetőjét, Úríélt és százhúsz rokonát,"
+      },
+      {
+        "verse": "6",
+        "text": "Merárí fiainak a vezetőjét, Aszáját és kétszázhúsz rokonát,"
+      },
+      {
+        "verse": "7",
+        "text": "Gérsón fiainak a vezetőjét, Jóélt és százharminc rokonát,"
+      },
+      {
+        "verse": "8",
+        "text": "Elícáfán fiainak a vezetőjét, Semaját és kétszáz rokonát,"
+      },
+      {
+        "verse": "9",
+        "text": "Hebrón fiainak a vezetőjét, Elíélt és nyolcvan rokonát,"
+      },
+      {
+        "verse": "10",
+        "text": "Uzzíél fiainak a vezetőjét, Ammínádábot és száztizenkét rokonát."
+      },
+      {
+        "verse": "11",
+        "text": "Ezután hívatta Dávid Cádók és Ebjátár papokat, a léviták közül pedig Úríélt, Aszáját, Jóélt, Semaját, Elíélt és Ammínádábot,"
+      },
+      {
+        "verse": "12",
+        "text": "és ezt mondta nekik: Ti vagytok a léviták családfői; szenteljétek meg magatokat testvéreitekkel együtt, és vigyétek föl Izráel Istenének, az  Úrnak a ládáját arra a helyre, amelyet kijelöltem számára!"
+      },
+      {
+        "verse": "13",
+        "text": "Mivel az előző alkalommal nem voltatok jelen, ránk tört Istenünk, az  Úr, mert nem az előírások szerint közeledtünk hozzá."
+      },
+      {
+        "verse": "14",
+        "text": "Megszentelték azért magukat a papok és a léviták, hogy fölvigyék Izráel Istenének, az  Úrnak a ládáját."
+      },
+      {
+        "verse": "15",
+        "text": "És a léviták rudakkal a vállukra vették az Isten ládáját, ahogyan Mózes parancsolta az  Úr beszéde szerint."
+      },
+      {
+        "verse": "16",
+        "text": "Dávid megparancsolta a léviták vezetőinek, hogy állítsák föl testvéreiket, az énekeseket hangszerekkel, lantokkal, citerákkal és cintányérokkal, és zendítsenek hangos öröménekre."
+      },
+      {
+        "verse": "17",
+        "text": "A léviták föl is állították Hémánt, Jóél fiát és testvérei közül Ászáfot, Berekjá fiát, továbbá testvéreik, Merárí fiai közül Étánt, Kúsájá fiát."
+      },
+      {
+        "verse": "18",
+        "text": "Velük együtt másodrangú beosztásban testvéreiket: Zekarját, Bént, Jaazíélt, Semírámótot, Jehíélt, Unnít, Elíábot, Benáját, Maaszéját, Mattitját, Elíflét, Miknéját, Óbéd-Edómot és Jeíélt mint őröket."
+      },
+      {
+        "verse": "19",
+        "text": "Az énekesek: Hémán, Ászáf és Étán a cintányérokat szólaltatták meg."
+      },
+      {
+        "verse": "20",
+        "text": "Zekarjá, Azíél, Semírámót, Jehíél, Unní, Elíáb, Maaszéjá és Benájá a magas hangú lantokat,"
+      },
+      {
+        "verse": "21",
+        "text": "Mattitjá, Elíflé, Miknéjá, Óbéd-Edóm, Jeíél és Azazjá a mélyebb hangú citerákat kezelték."
+      },
+      {
+        "verse": "22",
+        "text": "Kenanjá volt a léviták vezetője az éneklésben, ő irányította az éneklést, mivel értett hozzá."
+      },
+      { "verse": "23", "text": "Berekjá és Elkáná őrködtek a ládánál," },
+      {
+        "verse": "24",
+        "text": "Sebanjá, Jósáfát, Netanél, Amászaj, Zekarjá, Benájá és Elíézer papok fújták a harsonákat az Isten ládája előtt, Óbéd-Edóm és Jeíél pedig őrködtek a ládánál."
+      },
+      {
+        "verse": "25",
+        "text": "Dávid, Izráel vénei és az ezredparancsnokok elmentek, hogy elhozzák örvendezve az  Úr szövetségládáját Óbéd-Edóm házából."
+      },
+      {
+        "verse": "26",
+        "text": "Mivel Isten megsegítette a lévitákat, akik az  Úr szövetségládáját vitték, hét bikát és hét kost áldoztak."
+      },
+      {
+        "verse": "27",
+        "text": "Dávid lenvászon palástot terített magára, csakúgy, mint a ládát vivő összes lévita, az énekesek meg Kenanjá, az éneklés vezetője is; Dávid egy gyolcs éfódot is viselt."
+      },
+      {
+        "verse": "28",
+        "text": "Így vitte egész Izráel az  Úr szövetségládáját ujjongva, kürtszó, harsonák, cintányérok, lantok és citerák hangja mellett."
+      },
+      {
+        "verse": "29",
+        "text": "De Míkal, Saul leánya éppen akkor tekintett ki az ablakon, amikor az  Úr szövetségládája Dávid városába ért, és látta, ahogy Dávid király ugrándozva járja a szent táncot, ezért szívből megvetette őt."
+      }
+    ]
+  },
+  {
+    "chapter": 16,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Az Isten ládáját bevitték, és odatették annak a sátornak a közepére, amelyet Dávid vont fel. Akkor égőáldozatokat és békeáldozatokat mutattak be az Isten színe előtt."
+      },
+      {
+        "verse": "2",
+        "text": "Miután Dávid bemutatta az égőáldozatokat és a békeáldozatokat, megáldotta a népet az  Úr nevében."
+      },
+      {
+        "verse": "3",
+        "text": "Majd minden izráeli férfinak és nőnek osztott egy-egy darab kenyeret, préselt datolyát és aszú szőlőt."
+      },
+      {
+        "verse": "4",
+        "text": "Dávid szolgálattevő lévitákat rendelt az  Úr ládája mellé szolgálatra, hogy hirdessék, magasztalják és dicsérjék az  Urat, Izráel Istenét."
+      },
+      {
+        "verse": "5",
+        "text": "Ászáf volt a vezetőjük, a helyettese Zekarjá, továbbá Jeíél, Semírámót, Jehíél, Mattitjá, Elíáb, Benájá és Óbéd-Edóm. Jeíél lanton és citerán, Ászáf pedig cintányéron játszott."
+      },
+      {
+        "verse": "6",
+        "text": "Benájá és Jahazíél papok voltak az állandó harsonások az  Úr szövetségládája előtt."
+      },
+      {
+        "verse": "7",
+        "text": "Azon a napon bízta meg először Dávid Ászáfot és annak rokonságát, hogy magasztalják az  Urat."
+      },
+      {
+        "verse": "8",
+        "text": "Adjatok hálát az  Úrnak, hívjátok segítségül nevét, hirdessétek tetteit a népek közt! "
+      },
+      {
+        "verse": "9",
+        "text": "Énekeljetek, zengjetek zsoltárt neki, emlegessétek minden csodáját! "
+      },
+      {
+        "verse": "10",
+        "text": "Dicsőítsétek szent nevét, szívből örüljenek, akik keresik az  Urat! "
+      },
+      {
+        "verse": "11",
+        "text": "Folyamodjatok az  Úrhoz, az ő hatalmához, keressétek orcáját szüntelen! "
+      },
+      {
+        "verse": "12",
+        "text": "Emlékezzetek csodatetteire, amelyeket véghezvitt, csodáira és döntéseire, "
+      },
+      {
+        "verse": "13",
+        "text": "ti, Izráel utódai, kik szolgái vagytok, Jákóbnak fiai, kiket kiválasztott! "
+      },
+      {
+        "verse": "14",
+        "text": "Ő, az  Úr, a mi Istenünk, az egész földnek szólnak döntései. "
+      },
+      {
+        "verse": "15",
+        "text": "Örökké emlékezik szövetségére, ezer nemzedéken át is az adott szavára, "
+      },
+      {
+        "verse": "16",
+        "text": "amelyet Ábrahámmal kötött, ahogy Izsáknak megesküdött. "
+      },
+      {
+        "verse": "17",
+        "text": "Jákób elé tárta, elrendelte, Izráelnek örök szövetségül: "
+      },
+      {
+        "verse": "18",
+        "text": "Neked adom – mondta – Kánaán földjét kiosztott örökségül! "
+      },
+      {
+        "verse": "19",
+        "text": "Akkor még alig néhányan voltatok, kevesen éltetek ott mint jövevények. "
+      },
+      {
+        "verse": "20",
+        "text": "Nemzettől nemzetig vándoroltak, egyik országból a másik néphez. "
+      },
+      {
+        "verse": "21",
+        "text": "De senkinek sem engedte elnyomni őket, sőt királyokat is megintett miattuk: "
+      },
+      {
+        "verse": "22",
+        "text": "Ne nyúljatok fölkentjeimhez, prófétáimat se bántsátok! "
+      },
+      {
+        "verse": "23",
+        "text": "Énekelj az  Úrnak, te egész föld! Hirdessétek szabadítását nap mint nap! "
+      },
+      {
+        "verse": "24",
+        "text": "Beszéljétek el dicsőségét a nemzeteknek, csodáit minden népnek! "
+      },
+      {
+        "verse": "25",
+        "text": "Mert nagy az  Úr, méltó, hogy dicsérjék, félelmetesebb minden istennél. "
+      },
+      {
+        "verse": "26",
+        "text": "Hiszen a népek istenei csak bálványok, az  Úr pedig az ég alkotója. "
+      },
+      {
+        "verse": "27",
+        "text": "Fenség és méltóság jár előtte, erő és öröm van lakóhelyén. "
+      },
+      {
+        "verse": "28",
+        "text": "Népek törzsei! Magasztaljátok az  Urat! Magasztaljátok az  Úr dicsőségét és hatalmát! "
+      },
+      {
+        "verse": "29",
+        "text": "Magasztaljátok az  Úr dicső nevét, ajándékot hozva jöjjetek színe elé! Boruljatok le az  Úr előtt szent öltözetben! "
+      },
+      {
+        "verse": "30",
+        "text": "Reszkess tőle, te egész föld! Szilárdan áll a világ, nem inog. "
+      },
+      {
+        "verse": "31",
+        "text": "Örüljön az ég, örvendjen a föld, és mondják el a népeknek, hogy uralkodik az  Úr! "
+      },
+      {
+        "verse": "32",
+        "text": "Zúgjon a tenger a benne levőkkel, vigadjon a mező és minden, ami rajta van! "
+      },
+      {
+        "verse": "33",
+        "text": "Ujjongnak majd az erdő fái az  Úr előtt, amikor eljön, hogy ítélkezzék a földön. "
+      },
+      {
+        "verse": "34",
+        "text": "Adjatok hálát az  Úrnak, mert jó, mert örökké tart szeretete! "
+      },
+      {
+        "verse": "35",
+        "text": "Mondjátok: Segíts meg minket, szabadító Istenünk, ments meg és gyűjts össze a népek közül, hogy hálát adhassunk szent nevednek, és dicsőítve magasztalhassunk téged! "
+      },
+      {
+        "verse": "36",
+        "text": "Áldott az  Úr, Izráel Istene öröktől fogva mindörökre!És az egész nép így felelt: Ámen! Dicséret az  Úrnak!"
+      },
+      {
+        "verse": "37",
+        "text": "Otthagyta azért Dávid az  Úr szövetségládája előtt Ászáfot és rokonságát, hogy állandóan végezzék a szolgálatot a ládánál a mindennapi rend szerint,"
+      },
+      {
+        "verse": "38",
+        "text": "továbbá Óbéd-Edómot és hatvannyolc rokonát. Óbéd-Edóm, Jedútún fia és Hószá voltak a kapuőrök."
+      },
+      {
+        "verse": "39",
+        "text": "Cádók főpapot és annak rokonait, a papokat az  Úr hajléka előtt hagyta a gibeóni áldozóhalmon,"
+      },
+      {
+        "verse": "40",
+        "text": "hogy égőáldozatot mutassanak be állandóan az  Úrnak az égőáldozati oltáron: reggel meg este egészen úgy, ahogyan meg van írva az  Úr törvényében, amelyet Izráelnek parancsolt."
+      },
+      {
+        "verse": "41",
+        "text": "Velük volt Hémán, Jedútún és a többi kiválasztott is, akiket név szerint jelöltek ki, hogy így adjanak hálát az  Úrnak: Örökké tart szeretete!"
+      },
+      {
+        "verse": "42",
+        "text": "Hémánnál és Jedútúnnál voltak a harsonák, a cintányérok és az istenes énekeket kísérő hangszerek. Jedútún fiai a kapunál voltak."
+      },
+      {
+        "verse": "43",
+        "text": "Azután hazament az egész nép. Dávid is hazament, hogy megáldja háza népét."
+      }
+    ]
+  },
+  {
+    "chapter": 17,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Amikor Dávid már a palotájában lakott, ezt mondta Dávid Nátán prófétának: Nézd, én cédruspalotában lakom, az  Úr szövetségládája pedig sátorlapok alatt."
+      },
+      {
+        "verse": "2",
+        "text": "Nátán ezt mondta Dávidnak: Tedd meg mindazt, ami szándékodban van, mert veled van az Isten!"
+      },
+      {
+        "verse": "3",
+        "text": "De még azon az éjszakán az történt, hogy így szólt Isten igéje Nátánhoz:"
+      },
+      {
+        "verse": "4",
+        "text": "Menj, mondd meg szolgámnak, Dávidnak, hogy ezt mondta az  Úr: Nem te építesz nekem házat, hogy abban lakjam,"
+      },
+      {
+        "verse": "5",
+        "text": "hiszen attól fogva, hogy fölhoztam Izráel fiait, nem laktam házban mindmáig, hanem sátorból sátorba, egyik hajlékból a másikba mentem."
+      },
+      {
+        "verse": "6",
+        "text": "Amíg együtt vándoroltam egész Izráellel, mondtam-e egy szóval is Izráel bármelyik bírájának, akit népem, Izráel pásztorául rendeltem: Miért nem építettetek nekem egy házat cédrusfából?"
+      },
+      {
+        "verse": "7",
+        "text": "Most azért ezt mondd szolgámnak, Dávidnak: Ezt mondja a Seregek  Ura: Én hoztalak el a legelőről, a juhnyáj mellől, hogy fejedelme légy népemnek, Izráelnek."
+      },
+      {
+        "verse": "8",
+        "text": "Veled voltam mindenütt, amerre csak jártál, kiirtottam előled minden ellenségedet. Olyan nevet szereztem neked, amilyen neve csak a legnagyobbaknak van a földön."
+      },
+      {
+        "verse": "9",
+        "text": "Helyet készítettem népemnek, Izráelnek is, és úgy ültettem el ott, hogy a maga helyén lakhat. Nem kell többé rettegnie, és nem nyomorgatják többé a gonoszok, mint kezdetben,"
+      },
+      {
+        "verse": "10",
+        "text": "attól az időtől fogva, hogy bírákat rendeltem népemnek, Izráelnek, és megaláztam minden ellenségedet. Azt is kijelentettem neked, hogy az  Úr akarja a te házadat építeni."
+      },
+      {
+        "verse": "11",
+        "text": "Ha majd letelik az időd, és pihenni térsz őseidhez, fölemelem majd utódodat, az egyik fiadat, és szilárddá teszem az ő királyságát."
+      },
+      {
+        "verse": "12",
+        "text": "Ő épít nekem házat, én pedig megerősítem a trónját örökre."
+      },
+      {
+        "verse": "13",
+        "text": "Atyja leszek, és ő az én fiam lesz. Nem vonom meg tőle szeretetemet, ahogyan megvontam elődödtől,"
+      },
+      {
+        "verse": "14",
+        "text": "hanem házam és királyságom szolgálatába állítom örökre, és trónja örökké szilárd lesz."
+      },
+      {
+        "verse": "15",
+        "text": "Nátán pontosan e beszéd és látomás szerint beszélt Dáviddal."
+      },
+      {
+        "verse": "16",
+        "text": "Ekkor bement Dávid király az  Úr színe elé, leült, és ezt mondta: Ki vagyok én,  Uram, Istenem? És mi az én házam népe, hogy eljuttattál engem idáig?"
+      },
+      {
+        "verse": "17",
+        "text": "Sőt még ezt is kevesellted, Istenem, és a távoli jövőre nézve is tettél ígéretet szolgád házának, és megmutattad nekem azt az embert, akit még nálam is magasabb méltóságra emelsz majd,  Uram, Istenem!"
+      },
+      {
+        "verse": "18",
+        "text": "Mit is mondhatna még Dávid, ha ennyire megtisztelted szolgádat? Hiszen te ismered szolgádat!"
+      },
+      {
+        "verse": "19",
+        "text": "Uram, a te szolgádért és a te szándékod szerint vitted véghez mindezt a hatalmas dolgot, hogy megismertesd e hatalmas dolgokat."
+      },
+      {
+        "verse": "20",
+        "text": "Uram, senki nincs hozzád fogható, sőt nincs is rajtad kívül isten, egészen úgy, ahogyan magunk is hallottuk."
+      },
+      {
+        "verse": "21",
+        "text": "Van-e még egy olyan nemzet a földön, mint a te néped, Izráel, amelyért elment az Isten, és kiváltotta, hogy az ő népe legyen, és nevet szerzett magának nagy és félelmetes tettekkel, mint ahogyan te nemzeteket űztél ki néped elől, amelyet kiváltottál Egyiptomból?"
+      },
+      {
+        "verse": "22",
+        "text": "Így tetted népedet, Izráelt a magad népévé örökre, te pedig,  Uram, az Istenük lettél."
+      },
+      {
+        "verse": "23",
+        "text": "Most azért,  Uram, maradjon meg örökre az az ígéret, amelyet szolgádnak és háza népének tettél, és tégy úgy, ahogyan ígérted!"
+      },
+      {
+        "verse": "24",
+        "text": "Akkor megmarad és nagy lesz a te neved örökké, mert ezt mondják: A Seregek  Ura Izráel Istene, ő az Istene Izráelnek! Szolgádnak, Dávidnak a háza pedig szilárd lesz színed előtt."
+      },
+      {
+        "verse": "25",
+        "text": "Te, én Istenem, azt a kijelentést adtad szolgádnak, hogy megépíted házát. Ezért volt bátorsága szolgádnak, hogy így imádkozzék hozzád."
+      },
+      {
+        "verse": "26",
+        "text": "Valóban,  Uram, te vagy az Isten, és te ígérted szolgádnak ezt a jót."
+      },
+      {
+        "verse": "27",
+        "text": "Áldd meg azért kegyelmesen szolgád házát, hogy örökre színed előtt legyen! Mert ha te,  Uram, megáldod, örökre áldott lesz!"
+      }
+    ]
+  },
+  {
+    "chapter": 18,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Ezután történt, hogy Dávid megverte a filiszteusokat, leigázta őket, és elvette a filiszteusoktól Gátot falvaival együtt."
+      },
+      {
+        "verse": "2",
+        "text": "Megverte Móábot is, és a móábiak Dávidnak adófizető szolgái lettek."
+      },
+      {
+        "verse": "3",
+        "text": "Megverte Dávid Hamátnál Hadadezert, Cóbá királyát is, aki az Eufrátesz folyamig akarta kiterjeszteni hatalmát."
+      },
+      {
+        "verse": "4",
+        "text": "Elfogott közülük Dávid ezer harci kocsit, hétezer lovast meg húszezer gyalogost, és megbénította Dávid a harci kocsik lovait, csak száz harci kocsit hagyott meg belőlük."
+      },
+      {
+        "verse": "5",
+        "text": "Amikor a damaszkuszi arámok eljöttek, hogy megsegítsék Hadadezert, Cóbá királyát, levágott Dávid huszonkétezer arám embert."
+      },
+      {
+        "verse": "6",
+        "text": "Majd helyőrséget helyezett Dávid az arám Damaszkuszba, és az arámok adófizető szolgái lettek Dávidnak. Így segítette meg az  Úr Dávidot mindenütt, ahova csak ment."
+      },
+      {
+        "verse": "7",
+        "text": "Elvette Dávid az aranypajzsokat is, amelyeket Hadadezer szolgái hordtak, és Jeruzsálembe vitette azokat."
+      },
+      {
+        "verse": "8",
+        "text": "Dávid igen sok rezet hozott el Tibhatból és Kúnból, Hadadezer városaiból. Abból készíttette Salamon a rézmedencét, az oszlopokat és a rézedényeket."
+      },
+      {
+        "verse": "9",
+        "text": "Amikor meghallotta Tóí, Hamát királya, hogy megverte Dávid Hadadezernek, Cóbá királyának egész haderejét,"
+      },
+      {
+        "verse": "10",
+        "text": "elküldte fiát, Hadórámot Dávid királyhoz mindenféle arany-, ezüst- és réztárggyal, hogy békességgel és áldással köszöntse azért, mert hadat viselt Hadadezerrel, és megverte őt. Hadadezer ugyanis Tóíval is harcban állt."
+      },
+      {
+        "verse": "11",
+        "text": "Dávid király ezeket is az  Úrnak szentelte azzal az ezüsttel és arannyal együtt, amelyet más népektől: az edómiaktól, a móábiaktól, az ammóniaktól, a filiszteusoktól és az amálékiaktól hozott el."
+      },
+      {
+        "verse": "12",
+        "text": "Abísaj, Cerújá fia pedig megvert tizennyolcezer edómit a Sós-völgyben."
+      },
+      {
+        "verse": "13",
+        "text": "Dávid Edómba is helyőrséget helyezett el, és egész Edóm Dávid szolgája lett. Így segítette meg az  Úr Dávidot mindenütt, ahova csak ment."
+      },
+      {
+        "verse": "14",
+        "text": "Így uralkodott Dávid egész Izráelen, jogot és igazságot szolgáltatva egész népének."
+      },
+      {
+        "verse": "15",
+        "text": "A hadsereg parancsnoka Jóáb, Cerújá fia, a főtanácsos pedig Jósáfát, Ahílúd fia volt."
+      },
+      {
+        "verse": "16",
+        "text": "Cádók, Ahítúb fia és Abímelek, Ebjátár fia voltak a papok, Savsá pedig a kancellár."
+      },
+      {
+        "verse": "17",
+        "text": "Benájá, Jójádá fia a kerétiek és a pelétiek parancsnoka volt. Dávid fiai a legelsők voltak a király mellett."
+      }
+    ]
+  },
+  {
+    "chapter": 19,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Történt ezek után, hogy meghalt Náhás, az ammóniak királya, és utána a fia lett a király."
+      },
+      {
+        "verse": "2",
+        "text": "Dávid így gondolkodott: Szeretettel bánok Hánúnnal, Náhás fiával, mert az ő apja is szeretettel bánt velem. Ezért Dávid követeket küldött, hogy megvigasztalják apja halála miatt. Amikor megérkeztek Dávid udvari emberei az ammóniak országába Hánúnhoz, hogy megvigasztalják,"
+      },
+      {
+        "verse": "3",
+        "text": "ezt mondták az ammóniak vezérei Hánúnnak: Azt hiszed, apádat akarja megtisztelni Dávid, hogy vigasztalókat küldött hozzád? Inkább azért jöttek ide a szolgák, hogy kifürkésszék, kikémleljék és feldúlják az országot!"
+      },
+      {
+        "verse": "4",
+        "text": "Elfogatta azért Hánún Dávid embereit, megnyíratta őket, ruhájuk felét fenekükig levágatta, és visszaküldte őket."
+      },
+      {
+        "verse": "5",
+        "text": "Ezek elmentek, de amikor jelentették Dávidnak, hogy mi történt az embereivel, eléjük küldött, és mivel igen csúffá tették azokat az embereket, ezt üzente nekik a király: Maradjatok Jerikóban, amíg meg nem nő a szakállatok, azután térjetek vissza!"
+      },
+      {
+        "verse": "6",
+        "text": "Amikor látták az ammóniak, hogy meggyűlöltették magukat Dáviddal, elküldtek Hánún és Ammón fiai ezer talentum ezüstöt Arám-Naharajimba, Arám-Maakába és Cóbába, hogy harci kocsikat és lovakat fogadjanak zsoldjukba."
+      },
+      {
+        "verse": "7",
+        "text": "Zsoldjukba fogadtak harminckétezer harci kocsit és Maaká királyát is hadinépével együtt. Ezek megérkeztek, és tábort ütöttek Médebá előtt. Az ammóniak is összegyűltek városaikból, és kivonultak a csatába."
+      },
+      {
+        "verse": "8",
+        "text": "Amint ezt meghallotta Dávid, elküldte Jóábot egy egész sereggel, a legvitézebbekkel."
+      },
+      {
+        "verse": "9",
+        "text": "Kivonultak az ammóniak is, és csatarendbe álltak a város bejáratánál. A királyok pedig, akik segítségükre jöttek, külön álltak fel a mezőn."
+      },
+      {
+        "verse": "10",
+        "text": "Jóáb látta, hogy elöl is, hátul is támadás fenyegeti, ezért kiválogatta egész Izráel színe-javát, és csatarendbe állította őket az arámokkal szemben,"
+      },
+      {
+        "verse": "11",
+        "text": "a hadinép maradékát pedig testvérének, Abísajnak a vezetésére bízta, és ezek az ammóniakkal szemben álltak csatarendbe."
+      },
+      {
+        "verse": "12",
+        "text": "Ezt mondta: Ha az arámok erősebbek lesznek nálam, jöjj segítségemre! Ha pedig az ammóniak lesznek erősebbek nálad, akkor én segítek neked."
+      },
+      {
+        "verse": "13",
+        "text": "Légy erős, szedjük össze az erőnket népünkért és Istenünk városaiért! Az  Úr pedig tegye azt, amit jónak lát!"
+      },
+      {
+        "verse": "14",
+        "text": "Akkor Jóáb rohamra indult hadinépével az arámok ellen, azok pedig megfutamodtak."
+      },
+      {
+        "verse": "15",
+        "text": "Amikor az ammóniak látták, hogy az arámok futnak, ők is megfutamodtak Jóáb testvére, Abísaj elől, és bementek a városba. Jóáb pedig Jeruzsálembe ment."
+      },
+      {
+        "verse": "16",
+        "text": "Amikor az arámok látták, hogy vereséget szenvedtek Izráeltől, követeket küldtek, és fölvonultatták a folyamon túli arámokat. Sófak, Hadadezer hadseregparancsnoka állt az élükön."
+      },
+      {
+        "verse": "17",
+        "text": "Jelentették ezt Dávidnak, aki összegyűjtötte egész Izráelt, átkelt a Jordánon, megérkezett hozzájuk, és fölsorakozott velük szemben. Csatarendbe állt Dávid az arámokkal szemben, és azok megütköztek vele."
+      },
+      {
+        "verse": "18",
+        "text": "De megfutamodtak az arámok Izráel elől, és megölt Dávid az arámok közül hétezer harci kocsin küzdő embert és negyvenezer gyalogost. Sófakot, a hadseregparancsnokot is megölte."
+      },
+      {
+        "verse": "19",
+        "text": "Amikor látták Hadadezer szolgái, hogy vereséget szenvedtek Izráeltől, békét kötöttek Dáviddal, és szolgáltak neki. Ezután az arámok nem voltak többé hajlandók segíteni az ammóniakat."
+      }
+    ]
+  },
+  {
+    "chapter": 20,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Egy esztendő múlva, abban az időben, amikor a királyok háborúba szoktak vonulni, mozgósította Jóáb a hadsereget, és elpusztította az ammóniak országát. Megérkezett Rabbához, és körülzárta. Dávid azonban Jeruzsálemben maradt. Jóáb elfoglalta és lerombolta Rabbát."
+      },
+      {
+        "verse": "2",
+        "text": "Dávid levette királyuk fejéről a koronát, amelyről kiderült, hogy egy talentum súlyú aranyból készült és drágakövekkel van kirakva, és Dávid a saját fejére helyezte azt. A városból is igen sok zsákmányt vitt el."
+      },
+      {
+        "verse": "3",
+        "text": "A benne levő népet pedig kihozatta, és fűrésszel, vascsákánnyal és baltával dolgoztatta őket. Így járt el Dávid valamennyi ammóni várossal. Azután visszatért Dávid egész hadinépével együtt Jeruzsálembe."
+      },
+      {
+        "verse": "4",
+        "text": "Ezután ütközetre került sor a filiszteusokkal Gézernél. Akkor vágta le a húsái Szibbekaj a refáiak egyik leszármazottját, Szippajt, és azok behódoltak."
+      },
+      {
+        "verse": "5",
+        "text": "Ezután újabb ütközetre került sor a filiszteusokkal. Ekkor vágta le Elhánán, Jáír fia Lahmít, a gáti Góliát testvérét, akinek a lándzsanyele olyan vastag volt, mint a szövőszék tartófája."
+      },
+      {
+        "verse": "6",
+        "text": "Gátnál is sor került egy ütközetre. Volt ott egy nagy termetű férfi, akinek hat-hat ujja volt, összesen huszonnégy. Ő is a refáiak leszármazottja volt."
+      },
+      {
+        "verse": "7",
+        "text": "Ez gyalázta Izráelt, de levágta őt Jónátán, Dávid bátyjának, Sammának a fia."
+      },
+      {
+        "verse": "8",
+        "text": "Ezek a gáti refáiak leszármazottai voltak, és Dávidnak vagy embereinek a keze által estek el."
+      }
+    ]
+  },
+  {
+    "chapter": 21,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "A Sátán Izráel ellen támadt: felingerelte Dávidot, hogy vegye számba Izráelt."
+      },
+      {
+        "verse": "2",
+        "text": "Dávid pedig ezt mondta Jóábnak és a hadinép parancsnokainak: Menjetek, számláljátok meg Izráelt Beérsebától Dánig, és terjesszétek elém, hadd tudjam meg a számukat!"
+      },
+      {
+        "verse": "3",
+        "text": "Jóáb azonban ezt felelte: Szaporítsa meg az  Úr a népét százannyira, mint amennyi most! De uram, királyom, hiszen mindnyájan az én uram szolgái ők. Miért firtatja hát ezt az én uram? Miért bűnhődjék ezért Izráel?!"
+      },
+      {
+        "verse": "4",
+        "text": "A király szava azonban erősebb volt Jóábénál. Elindult tehát Jóáb, bejárta egész Izráelt, és visszatért Jeruzsálembe."
+      },
+      {
+        "verse": "5",
+        "text": "Jóáb jelentette Dávidnak a népszámlálás eredményét: egész Izráelben egymillió-egyszázezer kardforgató ember volt, Júdában pedig négyszázhetvenezer kardforgató ember."
+      },
+      {
+        "verse": "6",
+        "text": "Lévit és Benjámint azonban nem vette számba közöttük, mert utálatosnak tartotta Jóáb a király parancsát."
+      },
+      {
+        "verse": "7",
+        "text": "De Isten rossznak látta ezt, és megverte Izráelt."
+      },
+      {
+        "verse": "8",
+        "text": "Akkor ezt mondta Dávid az Istennek: Nagyot vétettem azzal, hogy ezt tettem! Most azért bocsásd meg szolgád bűnét, mert igen esztelenül cselekedtem!"
+      },
+      {
+        "verse": "9",
+        "text": "Ekkor így szólt az  Úr Gádhoz, Dávid látnokához:"
+      },
+      {
+        "verse": "10",
+        "text": "Eredj, és mondd meg Dávidnak: Ezt mondja az  Úr: Három lehetőséget adok neked; válassz ki közülük egyet, és én azt teszem veled."
+      },
+      {
+        "verse": "11",
+        "text": "Bement tehát Gád Dávidhoz, és ezt mondta neki: Így szól az  Úr: Válassz!"
+      },
+      {
+        "verse": "12",
+        "text": "Három esztendeig tartó éhínség legyen? Vagy dúljanak három hónapig támadóid, és érjen utol ellenséged fegyvere? Vagy legyen három napon át az  Úr fegyvere, a dögvész az országban, és pusztítson az  Úr angyala Izráel egész területén? Most azért döntsd el, milyen választ vigyek annak, aki engem küldött!"
+      },
+      {
+        "verse": "13",
+        "text": "Dávid ezt felelte Gádnak: Igen nehéz helyzetben vagyok. Inkább essem az  Úr kezébe, mert igen nagy az ő irgalma. Csak ember kezébe ne essem!"
+      },
+      {
+        "verse": "14",
+        "text": "Az  Úr tehát dögvészt bocsátott Izráelre, és elhullott Izráelben hetvenezer ember."
+      },
+      {
+        "verse": "15",
+        "text": "Az Isten angyalt küldött Jeruzsálem ellen is, hogy pusztítsa azt. De alighogy belekezdett az a pusztításba, odanézett az  Úr, bánkódni kezdett a veszedelem miatt, és ezt parancsolta a pusztító angyalnak: Elég! Most már hagyd abba! Az  Úr angyala akkor éppen a jebúszi Ornán szérűje mellett állt."
+      },
+      {
+        "verse": "16",
+        "text": "Dávid fölemelte a tekintetét, és meglátta az  Úr angyalát, amint ott áll az ég és a föld között, kezében kivont karddal, amelyet Jeruzsálem ellen nyújtott ki. Ekkor Dávid és a vének zsákruhába burkolózva arcra borultak."
+      },
+      {
+        "verse": "17",
+        "text": "Dávid pedig ezt mondta Istennek: Hiszen én mondtam, hogy számlálják meg a népet! Én magam vagyok az, aki vétkeztem, és nagy gonoszságot követtem el. De az én nyájam nem követett el semmit!  Uram, Istenem, sújtson le kezed inkább énrám és az én rokonságomra, de a népedet ne bántsd!"
+      },
+      {
+        "verse": "18",
+        "text": "Ekkor az  Úr angyala azt üzente Gáddal Dávidnak, hogy menjen, és állítson oltárt az  Úrnak a jebúszi Ornán szérűjén."
+      },
+      {
+        "verse": "19",
+        "text": "Elment tehát Dávid, Gád szavai szerint, amelyet az  Úr nevében mondott."
+      },
+      {
+        "verse": "20",
+        "text": "Amikor Ornán arra fordult, meglátta az angyalt; négy fia, akik vele voltak, erre elrejtőzött. Ornán éppen búzát csépelt."
+      },
+      {
+        "verse": "21",
+        "text": "Dávid ekkor odament Ornánhoz. Amikor Ornán föltekintett, és meglátta Dávidot, kiment a szérűről, és arccal a földre borult Dávid előtt."
+      },
+      {
+        "verse": "22",
+        "text": "Dávid így szólt Ornánhoz: Add nekem ezt a szérűt, hadd építsek itt oltárt az  Úrnak! Teljes áron add nekem, hogy megszűnjék a népet ért csapás!"
+      },
+      {
+        "verse": "23",
+        "text": "Ornán így felelt Dávidnak: Fogadd el, azután tegyen az én uram, királyom, ahogyan jónak látja! Nézd, odaadom a marhákat égőáldozatnak, a cséplőeszközöket tűzifának, a búzát pedig ételáldozatnak. Mindent odaadok!"
+      },
+      {
+        "verse": "24",
+        "text": "De Dávid király ezt felelte Ornánnak: Így nem! Csak teljes áron fogadom el tőled, mert nem akarom az  Úrnak adni a tiedet, és nem akarok ingyen kapott égőáldozatot bemutatni."
+      },
+      {
+        "verse": "25",
+        "text": "Adott tehát Dávid Ornánnak azért a helyért hatszáz sekel súlyú aranyat."
+      },
+      {
+        "verse": "26",
+        "text": "Azután oltárt épített ott Dávid az  Úrnak, égőáldozatot és békeáldozatot mutatott be, és az  Úrhoz kiáltott, ő pedig feleletül tüzet adott az égből az égőáldozati oltárra."
+      },
+      {
+        "verse": "27",
+        "text": "Az  Úr pedig szólt az angyalnak, és az visszatette kardját a hüvelyébe."
+      },
+      {
+        "verse": "28",
+        "text": "Abban az időben Dávid, látva, hogy az  Úr a jebúszi Ornán szérűjén válaszolt neki, ott mutatta be az áldozatokat."
+      },
+      {
+        "verse": "29",
+        "text": "Az  Úr hajléka ugyanis, amelyet Mózes készített a pusztában, valamint az égőáldozati oltár abban az időben a gibeóni áldozóhalmon volt."
+      },
+      {
+        "verse": "30",
+        "text": "Dávid azonban nem mert többé odajárulni, hogy ott keresse fel az Istent, úgy megrettent az  Úr angyalának a kardjától,"
+      }
+    ]
+  },
+  {
+    "chapter": 22,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "hanem ezt mondta Dávid: Itt lesz Istennek, az  Úrnak a háza, és itt lesz Izráel égőáldozati oltára!"
+      },
+      {
+        "verse": "2",
+        "text": "Dávid ekkor megparancsolta, hogy gyűjtsék össze a jövevényeket Izráel területén, és kőfejtésre rendelte őket, hogy kőtömböket fejtsenek Isten házának az építéséhez."
+      },
+      {
+        "verse": "3",
+        "text": "Bőven szerzett Dávid vasat a kapuszárnyakhoz való szegeknek és sarokvasaknak meg rezet is mérhetetlenül sokat,"
+      },
+      {
+        "verse": "4",
+        "text": "továbbá tömérdek cédrusfát, mert a szidóniak és a tírusziak bőségesen szállítottak Dávidnak cédrusfát."
+      },
+      {
+        "verse": "5",
+        "text": "Dávid ugyanis ezt gondolta: Az én fiam, Salamon még tapasztalatlan ifjú, az  Úrnak pedig olyan házat kell építeni, hogy hírneve és ékessége mindent fölülmúljon az egész földön. Ezért én mindent megszerzek neki. Meg is szerzett Dávid mindent bőven még halála előtt."
+      },
+      {
+        "verse": "6",
+        "text": "És hívatta a fiát, Salamont, és megparancsolta neki, hogy építsen házat az  Úrnak, Izráel Istenének."
+      },
+      {
+        "verse": "7",
+        "text": "Ezt mondta Dávid Salamonnak: Fiam, én magam szándékoztam házat építeni Istenem, az  Úr nevének tiszteletére."
+      },
+      {
+        "verse": "8",
+        "text": "De az  Úr igéje így szólt hozzám: Sok vért ontottál, nagy háborúkat viseltél. Nem építhetsz házat az én nevem tiszteletére, mert sok vért ontottál ki színem előtt a földre."
+      },
+      {
+        "verse": "9",
+        "text": "De fiad fog születni, ő a nyugalom embere lesz, mert mindenfelől nyugalmat adok neki ellenségeitől. Salamon lesz a neve, mert békességet és nyugalmat adok Izráelnek az ő idejében."
+      },
+      {
+        "verse": "10",
+        "text": "Ő épít majd házat nevem tiszteletére. Ő fiam lesz, és én atyja leszek, és örökre megszilárdítom királyi trónját Izráelben."
+      },
+      {
+        "verse": "11",
+        "text": "Most hát, fiam, az  Úr legyen veled, hogy sikeresen fölépíthesd Istenednek, az  Úrnak a házát, ahogyan kijelentette rólad."
+      },
+      {
+        "verse": "12",
+        "text": "Adjon neked az  Úr értelmet és bölcsességet, amikor Izráel fölé rendel, hogy megtartsd Istenednek, az  Úrnak a törvényét!"
+      },
+      {
+        "verse": "13",
+        "text": "Akkor jársz sikerrel, ha megtartod és végrehajtod azokat a rendelkezéseket és törvényeket, amelyeket az  Úr Mózes által parancsolt Izráelnek. Légy erős és bátor, ne félj, és ne rettegj!"
+      },
+      {
+        "verse": "14",
+        "text": "Látod, én nagy fáradsággal szereztem az  Úr házához százezer talentum aranyat, egymillió talentum ezüstöt; a rezet és vasat már meg sem lehet mérni, olyan sok van. Épületfát és követ is szereztem; te gyarapítsd ezeket!"
+      },
+      {
+        "verse": "15",
+        "text": "Bőven van munkásod: kőfejtő, kőfaragó és ács meg számos, egyéb munkához értő mester."
+      },
+      {
+        "verse": "16",
+        "text": "Az aranynak, az ezüstnek, a réznek és a vasnak se szeri, se száma. Láss munkához, az  Úr legyen veled!"
+      },
+      {
+        "verse": "17",
+        "text": "Izráel összes főemberének pedig megparancsolta Dávid, hogy segítsenek a fiának, Salamonnak:"
+      },
+      {
+        "verse": "18",
+        "text": "Bizony, veletek volt Istenetek, az  Úr, és nyugalmat adott nektek mindenfelől! Mert kezembe adta az ország lakóit, és meghódolt az ország az  Úr előtt és az ő népe előtt."
+      },
+      {
+        "verse": "19",
+        "text": "Most azért keressétek szívvel-lélekkel Isteneteket, az  Urat! Lássatok hozzá, és építsétek föl Istennek, az  Úrnak a szentélyét, hogy bevihessétek az  Úr szövetségládáját és az Isten szentélyének az edényeit abba a templomba, amely az  Úr nevének tiszteletére épül."
+      }
+    ]
+  },
+  {
+    "chapter": 23,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Amikor Dávid megöregedett, és betelt az élettel, a fiát, Salamont tette meg Izráel királyává."
+      },
+      {
+        "verse": "2",
+        "text": "Összegyűjtötte tehát Izráel összes főemberét meg a papokat és a lévitákat."
+      },
+      {
+        "verse": "3",
+        "text": "Számba vették a lévitákat a harmincévesektől fölfelé, és a férfiak száma harmincnyolcezer fő volt."
+      },
+      {
+        "verse": "4",
+        "text": "Ezek közül huszonnégyezren intézzék az  Úr házának a teendőit, az elöljárók és bírák hatezren legyenek,"
+      },
+      {
+        "verse": "5",
+        "text": "a kapuőrök négyezren, négyezren pedig dicsérjék az  Urat azokon a hangszereken, amelyeket én készíttettem az  Úr dicséretére."
+      },
+      {
+        "verse": "6",
+        "text": "Azután Dávid csoportokba osztotta őket Lévi fiai: Gérsón, Kehát és Merárí szerint."
+      },
+      { "verse": "7", "text": "Gérsóniak voltak Ladán és Simí." },
+      {
+        "verse": "8",
+        "text": "Ladán fiai hárman voltak: az első Jehíél, továbbá Zétám és Jóél."
+      },
+      {
+        "verse": "9",
+        "text": "Simí fiai hárman voltak: Selómít, Hazíél és Hárán. Ezek voltak Ladán családfői."
+      },
+      {
+        "verse": "10",
+        "text": "Simí fiai voltak: Jahat, Zízá, Jeús és Beríá, ezek négyen voltak Simí fiai."
+      },
+      {
+        "verse": "11",
+        "text": "Jahat volt az első, és Zízá a második. Mivel Jeúsnak és Beríának nem sok fia volt, egy családnak, egy csoportnak számítottak."
+      },
+      {
+        "verse": "12",
+        "text": "Kehát fiai négyen voltak: Amrám, Jichár, Hebrón és Uzzíél."
+      },
+      {
+        "verse": "13",
+        "text": "Amrám fia volt Áron és Mózes. De Áront különválasztották, hogy fölszenteljék a szentek szentjének szolgálatára, őt és fiait örökre, hogy illatáldozatot mutassanak be az  Úr színe előtt, hogy őt szolgálják, és az ő nevében mondjanak áldást mindenkor."
+      },
+      {
+        "verse": "14",
+        "text": "Mózesnek, Isten emberének a fiait szintén Lévi törzséhez számították."
+      },
+      { "verse": "15", "text": "Mózes fia volt Gérsóm és Elíézer." },
+      { "verse": "16", "text": "Gérsóm fiai között Sebúél volt az első." },
+      {
+        "verse": "17",
+        "text": "Elíézer első fia Rehabjá volt. Elíézernek nem lett több fia, de Rehabjá fiai igen megsokasodtak."
+      },
+      { "verse": "18", "text": "Jichár fiai között Selómít volt az első." },
+      {
+        "verse": "19",
+        "text": "Hebrón fiai között Jerijjá volt az első, Amarjá a második, Jahazíél a harmadik, és Jekamám a negyedik."
+      },
+      {
+        "verse": "20",
+        "text": "Uzzíél fiai között Míká volt az első, és Jissijjá a második."
+      },
+      {
+        "verse": "21",
+        "text": "Merárí fia volt Mahlí és Músí. Mahlí fia volt Eleázár és Kís."
+      },
+      {
+        "verse": "22",
+        "text": "Eleázár úgy halt meg, hogy nem voltak fiai, csak leányai, akiket saját rokonaik, Kís fiai vettek el."
+      },
+      {
+        "verse": "23",
+        "text": "Músí fiai hárman voltak: Mahlí, Éder és Jerémót."
+      },
+      {
+        "verse": "24",
+        "text": "Ezek voltak Lévi fiai családjaik és családfőik szerint, ahogyan számba vették őket, külön-külön névjegyzékbe véve. Ők végezték az  Úr háza szolgálatának a munkáját, húszévestől fölfelé."
+      },
+      {
+        "verse": "25",
+        "text": "Mert Dávid ezt mondta: Nyugalmat adott népének az  Úr, Izráel Istene, és örökre Jeruzsálemben lakik."
+      },
+      {
+        "verse": "26",
+        "text": "Ezért a lévitáknak nem kell többé hordozniuk sem a hajlékot, sem a szolgálatukhoz szükséges egyéb fölszerelést."
+      },
+      {
+        "verse": "27",
+        "text": "Mert Dávid utolsó rendelkezése szerint állították össze Lévi fiainak a jegyzékét húszévestől fölfelé."
+      },
+      {
+        "verse": "28",
+        "text": "Álljanak Áron fiainak a rendelkezésére az  Úr házának szolgálatában az udvaroknál, a kamráknál és minden szent dolog tisztán tartásánál és az Isten háza körüli szolgálat teljesítésében,"
+      },
+      {
+        "verse": "29",
+        "text": "a sorba rakott kenyereknél, az ételáldozathoz való finomlisztnél, a kovásztalan lepényeknél, a sütőlapoknál, a tésztagyúrásnál és minden űr- és hosszmértéknél."
+      },
+      {
+        "verse": "30",
+        "text": "Álljanak ott minden reggel, hogy hálát és dicséretet mondjanak az  Úrnak, ugyanígy esténként is,"
+      },
+      {
+        "verse": "31",
+        "text": "és ha égőáldozatot mutatnak be az  Úrnak szombatonként, újholdkor és az ünnepeken, megszabott számban álljanak állandóan az  Úr előtt."
+      },
+      {
+        "verse": "32",
+        "text": "Végezzék a kijelentés sátra körüli tennivalókat, a szentély körüli tennivalókat meg testvéreik, Áron fiai mellett a tennivalókat, amikor az  Úr házában szolgálnak."
+      }
+    ]
+  },
+  {
+    "chapter": 24,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Áron fiainak a beosztása: Áron fiai Nádáb és Abíhú, Eleázár és Ítámár voltak."
+      },
+      {
+        "verse": "2",
+        "text": "Nádáb és Abíhú még apjuk előtt meghalt. Fiaik nem voltak, ezért Eleázár és Ítámár végezte a papi szolgálatot."
+      },
+      {
+        "verse": "3",
+        "text": "Ezeket osztotta be Dávid az Eleázár fiai közül való Cádókkal, valamint az Ítámár fiai közül való Ahímelekkel együtt a megbízatásuknak megfelelő szolgálatra."
+      },
+      {
+        "verse": "4",
+        "text": "Mivel Eleázár fiai között több férfi volt, mint Ítámár fiai között, ezért Eleázár fiai közül tizenhat családfőt osztottak be, Ítámár fiai közül pedig nyolc családfőt."
+      },
+      {
+        "verse": "5",
+        "text": "Sorsolással osztották be őket, ezeket is, meg azokat is. Így lettek Eleázár és Ítámár fiai szent és Istentől kijelölt vezető emberek."
+      },
+      {
+        "verse": "6",
+        "text": "Semajá, Netanél fia, a léviták közül való kancellár írta fel őket a király és a vezérek, Cádók főpap és Ahímelek, Ebjátár fia, továbbá a papok és a léviták családfői jelenlétében. Egy családot húztak ki Eleázárnak, majd még egyet, azután Ítámárnak is húztak egyet."
+      },
+      {
+        "verse": "7",
+        "text": "Az első sorshúzás Jójáríbra esett, a második Jedajára,"
+      },
+      { "verse": "8", "text": "a harmadik Hárimra, a negyedik Szeórímra," },
+      { "verse": "9", "text": "az ötödik Malkijjára, a hatodik Mijjámínra," },
+      { "verse": "10", "text": "a hetedik Hakkócra, a nyolcadik Abijjára," },
+      { "verse": "11", "text": "a kilencedik Jésúára, a tizedik Sekanjára," },
+      {
+        "verse": "12",
+        "text": "a tizenegyedik Eljásíbra, a tizenkettedik Jákímra,"
+      },
+      {
+        "verse": "13",
+        "text": "a tizenharmadik Huppára, a tizennegyedik Jesebábra,"
+      },
+      {
+        "verse": "14",
+        "text": "a tizenötödik Bilgára, a tizenhatodik Immérre,"
+      },
+      {
+        "verse": "15",
+        "text": "a tizenhetedik Hézírre, a tizennyolcadik Happiccécre,"
+      },
+      {
+        "verse": "16",
+        "text": "a tizenkilencedik Petahjára, a huszadik Jehezkélre,"
+      },
+      {
+        "verse": "17",
+        "text": "a huszonegyedik Jákínra, a huszonkettedik Gámúlra,"
+      },
+      {
+        "verse": "18",
+        "text": "a huszonharmadik Delájára, a huszonnegyedik pedig Maazjára."
+      },
+      {
+        "verse": "19",
+        "text": "Ezek kaptak megbízást arra a szolgálatra, hogy bejárjanak az  Úr házába aszerint a rendtartás szerint, amelyet atyjuktól, Árontól kaptak, ahogyan Izráel Istene, az  Úr megparancsolta neki."
+      },
+      {
+        "verse": "20",
+        "text": "Lévi többi fiai voltak: Amrám fia volt Súbáél, Súbáél fia volt Jehdejá."
+      },
+      {
+        "verse": "21",
+        "text": "Rehabjától származott Jissijjá, Rehabjá első fia."
+      },
+      {
+        "verse": "22",
+        "text": "Jichártól származott Selómót, Selómót fia volt Jahat."
+      },
+      {
+        "verse": "23",
+        "text": "Hebrón fiai voltak: az első Jerijjá, a második Amarjá, a harmadik Jahazíél, és a negyedik Jekamám."
+      },
+      { "verse": "24", "text": "Uzzíél fia volt Míká, Míká fia Sámír." },
+      {
+        "verse": "25",
+        "text": "Míká testvére Jissijjá volt, Jissijjá fia pedig Zekarjá."
+      },
+      {
+        "verse": "26",
+        "text": "Merárí fia volt Mahlí és Músí. Jaazijjá fia Benó volt."
+      },
+      {
+        "verse": "27",
+        "text": "Merárí fiai voltak: fiától, Jaazijjától származott Sóham, Zakkúr és Ibrí."
+      },
+      {
+        "verse": "28",
+        "text": "Mahlítól származott Eleázár. Neki nem voltak fiai."
+      },
+      { "verse": "29", "text": "Kístől származott Jerahmeél, Kís fia." },
+      {
+        "verse": "30",
+        "text": "Músí fiai voltak: Mahlí, Éder és Jerímót. Ezek a léviták, családjaik szerint."
+      },
+      {
+        "verse": "31",
+        "text": "Ezekre is ugyanúgy sorsot vetettek, mint testvéreikre, Áron fiaira, Dávid király, Cádók és Ahímelek, továbbá a papok és a léviták családfői jelenlétében; a családfőkre ugyanúgy, mint legkisebb testvérükre."
+      }
+    ]
+  },
+  {
+    "chapter": 25,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Dávid és a hadseregparancsnokok a szolgálatra különválasztották Ászáf, Hémán és Jedútún fiai közül azokat, akik prófétai ihlettel játszottak citerán, lanton és cintányéron. Ez volt azoknak a férfiaknak a jegyzéke, akik ezt az istentiszteleti szolgálatot végezték:"
+      },
+      {
+        "verse": "2",
+        "text": "Ászáf fiai közül Zakkúr, Jószéf, Netanjá és Aszarélá, Ászáf fiai. Őket a prófétai ihlettel játszó Ászáf irányította, aki a király felügyelete alá tartozott."
+      },
+      {
+        "verse": "3",
+        "text": "A jedútúniak közül Jedútún hat fia: Gedaljá, Cerí, Jesajá, Simí, Hasabjá és Mattitjá, akik apjuknak, Jedútúnnak az irányítása mellett prófétai ihlettel játszottak a citerán, hálát adva az  Úrnak, és dicsérve őt."
+      },
+      {
+        "verse": "4",
+        "text": "A hémániak közül Hémán fiai: Bukkijjá, Mattanjá, Uzzíél, Sebúél, Jerímót, Hananjá, Hanání, Elíátá, Giddaltí, Rómamtí-Ezer, Josbekásá, Mallótí, Hótír és Mahazíót."
+      },
+      {
+        "verse": "5",
+        "text": "Ezek mind Hémán fiai voltak, aki a király látnoka volt, hogy Isten ígéretéhez híven még nagyobbá tegye a hatalmát. Az Isten tizennégy fiút és három leányt adott Hémánnak."
+      },
+      {
+        "verse": "6",
+        "text": "Ezek mindnyájan apjuk, Ászáf, Jedútún és Hémán irányításával énekeltek az  Úr házában, cintányérok, lantok és citerák kíséretében végezve az istentiszteletet az Isten házában, a király irányítása szerint."
+      },
+      {
+        "verse": "7",
+        "text": "Kétszáznyolcvannyolc volt a száma rokonaikkal együtt azoknak, akiket megtanítottak az  Úr énekeire; ezek mindnyájan képzettek voltak."
+      },
+      {
+        "verse": "8",
+        "text": "Sorsvetéssel osztották ki a tennivalókat a fiatalokra és az öregekre, a képzettekre és a még gyakorlatlanokra egyaránt."
+      },
+      {
+        "verse": "9",
+        "text": "A sorsolás először az ászáfi Jószéfre esett, másodszor Gedaljára, aki testvéreivel és fiaival együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "10",
+        "text": "Harmadszor Zakkúrra, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "11",
+        "text": "Negyedszer Jicríre, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "12",
+        "text": "Ötödször Netanjára, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "13",
+        "text": "Hatodszor Bukkijjára, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "14",
+        "text": "Hetedszer Jeszarélára, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "15",
+        "text": "Nyolcadszor Jesajára, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "16",
+        "text": "Kilencedszer Mattanjára, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "17",
+        "text": "Tizedszer Simíre, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "18",
+        "text": "Tizenegyedszer Azarélra, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "19",
+        "text": "Tizenkettedszer Hasabjára, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "20",
+        "text": "Tizenharmadszor Súbáélra, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "21",
+        "text": "Tizennegyedszer Mattitjára, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "22",
+        "text": "Tizenötödször Jerémótra, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "23",
+        "text": "Tizenhatodszor Hananjára, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "24",
+        "text": "Tizenhetedszer Josbekására, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "25",
+        "text": "Tizennyolcadszor Hanáníra, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "26",
+        "text": "Tizenkilencedszer Mallótíra, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "27",
+        "text": "Huszadszor Elijjátára, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "28",
+        "text": "Huszonegyedszer Hótírra, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "29",
+        "text": "Huszonkettedszer Giddaltíra, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "30",
+        "text": "Huszonharmadszor Mahazíótra, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      },
+      {
+        "verse": "31",
+        "text": "Huszonnegyedszer Rómamtí-Ezerre, aki fiaival és testvéreivel együtt tizenkettedmagával volt."
+      }
+    ]
+  },
+  {
+    "chapter": 26,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "A kapuőrök beosztása: a kórahiak közül Meselemjá, Kóré fia, aki Ászáf fiai közül való volt."
+      },
+      {
+        "verse": "2",
+        "text": "Meselemjá fiai közül Zekarjá volt az elsőszülött, Jedíaél a második, Zebadjá a harmadik, Jatníél a negyedik,"
+      },
+      {
+        "verse": "3",
+        "text": "Élám az ötödik, Jóhánán a hatodik, Eljehóénaj a hetedik."
+      },
+      {
+        "verse": "4",
+        "text": "Óbéd-Edóm fiai közül Semajá volt az elsőszülött, Józábád a második, Jóáh a harmadik, Szákár a negyedik, Netanél az ötödik,"
+      },
+      {
+        "verse": "5",
+        "text": "Ammíél a hatodik, Jisszákár a hetedik, Peulletaj a nyolcadik, mert Isten megáldotta őt."
+      },
+      {
+        "verse": "6",
+        "text": "Fiának, Semajának is születtek fiai, akik családjukban elöljárók lettek, mivel vitéz férfiak voltak."
+      },
+      {
+        "verse": "7",
+        "text": "Semajá fiai voltak: Otní, Refáél, Óbéd és Elzábád, akinek a testvérei, Elíhú és Szemakjá is bátor harcosok voltak."
+      },
+      {
+        "verse": "8",
+        "text": "Ezek mindnyájan Óbéd-Edóm fiai. Ők maguk is, fiaik és testvéreik is bátor emberek voltak, alkalmasak a szolgálatra. Hatvanketten származtak Óbéd-Edómtól."
+      },
+      {
+        "verse": "9",
+        "text": "Meselemjá fiai és testvérei is bátor harcosok voltak, mind a tizennyolcan."
+      },
+      {
+        "verse": "10",
+        "text": "Merárí fiai közül Hószának is voltak fiai. Simrí volt az első; bár nem ő volt az elsőszülött, apja őt tette meg elsőnek."
+      },
+      {
+        "verse": "11",
+        "text": "Hilkijjá volt a második, Tebaljá a harmadik, Zekarjá a negyedik. Hószá fiai és testvérei összesen tizenhárman voltak."
+      },
+      {
+        "verse": "12",
+        "text": "Ezeket a kapuőröket osztották be őrségbe rokonságukkal együtt a férfiak száma szerint, hogy az  Úr háza szolgálatára álljanak."
+      },
+      {
+        "verse": "13",
+        "text": "Majd sorsvetéssel kijelöltek egy-egy kaput a családoknak, a kisebbeknek és a nagyobbaknak egyaránt."
+      },
+      {
+        "verse": "14",
+        "text": "A keleti kaput Selemjának sorsolták ki. Fiának, Zekarjának, aki bölcs tanácsadó volt, szintén sorsot vetettek, neki jutott sorsolással az északi kapu."
+      },
+      {
+        "verse": "15",
+        "text": "Óbéd-Edómnak jutott a déli kapu, fiainak pedig a raktár."
+      },
+      {
+        "verse": "16",
+        "text": "Suppímnak és Hószának jutott a nyugati kapu a Salleket-kapuval együtt a fölfelé vezető úton. Őrhelyeik, egyik a másik után, ezek voltak:"
+      },
+      {
+        "verse": "17",
+        "text": "keleten hat lévita volt, északon naponként négy, délen is naponként négy, a raktárnál pedig kettő-kettő;"
+      },
+      {
+        "verse": "18",
+        "text": "nyugaton, a csarnoknál négy volt az út mellett, kettő pedig a csarnok mellett."
+      },
+      {
+        "verse": "19",
+        "text": "Ez volt a Kórah fiai és Merárí fiai közül való kapuőrök beosztása."
+      },
+      {
+        "verse": "20",
+        "text": "A léviták közül Ahijjá volt az Isten háza kincstárának és a szent ajándékok kincstárának a felügyelője."
+      },
+      {
+        "verse": "21",
+        "text": "Ladán fiai, a gérsóni Ladán fiai, a gérsóni Ladán családfői ezek voltak: Jehíélí"
+      },
+      {
+        "verse": "22",
+        "text": "meg Jehíélí fiai, Zétám és testvére, Jóél, az  Úr háza kincstárának a felügyelői."
+      },
+      {
+        "verse": "23",
+        "text": "Az amrámiak, a jicháriak, a hebróniak és az uzzíéliek közül"
+      },
+      {
+        "verse": "24",
+        "text": "Sebúél, Gérsómnak, Mózes fiának a leszármazottja volt a kincsek felügyelőinek az elöljárója."
+      },
+      {
+        "verse": "25",
+        "text": "Az ő rokonai voltak Elíézer ágán: fia, Rehabjá, ennek a fia Jesajá, ennek a fia Jórám, ennek a fia Zikrí és ennek a fia Selómít."
+      },
+      {
+        "verse": "26",
+        "text": "Ez a Selómít volt testvéreivel együtt a felügyelője mindazoknak a szent kincseknek, amelyeket Dávid király, a családfők, az ezredesek, a századosok és a hadseregparancsnokok az  Úrnak szenteltek."
+      },
+      {
+        "verse": "27",
+        "text": "A hadizsákmányt szentelték oda az  Úr házának a fenntartására."
+      },
+      {
+        "verse": "28",
+        "text": "Mindaz, amit odaszentelt Sámuel, a látó, Saul, Kís fia, Abnér, Nér fia és Jóáb, Cerújá fia, minden, amit csak odaszenteltek, Selómítra és testvéreire volt bízva."
+      },
+      {
+        "verse": "29",
+        "text": "A jicháriak közül Kenanjára és fiaira bízták Izráel közügyeit: ők lettek az elöljárók és a bírák."
+      },
+      {
+        "verse": "30",
+        "text": "A hebróniak közül Hasabjára és rokonságára, ezerhétszáz bátor harcosra bízták Izráel igazgatását a Jordántól nyugat felé az  Urat illető minden dologban és a király szolgálatában."
+      },
+      {
+        "verse": "31",
+        "text": "A hebróniak közül Jerijjá volt az első, a hebróni családok származási jegyzéke szerint. Amikor Dávid uralkodásának a negyvenedik évében felkeresték őket, és találtak köztük kiváló vitézeket Jazér-Gileádban,"
+      },
+      {
+        "verse": "32",
+        "text": "Jerijját és rokonságát, kétezerhétszáz családfőt, ezeket a bátor harcosokat bízta meg Dávid király a rúbeniek, a gádiak és a manassébeliek fél törzsének a felügyeletével az Istent és a királyt illető minden dologban."
+      }
+    ]
+  },
+  {
+    "chapter": 27,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Izráel fiai, akik családfők, ezredesek, századosok és elöljárók vezetésével a király szolgálatára álltak a csapattestek minden teendőjében, amelyek hónapról hónapra, az év minden hónapjában felváltva álltak szolgálatba, mindegyik csapattestben szám szerint huszonnégyezren voltak."
+      },
+      {
+        "verse": "2",
+        "text": "Az első hónapban szolgáló, első csapattest élén Josobám, Jabdíél fia állt. Csapattestéhez huszonnégyezer ember tartozott."
+      },
+      {
+        "verse": "3",
+        "text": "Ő Pérec leszármazottja volt; ő az első hónapban szolgáló csapatok parancsnokainak a feje."
+      },
+      {
+        "verse": "4",
+        "text": "A második hónapban szolgáló csapattest élén az ahóhi Dódaj állt. Egyik csapatának a vezére Miklót volt. Csapattestéhez huszonnégyezer ember tartozott."
+      },
+      {
+        "verse": "5",
+        "text": "A harmadik hónapban szolgáló, harmadik csapat vezére Benájá volt, Jójádá főpap fia. Csapattestéhez huszonnégyezer ember tartozott."
+      },
+      {
+        "verse": "6",
+        "text": "Ez a Benájá a harminc hős közé tartozott, ő volt a harmincak parancsnoka. Csapattestéhez tartozott fia, Ammízábád is."
+      },
+      {
+        "verse": "7",
+        "text": "A negyedik hónapban szolgáló, negyedik csapattest vezére Aszáél, Jóáb testvére volt, helyettese pedig a fia, Zebadjá. Csapattestéhez huszonnégyezer ember tartozott."
+      },
+      {
+        "verse": "8",
+        "text": "Az ötödik hónapban szolgáló, ötödik csapattest vezére a jizráhi Samhút volt. Csapattestéhez huszonnégyezer ember tartozott."
+      },
+      {
+        "verse": "9",
+        "text": "A hatodik hónapban szolgáló, hatodik csapattest vezére a tekóai Írá, Ikkés fia volt. Csapattestéhez huszonnégyezer ember tartozott."
+      },
+      {
+        "verse": "10",
+        "text": "A hetedik hónapban szolgáló, hetedik csapattest vezére a pelóni Helec volt, Efraim fiai közül. Csapattestéhez huszonnégyezer ember tartozott."
+      },
+      {
+        "verse": "11",
+        "text": "A nyolcadik hónapban szolgáló, nyolcadik csapattest vezére a húsái Szibbekaj volt, a zerahiak közül. Csapattestéhez huszonnégyezer ember tartozott."
+      },
+      {
+        "verse": "12",
+        "text": "A kilencedik hónapban szolgáló, kilencedik csapattest vezére az anátóti Abíezer volt, a benjáminiak közül. Csapattestéhez huszonnégyezer ember tartozott."
+      },
+      {
+        "verse": "13",
+        "text": "A tizedik hónapban szolgáló, tizedik csapattest vezére a netófái Mahraj volt, a zerahiak közül. Csapattestéhez huszonnégyezer ember tartozott."
+      },
+      {
+        "verse": "14",
+        "text": "A tizenegyedik hónapban szolgáló, tizenegyedik csapattest vezére a pirátóni Benájá volt, Efraim fiai közül. Csapattestéhez huszonnégyezer ember tartozott."
+      },
+      {
+        "verse": "15",
+        "text": "A tizenkettedik hónapban szolgáló, tizenkettedik csapattest vezére a netófái Heldaj volt, aki Otníéltól származott. Csapattestéhez huszonnégyezer ember tartozott."
+      },
+      {
+        "verse": "16",
+        "text": "Izráel törzsei élén a következők álltak: a rúbeniek fejedelme Elíézer volt, Zikrí fia; a simeoniaké Sefatjá, Maaká fia;"
+      },
+      {
+        "verse": "17",
+        "text": "a lévitáké Hasabjá, Kemúél fia, az áronitáké Cádók,"
+      },
+      {
+        "verse": "18",
+        "text": "Júdáé Elíhú, Dávid testvérei közül; Issakáré Omrí, Míkáél fia;"
+      },
+      {
+        "verse": "19",
+        "text": "Zebuloné Jismajá, Óbadjá fia; Naftálié Jerímót, Azríél fia;"
+      },
+      {
+        "verse": "20",
+        "text": "Efraim fiaié Hóséa, Azazjá fia; Manassé törzse egyik feléé Jóél, Pedájá fia;"
+      },
+      {
+        "verse": "21",
+        "text": "Manassé törzse gileádi feléé Jiddó, Zekarjá fia; Benjáminé Jaaszíél, Abnér fia;"
+      },
+      {
+        "verse": "22",
+        "text": "Dáné Azarél, Jeróhám fia. Ezek voltak Izráel törzseinek a vezérei."
+      },
+      {
+        "verse": "23",
+        "text": "Nem vette számba Dávid a húszéveseket és az azon aluliakat, mert az  Úr megígérte, hogy úgy megsokasítja Izráelt, hogy annyian lesznek, mint égen a csillag."
+      },
+      {
+        "verse": "24",
+        "text": "Jóáb, Cerújá fia elkezdte ugyan a számlálást, de nem fejezte be, mivel emiatt gyúlt haragra Isten Izráel ellen. Ezért nem került be ezeknek a száma Dávid király történetének a számadatai közé."
+      },
+      {
+        "verse": "25",
+        "text": "A királyi kincstár gondnoka Azmávet volt, Adíél fia. A mezők, a városok, a falvak és az őrtornyok raktárainak a gondnoka Jónátán, Uzzijjá fia volt."
+      },
+      {
+        "verse": "26",
+        "text": "A mezei munkások és a földművelők felügyelője Ezrí, Kelúb fia volt."
+      },
+      {
+        "verse": "27",
+        "text": "A szőlők felügyelője a rámái Simí, a szőlők borkészleteinek a felügyelője a sefemi Zabdí volt."
+      },
+      {
+        "verse": "28",
+        "text": "A Sefélá-alföld olajfa- és fügefakertjeinek a felügyelője a gádéri Baalhánán volt, az olajraktárak felügyelője Jóás."
+      },
+      {
+        "verse": "29",
+        "text": "A Sárónon legelő marhák felügyelője a sáróni Sitraj volt, a völgyekben legelő marhák felügyelője pedig Sáfát, Adlaj fia."
+      },
+      {
+        "verse": "30",
+        "text": "A tevék felügyelője a jismáéli Óbíl, a szamarak felügyelője a mérónóti Jehdejá,"
+      },
+      {
+        "verse": "31",
+        "text": "a juhnyájak felügyelője pedig a hagri Jázíz volt. Mindezek Dávid király vagyonának a felügyelői voltak."
+      },
+      {
+        "verse": "32",
+        "text": "Jónátán, Dávid nagybátyja tanácsadó volt, értelmes és írástudó ember, Jehíél, Hakmóní fia pedig a király fiainak a nevelője volt."
+      },
+      {
+        "verse": "33",
+        "text": "Ahítófel a király tanácsadója volt, az arki Húsaj pedig a király barátja."
+      },
+      {
+        "verse": "34",
+        "text": "Ahítófel helyettese Jójádá, Benájá fia és Ebjátár volt, a királyi hadsereg parancsnoka pedig Jóáb."
+      }
+    ]
+  },
+  {
+    "chapter": 28,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Dávid összegyűjtötte Jeruzsálembe Izráel összes főemberét, a törzsek vezetőit, a király szolgálatára álló csapatok parancsnokait, az ezredeseket, a századosokat, a király és fiai minden vagyonának és jószágának a kormányzóit, az udvarnokokkal, a testőrökkel és az összes kiváló vitézzel együtt."
+      },
+      {
+        "verse": "2",
+        "text": "Ekkor fölállt Dávid király, és így szólt: Hallgassatok meg, testvéreim és népem! Én magam szerettem volna házat építeni az  Úr szövetségládájának, Istenünk lába zsámolyának az elhelyezésére. Elő is készítettem az építést."
+      },
+      {
+        "verse": "3",
+        "text": "De Isten így szólt hozzám: Nem építhetsz házat az én nevem tiszteletére, mert háborúskodó ember voltál, és sok vért ontottál."
+      },
+      {
+        "verse": "4",
+        "text": "Mégis engem választott ki Izráel Istene, az  Úr atyám egész háza népéből, hogy Izráel királya legyek mindvégig. Mert Júdát választotta ki a fejedelemségre, Júda házából pedig az én atyám háza népét, apámnak a fiai között pedig bennem telt öröme, hogy egész Izráel királyává tegyen."
+      },
+      {
+        "verse": "5",
+        "text": "Valamennyi fiam közül – pedig az  Úr sok fiút adott nekem – Salamon fiamat választotta ki, hogy ő üljön az  Úr királyságának a trónjára Izráelben."
+      },
+      {
+        "verse": "6",
+        "text": "És ezt mondta nekem: Fiad, Salamon építi majd föl házamat és udvaraimat, mert kiválasztottam őt, hogy fiam legyen, én pedig atyja leszek."
+      },
+      {
+        "verse": "7",
+        "text": "Örökre megszilárdítom királyságát, ha állhatatosan teljesíti parancsolataimat és törvényeimet, ahogyan eddig tette."
+      },
+      {
+        "verse": "8",
+        "text": "Most azért egész Izráelnek, az  Úr gyülekezetének a szeme láttára és Istenünk füle hallatára mondom: Tartsátok meg és kutassátok Isteneteknek, az  Úrnak minden parancsolatát, hogy birtokotokban maradjon ez a jó föld, és örökségül hagyhassátok utódaitokra örökre!"
+      },
+      {
+        "verse": "9",
+        "text": "Te pedig, fiam, Salamon, ismerd meg atyád Istenét, és szolgálj neki teljes szívvel és készséges lélekkel, mert megvizsgál az  Úr minden szívet, és megismer minden szándékot és indulatot. Ha keresed, megtalálhatod. De ha elhagyod őt, akkor félreállít téged végleg."
+      },
+      {
+        "verse": "10",
+        "text": "Lásd meg azért, hogy téged választott ki az  Úr, hogy házat építs szentélyül. Légy hát erős, és készítsd el!"
+      },
+      {
+        "verse": "11",
+        "text": "Akkor átadta Dávid a fiának, Salamonnak a csarnoknak és épületeinek, a kincstárnak, a felső szobáknak, a belső szobáknak és az engesztelés helyének a tervrajzát,"
+      },
+      {
+        "verse": "12",
+        "text": "mindazét, amit a Lélek adott neki: az  Úr háza udvarainak és körös-körül valamennyi kamrának meg az Isten háza kincstárainak és a szent ajándékok kincstárainak a tervrajzát,"
+      },
+      {
+        "verse": "13",
+        "text": "továbbá a papok és léviták beosztásának, az  Úr házában végzendő istentisztelet minden teendőjének és az  Úr házában szükséges összes istentiszteleti fölszerelésnek a tervezetét."
+      },
+      {
+        "verse": "14",
+        "text": "Minden egyes istentiszteleti aranyeszközt az arany súlymértéke szerint, minden egyes istentiszteleti ezüsteszközt pedig annak súlymértéke szerint adott meg."
+      },
+      {
+        "verse": "15",
+        "text": "Ugyanígy az arany lámpatartók és aranymécsesek súlyát, minden egyes lámpatartónak és mécseseiknek a súlya szerint; az ezüst lámpatartóknál is a lámpatartó és mécsesei súlya szerint, a különböző lámpatartók rendeltetése szerint."
+      },
+      {
+        "verse": "16",
+        "text": "Megadta, hogy mennyi legyen az arany súlya a sorba rakott kenyerek asztalánál asztalonként és az ezüsté az ezüstasztaloknál;"
+      },
+      {
+        "verse": "17",
+        "text": "továbbá a villákhoz, hintőedényekhez és kancsókhoz való színaranynak meg az aranykelyheknek a súlyát kelyhenként meg az ezüstkelyheknek a súlyát kelyhenként,"
+      },
+      {
+        "verse": "18",
+        "text": "az illatáldozati oltárhoz szükséges tiszta arany súlyát, az aranykerúbok kocsijának a tervrajzát, akik kiterjesztett szárnyakkal befedték az  Úr szövetségládáját."
+      },
+      {
+        "verse": "19",
+        "text": "Minderre, a tervrajzban előírt valamennyi munkára az  Úr kezéből származó írás oktatott ki engem."
+      },
+      {
+        "verse": "20",
+        "text": "Ezek után Dávid azt mondta fiának, Salamonnak: Légy erős és bátor, és fogj hozzá! Ne félj, és ne rettegj, mert az  Úristen, az én Istenem veled van, nem hagy cserben és nem hagy el, amíg be nem fejezed mindazt a munkát, amely az  Úr házában végzett szolgálathoz szükséges."
+      },
+      {
+        "verse": "21",
+        "text": "Nézd, itt vannak a papok és a léviták csapatai az Isten házában végzendő mindenféle szolgálatra. Veled vannak, készen bármilyen munkára, értenek mindenféle szolgálathoz. A vezetők meg az egész nép is mindenben a rendelkezésedre áll!"
+      }
+    ]
+  },
+  {
+    "chapter": 29,
+    "verses": [
+      {
+        "verse": "1",
+        "text": "Dávid király így szólt az egész gyülekezethez: Egyedül Salamon fiamat választotta ki az Isten, de ő még tapasztalatlan ifjú, a munka pedig nagy, mert nem emberé lesz ez a hajlék, hanem az  Úristené."
+      },
+      {
+        "verse": "2",
+        "text": "Ezért minden erőmmel azon voltam, hogy Istenem házához aranyat szerezzek az aranyeszközökhöz, ezüstöt az ezüsteszközökhöz, rezet a rézhez, vasat a vashoz, fát a famunkához, ónixköveket, foglalatba való köveket, sötét és tarka színű köveket, mindenféle drágakövet és fehér márványt bőséggel."
+      },
+      {
+        "verse": "3",
+        "text": "Mindezen fölül az én Istenem háza iránti szeretetből a saját aranyamat és ezüstömet is odaadom Istenem házára azon felül, amit a szent ház számára szereztem:"
+      },
+      {
+        "verse": "4",
+        "text": "háromezer talentum aranyat, mégpedig ófíri aranyat és hétezer talentum tiszta ezüstöt a templom falainak a beborítására,"
+      },
+      {
+        "verse": "5",
+        "text": "aranyat az aranyeszközökhöz és ezüstöt az ezüsteszközökhöz, a mesteremberek mindenféle munkájához. Ki akar még önként, bőkezűen adakozni ma az  Úrnak?"
+      },
+      {
+        "verse": "6",
+        "text": "Ekkor a családfők, Izráel törzseinek a vezetői, az ezredesek és a századosok meg a királyi udvartartás vezetői önként adakozni kezdtek."
+      },
+      {
+        "verse": "7",
+        "text": "Összeadtak az Isten házának munkálataira ötezer talentum aranyat, tízezer dárikot, tízezer talentum ezüstöt, tizennyolcezer talentum rezet és százezer talentum vasat."
+      },
+      {
+        "verse": "8",
+        "text": "Akinek drágaköve volt, odaadta az  Úr házának a kincseihez, a gérsóni Jehíél felügyelete alá."
+      },
+      {
+        "verse": "9",
+        "text": "És örült a nép az önkéntes adakozásnak, mert tiszta szívből, önként adakoztak az  Úrnak. Dávid király is nagyon megörült."
+      },
+      {
+        "verse": "10",
+        "text": "Dávid ekkor áldotta az  Urat az egész gyülekezet előtt. Ezt mondta: Áldott vagy te,  Uram, ősatyánknak, Izráelnek Istene, öröktől fogva mindörökké!"
+      },
+      {
+        "verse": "11",
+        "text": "Tied,  Uram, a méltóság, a hatalom és a tisztelet, a hírnév és a fenség, bizony minden, ami a mennyben és a földön van! Tied,  Uram, az ország, magasztos vagy te, mindenség fejedelme!"
+      },
+      {
+        "verse": "12",
+        "text": "Tőled ered a gazdagság és a dicsőség, te uralkodsz mindenen. A te kezedben van az erő és a hatalom, a te kezed tehet bárkit naggyá és erőssé."
+      },
+      {
+        "verse": "13",
+        "text": "Most azért, Istenünk, hálát adunk neked, és dicsérjük a te fenséges nevedet."
+      },
+      {
+        "verse": "14",
+        "text": "Mert ki vagyok én, és mi az én népem, honnan volt erőnk ennyit adakozni? Bizony, tőled van mindez, és csak azt adtuk neked, amit a te kezedből kaptunk!"
+      },
+      {
+        "verse": "15",
+        "text": "Mi jövevények és zsellérek vagyunk előtted, mint minden ősünk. Napjaink olyanok a földön, mint a múló árnyék."
+      },
+      {
+        "verse": "16",
+        "text": "Urunk, Istenünk! Ez az egész halom kincs, amelyet összeadtunk, hogy neked, a te szent neved tiszteletére templomot építsünk, a te kezedből való, és a tied lesz mindez!"
+      },
+      {
+        "verse": "17",
+        "text": "Tudom, Istenem, hogy te megvizsgálod a szíveket, és az őszinteségben leled gyönyörűségedet. Én mindezt őszinte szívvel, önként adtam, és most örömmel látom, hogy önként adakozott neked néped, amely itt összegyűlt."
+      },
+      {
+        "verse": "18",
+        "text": "Uram, őseinknek, Ábrahámnak, Izsáknak és Izráelnek Istene, tartsd meg örökre néped szívében ezt a szándékot és indulatot, és kösd magadhoz szívüket!"
+      },
+      {
+        "verse": "19",
+        "text": "Fiamnak, Salamonnak pedig add meg, hogy tiszta szívből tartsa meg parancsolataidat, intelmeidet és rendelkezéseidet, és vigyen véghez mindent, fölépítve azt a hajlékot, amelyet én előkészítettem."
+      },
+      {
+        "verse": "20",
+        "text": "Azután ezt mondta Dávid az egész gyülekezetnek: Áldjátok az  Urat, a ti Isteneteket! És az egész gyülekezet áldotta az  Urat, ősei Istenét, meghajolt és leborult az  Úr előtt és a király előtt."
+      },
+      {
+        "verse": "21",
+        "text": "Másnap reggel véresáldozatokat mutattak be, és égőáldozatokat áldoztak az  Úrnak: ezer bikát, ezer kost, ezer bárányt a hozzájuk tartozó italáldozatokkal együtt, és tömérdek véresáldozatot egész Izráelért."
+      },
+      {
+        "verse": "22",
+        "text": "Ettek és ittak az  Úr színe előtt azon a napon nagy örömmel. Azután másodszor is királlyá tették Salamont, Dávid fiát, és fölkenték az  Úr fejedelmévé; Cádókot pedig pappá."
+      },
+      {
+        "verse": "23",
+        "text": "Így ült Salamon az  Úr trónjára apja, Dávid után. Eredményesen uralkodott, és egész Izráel hallgatott rá."
+      },
+      {
+        "verse": "24",
+        "text": "A vezérek, a testőrök és Dávid király fiai is mind kezet adtak, hogy Salamon király alattvalói lesznek."
+      },
+      {
+        "verse": "25",
+        "text": "Az  Úr pedig igen naggyá tette Salamont egész Izráel szemében, és olyan királyi méltóságot adott neki, amilyen nem volt előtte egy királynak sem Izráelben."
+      },
+      { "verse": "26", "text": "Dávid, Isai fia egész Izráel királya volt." },
+      {
+        "verse": "27",
+        "text": "Negyven évig uralkodott Izráelben. Hebrónban hét évig, Jeruzsálemben pedig harminchárom évig uralkodott."
+      },
+      {
+        "verse": "28",
+        "text": "És meghalt késő vénségében, betelve az élettel, gazdagsággal és dicsőséggel. Utána a fia, Salamon lett a király."
+      },
+      {
+        "verse": "29",
+        "text": "Dávid király dolgai elejétől a végéig meg vannak írva Sámuel látó, Nátán próféta és Gád látnok történetében"
+      },
+      {
+        "verse": "30",
+        "text": "egész uralkodásával, hőstetteivel és mindazokkal az eseményekkel együtt, amelyek vele, Izráellel és a többi ország királyságaival végbementek."
+      }
+    ]
+  }
+]
