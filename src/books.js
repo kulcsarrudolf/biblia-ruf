@@ -3,7 +3,7 @@ function BibleBook(abbreviation, name) {
   this.name = name;
 }
 
-const getBibleBooks = () => {
+const getBibleBooks = (testament) => {
   const bibleBooks = {
     old: [
       new BibleBook("1Móz", "Mózes első könyve"),
@@ -76,6 +76,14 @@ const getBibleBooks = () => {
       new BibleBook("Jel", "A jelenések könyve"),
     ],
   };
+
+  if (testament === "Old") {
+    return [...bibleBooks.old];
+  }
+
+  if (testament === "New") {
+    return [...bibleBooks.new];
+  }
 
   return [...bibleBooks.old, ...bibleBooks.new];
 };

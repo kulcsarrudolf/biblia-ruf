@@ -24,6 +24,14 @@ $ biblia --p="Zsolt 100:1-2"
 $ biblia --showBooks
 ```
 
+```bash
+$ biblia --showBooks --old
+```
+
+```bash
+$ biblia --showBooks --new
+```
+
 ## 🎥 Demo Video
 
 [![Demo Video](https://img.youtube.com/vi/99baGzaIYWE/0.jpg)](https://www.youtube.com/watch?v=99baGzaIYWE)

@@ -18,7 +18,20 @@ const getBiblePassageCli = async () => {
 };
 
 const showBibleBooksCli = () => {
-  const list = getBibleBooks();
+  const currentCommand = process.argv;
+  let param = "All";
+
+  if (currentCommand.includes("--old")) {
+    param = "Old";
+  }
+
+  if (currentCommand.includes("--new")) {
+    param = "New";
+  }
+
+  console.log(param);
+
+  const list = getBibleBooks(param);
 
   console.table(list);
 };
