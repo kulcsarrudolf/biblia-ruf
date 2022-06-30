@@ -9,21 +9,17 @@ const fetchBibleBook = async (book) => {
   return response.data;
 };
 
-const getBiblePassage = async () => {
-  const passage = process.argv
-    .find((val) => val.includes("--passage") || val.includes("--p"))
-    .split("=")[1];
-
+const getBiblePassage = async (passage) => {
   const book = passage.split(" ")[0];
 
   const chapter = passage.split(" ")[1].split(":")[0];
   const startVerse = passage.split(" ")[1].split(":")[1]?.split("-")[0];
   const endVerse = passage.split(" ")[1].split(":")[1]?.split("-")[1];
 
-  console.log(passage + "\n");
-
   const currentBook = await fetchBibleBook(book);
   const currentChapter = currentBook.find((d) => d.chapter == chapter);
+
+  const result = [];
 
   currentChapter.verses.forEach((v) => {
     if (
@@ -31,9 +27,11 @@ const getBiblePassage = async () => {
       (startVerse && !endVerse && v.verse == startVerse) ||
       (startVerse && endVerse && v.verse >= startVerse && v.verse <= endVerse)
     ) {
-      console.log(`${v.verse}. ${v.text}`);
+      result.push({ verse: v.verse, text: v.text });
     }
   });
+
+  return result;
 };
 
 module.exports = {
