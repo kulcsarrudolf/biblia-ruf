@@ -3,8 +3,8 @@ function BibleBook(abbreviation, name) {
   this.name = name;
 }
 
-const showBibleBooks = () => {
-  var bibleBooks = {
+const getBibleBooks = () => {
+  const bibleBooks = {
     old: [
       new BibleBook("1Móz", "Mózes első könyve"),
       new BibleBook("2Móz", "Mózes második könyve"),
@@ -77,9 +77,9 @@ const showBibleBooks = () => {
     ],
   };
 
-  console.table([...bibleBooks.old, ...bibleBooks.new]);
+  return [...bibleBooks.old, ...bibleBooks.new];
 };
 
 module.exports = {
-  showBibleBooks,
+  getBibleBooks: getBibleBooks,
 };

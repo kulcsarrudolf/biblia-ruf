@@ -1,6 +1,7 @@
 #!/usr/bin/env node
 
-const { getBiblePassage, showBibleBooks, help } = require("../src");
+const { getBiblePassage, getBibleBooks } = require("../src");
+const { help } = require("./help");
 
 const getBiblePassageCli = async () => {
   const passage = process.argv
@@ -16,15 +17,19 @@ const getBiblePassageCli = async () => {
   });
 };
 
+const showBibleBooksCli = () => {
+  const list = getBibleBooks();
+
+  console.table(list);
+};
+
 const parseCommand = () => {
   const currentCommand = process.argv;
-
-  console.log();
 
   const commandList = [
     { option: "--p", foo: getBiblePassageCli },
     { option: "--passage", foo: getBiblePassageCli },
-    { option: "--showBooks", foo: showBibleBooks },
+    { option: "--showBooks", foo: showBibleBooksCli },
     { option: "--help", foo: help },
   ];
 
