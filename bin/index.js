@@ -1,6 +1,11 @@
 #!/usr/bin/env node
 
-const { getBiblePassage, getBibleBooks } = require("../src");
+const {
+  getBiblePassage,
+  getBibleBooks,
+  getBibleBooksOldTestament,
+  getBibleBooksNewTestament,
+} = require("../src");
 const { help } = require("./help");
 
 const getBiblePassageCli = async () => {
@@ -19,21 +24,17 @@ const getBiblePassageCli = async () => {
 
 const showBibleBooksCli = () => {
   const currentCommand = process.argv;
-  let param = "All";
+  let bookList = getBibleBooks();
 
   if (currentCommand.includes("--old")) {
-    param = "Old";
+    bookList = getBibleBooksOldTestament();
   }
 
   if (currentCommand.includes("--new")) {
-    param = "New";
+    bookList = getBibleBooksNewTestament;
   }
 
-  console.log(param);
-
-  const list = getBibleBooks(param);
-
-  console.table(list);
+  console.table(bookList);
 };
 
 const parseCommand = () => {

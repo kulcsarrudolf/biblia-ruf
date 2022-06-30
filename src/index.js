@@ -1,7 +1,13 @@
 const { getBiblePassage } = require("./passage");
-const { getBibleBooks } = require("./books");
+const {
+  getBibleBooks,
+  getBibleBooksOldTestament,
+  getBibleBooksNewTestament,
+} = require("./books");
 
 module.exports = {
   getBiblePassage,
   getBibleBooks,
+  getBibleBooksOldTestament,
+  getBibleBooksNewTestament,
 };
