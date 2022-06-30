@@ -31,7 +31,7 @@ const showBibleBooksCli = () => {
   }
 
   if (currentCommand.includes("--new")) {
-    bookList = getBibleBooksNewTestament;
+    bookList = getBibleBooksNewTestament();
   }
 
   console.table(bookList);

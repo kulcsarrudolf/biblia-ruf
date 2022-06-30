@@ -78,9 +78,9 @@ const bibleBooks = {
 
 const getBibleBooks = () => [...bibleBooks.old, ...bibleBooks.new];
 
-const getBibleBooksOldTestament = () => bibleBooks.old;
+const getBibleBooksOldTestament = () => [...bibleBooks.old];
 
-const getBibleBooksNewTestament = () => bibleBooks.new;
+const getBibleBooksNewTestament = () => [...bibleBooks.new];
 
 module.exports = {
   getBibleBooks: getBibleBooks,
