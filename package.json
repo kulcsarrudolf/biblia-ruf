@@ -1,6 +1,6 @@
 {
   "name": "biblia-ruf",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "RÚF Biblia",
   "main": "index.js",
   "scripts": {
