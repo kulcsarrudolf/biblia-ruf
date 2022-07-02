@@ -1,12 +1,16 @@
 # Biblia (RÚF)
 
-## ❓ How to install CLI?
+## CLI
+
+### ❓ How to install?
 
 ```bash
 $ npm i -g biblia-ruf
 ```
 
-## ❓ How to use?
+### ❓ How to use?
+
+The list with commands:
 
 ```bash
 $ biblia --p="Zsolt 100"
@@ -30,6 +34,10 @@ $ biblia --showBooks --old
 
 ```bash
 $ biblia --showBooks --new
+```
+
+```bash
+$ biblia --showBooks --bookDetails Zsolt
 ```
 
 ## 🎥 Demo Video

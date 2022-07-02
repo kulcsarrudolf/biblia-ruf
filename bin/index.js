@@ -5,7 +5,9 @@ const {
   getBibleBooks,
   getBibleBooksOldTestament,
   getBibleBooksNewTestament,
+  getBookDetails,
 } = require("../src");
+
 const { help } = require("./help");
 
 const getBiblePassageCli = async () => {
@@ -37,6 +39,15 @@ const showBibleBooksCli = () => {
   console.table(bookList);
 };
 
+const getBookDetailsCli = async () => {
+  const currentCommand = process.argv;
+  const requestedBook = currentCommand[3];
+
+  const bookDetails = await getBookDetails(requestedBook);
+
+  console.log(bookDetails);
+};
+
 const parseCommand = () => {
   const currentCommand = process.argv;
 
@@ -44,6 +55,7 @@ const parseCommand = () => {
     { option: "--p", foo: getBiblePassageCli },
     { option: "--passage", foo: getBiblePassageCli },
     { option: "--showBooks", foo: showBibleBooksCli },
+    { option: "--bookDetails", foo: getBookDetailsCli },
     { option: "--help", foo: help },
   ];
 
