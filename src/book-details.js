@@ -1,4 +1,5 @@
 const { default: axios } = require("axios");
+const { readJSONFile } = require("./utils");
 
 const fetchBookDetails = async () => {
   const BOOK_DETAILS_URL =
@@ -10,10 +11,15 @@ const fetchBookDetails = async () => {
 };
 
 const getBookDetails = async (book) => {
+  const verses = new Map();
+
   const books = await fetchBookDetails();
   const res = books.find((b) => b.toc3 === book);
+  const bookContent = await readJSONFile(`json/${book}.json`);
 
-  const verses = "#TBD";
+  bookContent.forEach((ch) => {
+    verses.set(ch.chapter, ch.verses.length);
+  });
 
   return {
     name: res.title,

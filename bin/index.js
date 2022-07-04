@@ -44,6 +44,7 @@ const getBookDetailsCli = async () => {
   const requestedBook = currentCommand[3];
 
   const bookDetails = await getBookDetails(requestedBook);
+  delete bookDetails.verses;
 
   console.log(bookDetails);
 };
