@@ -1,13 +1,6 @@
-const { default: axios } = require("axios");
+const { readJSONFile } = require("./utils");
 
-const fetchBibleBook = async (book) => {
-  const encodedBook = encodeURI(book);
-  const BOOK_URL = `https://raw.githubusercontent.com/kulcsarrudolf/biblia-ruf/main/json/${encodedBook}.json`;
-
-  const response = await axios.get(BOOK_URL);
-
-  return response.data;
-};
+const getBibleBook = async (book) => await readJSONFile(`json/${book}.json`);
 
 const getBiblePassage = async (passage) => {
   const book = passage.split(" ")[0];
@@ -16,7 +9,7 @@ const getBiblePassage = async (passage) => {
   const startVerse = passage.split(" ")[1].split(":")[1]?.split("-")[0];
   const endVerse = passage.split(" ")[1].split(":")[1]?.split("-")[1];
 
-  const currentBook = await fetchBibleBook(book);
+  const currentBook = await getBibleBook(book);
   const currentChapter = currentBook.find((d) => d.chapter == chapter);
 
   const result = [];
