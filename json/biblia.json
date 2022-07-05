@@ -1,0 +1,7796 @@
+[
+  {
+    "title": "Mózes első könyve",
+    "toc2": "1Mózes",
+    "toc3": "1Móz",
+    "slug": "GEN",
+    "url": "/uj/GEN",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "A világ teremtése",
+        "slug": "1",
+        "url": "/uj/GEN/1"
+      },
+      {
+        "number": 2,
+        "title": "A teremtés hetedik napja",
+        "slug": "2",
+        "url": "/uj/GEN/2"
+      },
+      {
+        "number": 3,
+        "title": "A bűnbeesés",
+        "slug": "3",
+        "url": "/uj/GEN/3"
+      },
+      {
+        "number": 4,
+        "title": "Kain és Ábel",
+        "slug": "4",
+        "url": "/uj/GEN/4"
+      },
+      {
+        "number": 5,
+        "title": "Sét utódai Nóéig",
+        "slug": "5",
+        "url": "/uj/GEN/5"
+      },
+      {
+        "number": 6,
+        "title": "Az erőszakosság elterjed a földön",
+        "slug": "6",
+        "url": "/uj/GEN/6"
+      },
+      {
+        "number": 7,
+        "title": "Az özönvíz kezdete",
+        "slug": "7",
+        "url": "/uj/GEN/7"
+      },
+      {
+        "number": 8,
+        "title": "Az özönvíz vége",
+        "slug": "8",
+        "url": "/uj/GEN/8"
+      },
+      {
+        "number": 9,
+        "title": "Isten szövetsége a világgal",
+        "slug": "9",
+        "url": "/uj/GEN/9"
+      },
+      {
+        "number": 10,
+        "title": "Nóé utódai",
+        "slug": "10",
+        "url": "/uj/GEN/10"
+      },
+      {
+        "number": 11,
+        "title": "Bábel tornya",
+        "slug": "11",
+        "url": "/uj/GEN/11"
+      },
+      {
+        "number": 12,
+        "title": "Ábrahám (Abrám) elhívatása",
+        "slug": "12",
+        "url": "/uj/GEN/12"
+      },
+      {
+        "number": 13,
+        "title": "Lót elválik Ábrahámtól",
+        "slug": "13",
+        "url": "/uj/GEN/13"
+      },
+      {
+        "number": 14,
+        "title": "A sziddím-völgyi csata",
+        "slug": "14",
+        "url": "/uj/GEN/14"
+      },
+      {
+        "number": 15,
+        "title": "Ábrahám hite",
+        "slug": "15",
+        "url": "/uj/GEN/15"
+      },
+      {
+        "number": 16,
+        "title": "Hágár és Izmael",
+        "slug": "16",
+        "url": "/uj/GEN/16"
+      },
+      {
+        "number": 17,
+        "title": "Az  Úr megújítja szövetségét Ábrahámmal",
+        "slug": "17",
+        "url": "/uj/GEN/17"
+      },
+      {
+        "number": 18,
+        "title": "Az  Úr megjelenik Ábrahámnak Mamré tölgyesében",
+        "slug": "18",
+        "url": "/uj/GEN/18"
+      },
+      {
+        "number": 19,
+        "title": "A romlott Sodoma",
+        "slug": "19",
+        "url": "/uj/GEN/19"
+      },
+      {
+        "number": 20,
+        "title": "Ábrahám és Sára Gerárban",
+        "slug": "20",
+        "url": "/uj/GEN/20"
+      },
+      {
+        "number": 21,
+        "title": "Izsák születése",
+        "slug": "21",
+        "url": "/uj/GEN/21"
+      },
+      {
+        "number": 22,
+        "title": "Isten próbára teszi Ábrahám hitét",
+        "slug": "22",
+        "url": "/uj/GEN/22"
+      },
+      {
+        "number": 23,
+        "title": "Sára halála és temetése",
+        "slug": "23",
+        "url": "/uj/GEN/23"
+      },
+      {
+        "number": 24,
+        "title": "Ábrahám feleséget hozat Izsáknak",
+        "slug": "24",
+        "url": "/uj/GEN/24"
+      },
+      {
+        "number": 25,
+        "title": "Ábrahám második házassága",
+        "slug": "25",
+        "url": "/uj/GEN/25"
+      },
+      {
+        "number": 26,
+        "title": "Izsák és Rebeka Gerárban",
+        "slug": "26",
+        "url": "/uj/GEN/26"
+      },
+      {
+        "number": 27,
+        "title": "Jákób csalással szerzi meg az apai áldást",
+        "slug": "27",
+        "url": "/uj/GEN/27"
+      },
+      {
+        "number": 28,
+        "title": "Izsák Lábánhoz küldi Jákóbot",
+        "slug": "28",
+        "url": "/uj/GEN/28"
+      },
+      {
+        "number": 29,
+        "title": "Jákób Lábán házában",
+        "slug": "29",
+        "url": "/uj/GEN/29"
+      },
+      {
+        "number": 30,
+        "title": "Jákób meggazdagodik",
+        "slug": "30",
+        "url": "/uj/GEN/30"
+      },
+      {
+        "number": 31,
+        "title": "Jákób elhagyja Lábánt",
+        "slug": "31",
+        "url": "/uj/GEN/31"
+      },
+      {
+        "number": 32,
+        "title": "Jákób követeket küld Ézsauhoz",
+        "slug": "32",
+        "url": "/uj/GEN/32"
+      },
+      {
+        "number": 33,
+        "title": "Ézsau kibékül Jákóbbal",
+        "slug": "33",
+        "url": "/uj/GEN/33"
+      },
+      {
+        "number": 34,
+        "title": "Sikem és Dina",
+        "slug": "34",
+        "url": "/uj/GEN/34"
+      },
+      {
+        "number": 35,
+        "title": "Jákób Bételben",
+        "slug": "35",
+        "url": "/uj/GEN/35"
+      },
+      {
+        "number": 36,
+        "title": "Ézsau nemzetsége",
+        "slug": "36",
+        "url": "/uj/GEN/36"
+      },
+      {
+        "number": 37,
+        "title": "József álmai",
+        "slug": "37",
+        "url": "/uj/GEN/37"
+      },
+      {
+        "number": 38,
+        "title": "Júda és Támár",
+        "slug": "38",
+        "url": "/uj/GEN/38"
+      },
+      {
+        "number": 39,
+        "title": "József Potifár házában",
+        "slug": "39",
+        "url": "/uj/GEN/39"
+      },
+      {
+        "number": 40,
+        "title": "József álmokat fejt meg a börtönben",
+        "slug": "40",
+        "url": "/uj/GEN/40"
+      },
+      {
+        "number": 41,
+        "title": "József megfejti a fáraó álmait",
+        "slug": "41",
+        "url": "/uj/GEN/41"
+      },
+      {
+        "number": 42,
+        "title": "Jákób Egyiptomba küldi fiait élelemért",
+        "slug": "42",
+        "url": "/uj/GEN/42"
+      },
+      {
+        "number": 43,
+        "title": "Jákób fiai újra Egyiptomba mennek",
+        "slug": "43",
+        "url": "/uj/GEN/43"
+      },
+      {
+        "number": 44,
+        "title": "József serlegét Benjámin zsákjába rejtik",
+        "slug": "44",
+        "url": "/uj/GEN/44"
+      },
+      {
+        "number": 45,
+        "title": "József megismerteti magát testvéreivel",
+        "slug": "45",
+        "url": "/uj/GEN/45"
+      },
+      {
+        "number": 46,
+        "title": "Jákób fiaival együtt Egyiptomba költözik",
+        "slug": "46",
+        "url": "/uj/GEN/46"
+      },
+      {
+        "number": 47,
+        "title": "Jákób és családja letelepszik Gósen földjén",
+        "slug": "47",
+        "url": "/uj/GEN/47"
+      },
+      {
+        "number": 48,
+        "title": "Jákób megáldja Efraimot és Manassét",
+        "slug": "48",
+        "url": "/uj/GEN/48"
+      },
+      {
+        "number": 49,
+        "title": "Jákób megáldja tizenkét fiát",
+        "slug": "49",
+        "url": "/uj/GEN/49"
+      },
+      {
+        "number": 50,
+        "title": "Jákób holttestét Hebrónba szállítják",
+        "slug": "50",
+        "url": "/uj/GEN/50"
+      }
+    ]
+  },
+  {
+    "title": "Mózes második könyve",
+    "toc2": "2Mózes",
+    "toc3": "2Móz",
+    "slug": "EXO",
+    "url": "/uj/EXO",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Izráel fiai nagy néppé lesznek Egyiptomban",
+        "slug": "1",
+        "url": "/uj/EXO/1"
+      },
+      {
+        "number": 2,
+        "title": "Mózes születése",
+        "slug": "2",
+        "url": "/uj/EXO/2"
+      },
+      {
+        "number": 3,
+        "title": "Isten megjelenik Mózesnek, és elhívja őt",
+        "slug": "3",
+        "url": "/uj/EXO/3"
+      },
+      {
+        "number": 4,
+        "title": "Isten felkészíti Mózest a küldetésre",
+        "slug": "4",
+        "url": "/uj/EXO/4"
+      },
+      {
+        "number": 5,
+        "title": "A fáraó elutasítja Mózes és Áron kérését",
+        "slug": "5",
+        "url": "/uj/EXO/5"
+      },
+      {
+        "number": 6,
+        "title": "Az  Úr megújítja ígéretét",
+        "slug": "6",
+        "url": "/uj/EXO/6"
+      },
+      {
+        "number": 7,
+        "title": "Az első csapás: a vizek vérré válnak",
+        "slug": "7",
+        "url": "/uj/EXO/7"
+      },
+      {
+        "number": 8,
+        "title": "Harmadik csapás: a szúnyogok",
+        "slug": "8",
+        "url": "/uj/EXO/8"
+      },
+      {
+        "number": 9,
+        "title": "Ötödik csapás: a dögvész",
+        "slug": "9",
+        "url": "/uj/EXO/9"
+      },
+      {
+        "number": 10,
+        "title": "Nyolcadik csapás: a sáskajárás",
+        "slug": "10",
+        "url": "/uj/EXO/10"
+      },
+      {
+        "number": 11,
+        "title": "Készülődés a kivonulásra",
+        "slug": "11",
+        "url": "/uj/EXO/11"
+      },
+      {
+        "number": 12,
+        "title": "A páskabárány elrendelése",
+        "slug": "12",
+        "url": "/uj/EXO/12"
+      },
+      {
+        "number": 13,
+        "title": "Rendelkezések az elsőszülöttekről és a kovásztalan kenyérről",
+        "slug": "13",
+        "url": "/uj/EXO/13"
+      },
+      {
+        "number": 14,
+        "title": "A fáraó üldözőbe veszi Izráelt",
+        "slug": "14",
+        "url": "/uj/EXO/14"
+      },
+      {
+        "number": 15,
+        "title": "Mózes hálaadó éneke",
+        "slug": "15",
+        "url": "/uj/EXO/15"
+      },
+      {
+        "number": 16,
+        "title": "Izráel zúgolódik az éhség miatt",
+        "slug": "16",
+        "url": "/uj/EXO/16"
+      },
+      {
+        "number": 17,
+        "title": "Mózes vizet fakaszt a sziklából",
+        "slug": "17",
+        "url": "/uj/EXO/17"
+      },
+      {
+        "number": 18,
+        "title": "Jetró meglátogatja Mózest",
+        "slug": "18",
+        "url": "/uj/EXO/18"
+      },
+      {
+        "number": 19,
+        "title": "Izráel a Sínai-hegynél",
+        "slug": "19",
+        "url": "/uj/EXO/19"
+      },
+      {
+        "number": 20,
+        "title": "A Tízparancsolat",
+        "slug": "20",
+        "url": "/uj/EXO/20"
+      },
+      {
+        "number": 21,
+        "title": "A rabszolgák törvénye",
+        "slug": "21",
+        "url": "/uj/EXO/21"
+      },
+      {
+        "number": 22,
+        "title": "A lopás és hűtlen kezelés büntetése",
+        "slug": "22",
+        "url": "/uj/EXO/22"
+      },
+      {
+        "number": 23,
+        "title": "Intés az igaz és emberséges magatartásra",
+        "slug": "23",
+        "url": "/uj/EXO/23"
+      },
+      {
+        "number": 24,
+        "title": "A szövetség megkötése",
+        "slug": "24",
+        "url": "/uj/EXO/24"
+      },
+      {
+        "number": 25,
+        "title": "Utasítások a szent hajlék készítésére",
+        "slug": "25",
+        "url": "/uj/EXO/25"
+      },
+      {
+        "number": 26,
+        "title": "A szent hajlék sátorlapjai",
+        "slug": "26",
+        "url": "/uj/EXO/26"
+      },
+      {
+        "number": 27,
+        "title": "Az égőáldozati oltár",
+        "slug": "27",
+        "url": "/uj/EXO/27"
+      },
+      {
+        "number": 28,
+        "title": "A papi ruhák",
+        "slug": "28",
+        "url": "/uj/EXO/28"
+      },
+      {
+        "number": 29,
+        "title": "A papok fölszentelése",
+        "slug": "29",
+        "url": "/uj/EXO/29"
+      },
+      {
+        "number": 30,
+        "title": "Az illatáldozati oltár",
+        "slug": "30",
+        "url": "/uj/EXO/30"
+      },
+      {
+        "number": 31,
+        "title": "A mesterek kijelölése",
+        "slug": "31",
+        "url": "/uj/EXO/31"
+      },
+      {
+        "number": 32,
+        "title": "Áron aranyborjút készít",
+        "slug": "32",
+        "url": "/uj/EXO/32"
+      },
+      {
+        "number": 33,
+        "title": "Az  Úr nem akar a nép között maradni",
+        "slug": "33",
+        "url": "/uj/EXO/33"
+      },
+      {
+        "number": 34,
+        "title": "Új kőtáblák",
+        "slug": "34",
+        "url": "/uj/EXO/34"
+      },
+      {
+        "number": 35,
+        "title": "A hetedik nap megszentelése",
+        "slug": "35",
+        "url": "/uj/EXO/35"
+      },
+      {
+        "number": 36,
+        "title": "Elkészül a szent hajlék",
+        "slug": "36",
+        "url": "/uj/EXO/36"
+      },
+      {
+        "number": 37,
+        "title": "A szövetség ládája",
+        "slug": "37",
+        "url": "/uj/EXO/37"
+      },
+      {
+        "number": 38,
+        "title": "Az égőáldozati oltár",
+        "slug": "38",
+        "url": "/uj/EXO/38"
+      },
+      {
+        "number": 39,
+        "title": "A papi ruhák",
+        "slug": "39",
+        "url": "/uj/EXO/39"
+      },
+      {
+        "number": 40,
+        "title": "A kijelentés sátra és a papok fölszentelése",
+        "slug": "40",
+        "url": "/uj/EXO/40"
+      }
+    ]
+  },
+  {
+    "title": "Mózes harmadik könyve",
+    "toc2": "3Mózes",
+    "toc3": "3Móz",
+    "slug": "LEV",
+    "url": "/uj/LEV",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Az égőáldozat fajtái",
+        "slug": "1",
+        "url": "/uj/LEV/1"
+      },
+      {
+        "number": 2,
+        "title": "Az ételáldozat fajtái",
+        "slug": "2",
+        "url": "/uj/LEV/2"
+      },
+      {
+        "number": 3,
+        "title": "A békeáldozat fajtái",
+        "slug": "3",
+        "url": "/uj/LEV/3"
+      },
+      {
+        "number": 4,
+        "title": "A főpap vétekáldozata",
+        "slug": "4",
+        "url": "/uj/LEV/4"
+      },
+      {
+        "number": 5,
+        "title": "A jóvátételi áldozat fajtái",
+        "slug": "5",
+        "url": "/uj/LEV/5"
+      },
+      {
+        "number": 6,
+        "title": "Az égőáldozat bemutatása",
+        "slug": "6",
+        "url": "/uj/LEV/6"
+      },
+      {
+        "number": 7,
+        "title": "A jóvátételi áldozat bemutatása",
+        "slug": "7",
+        "url": "/uj/LEV/7"
+      },
+      {
+        "number": 8,
+        "title": "Áronnak és fiainak pappá szentelése",
+        "slug": "8",
+        "url": "/uj/LEV/8"
+      },
+      {
+        "number": 9,
+        "title": "Áron áldozatai önmagáért és a népért",
+        "slug": "9",
+        "url": "/uj/LEV/9"
+      },
+      {
+        "number": 10,
+        "title": "Nádáb és Abíhú bűne és bűnhődése",
+        "slug": "10",
+        "url": "/uj/LEV/10"
+      },
+      {
+        "number": 11,
+        "title": "A tiszta és tisztátalan állatok megkülönböztetése ",
+        "slug": "11",
+        "url": "/uj/LEV/11"
+      },
+      {
+        "number": 12,
+        "title": "A szülő asszony tisztulási törvénye",
+        "slug": "12",
+        "url": "/uj/LEV/12"
+      },
+      {
+        "number": 13,
+        "title": "A poklos betegségekre vonatkozó törvény",
+        "slug": "13",
+        "url": "/uj/LEV/13"
+      },
+      {
+        "number": 14,
+        "title": "A poklos ember tisztulásának törvénye",
+        "slug": "14",
+        "url": "/uj/LEV/14"
+      },
+      {
+        "number": 15,
+        "title": "Különféle testi tisztátalanságok",
+        "slug": "15",
+        "url": "/uj/LEV/15"
+      },
+      {
+        "number": 16,
+        "title": "Az engesztelési ünnep",
+        "slug": "16",
+        "url": "/uj/LEV/16"
+      },
+      {
+        "number": 17,
+        "title": "Az állatok levágásának a törvénye",
+        "slug": "17",
+        "url": "/uj/LEV/17"
+      },
+      {
+        "number": 18,
+        "title": "A családi élet tisztasága",
+        "slug": "18",
+        "url": "/uj/LEV/18"
+      },
+      {
+        "number": 19,
+        "title": "A Tízparancsolat követelményei",
+        "slug": "19",
+        "url": "/uj/LEV/19"
+      },
+      {
+        "number": 20,
+        "title": "Vallási és erkölcsi vétkek tiltása",
+        "slug": "20",
+        "url": "/uj/LEV/20"
+      },
+      {
+        "number": 21,
+        "title": "A papi tisztséggel járó követelmények",
+        "slug": "21",
+        "url": "/uj/LEV/21"
+      },
+      {
+        "number": 22,
+        "title": "Az áldozati ételek szentek",
+        "slug": "22",
+        "url": "/uj/LEV/22"
+      },
+      {
+        "number": 23,
+        "title": "Az ünnepek elrendelése. A nyugalom napja",
+        "slug": "23",
+        "url": "/uj/LEV/23"
+      },
+      {
+        "number": 24,
+        "title": "Az örökmécses és a szent kenyerek",
+        "slug": "24",
+        "url": "/uj/LEV/24"
+      },
+      {
+        "number": 25,
+        "title": "A nyugalom esztendeje",
+        "slug": "25",
+        "url": "/uj/LEV/25"
+      },
+      {
+        "number": 26,
+        "title": "A bálványimádás tilalma",
+        "slug": "26",
+        "url": "/uj/LEV/26"
+      },
+      {
+        "number": 27,
+        "title": "A fogadalmak megváltása",
+        "slug": "27",
+        "url": "/uj/LEV/27"
+      }
+    ]
+  },
+  {
+    "title": "Mózes negyedik könyve",
+    "toc2": "4Mózes",
+    "toc3": "4Móz",
+    "slug": "NUM",
+    "url": "/uj/NUM",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Izráel számbavétele",
+        "slug": "1",
+        "url": "/uj/NUM/1"
+      },
+      {
+        "number": 2,
+        "title": "A törzsek táborozásának és menetelésének a rendje",
+        "slug": "2",
+        "url": "/uj/NUM/2"
+      },
+      {
+        "number": 3,
+        "title": "Áron és családja",
+        "slug": "3",
+        "url": "/uj/NUM/3"
+      },
+      {
+        "number": 4,
+        "title": "A léviták tiszte",
+        "slug": "4",
+        "url": "/uj/NUM/4"
+      },
+      {
+        "number": 5,
+        "title": "A tisztátalanok elkülönítése",
+        "slug": "5",
+        "url": "/uj/NUM/5"
+      },
+      {
+        "number": 6,
+        "title": "A názírfogadalom",
+        "slug": "6",
+        "url": "/uj/NUM/6"
+      },
+      {
+        "number": 7,
+        "title": "A fejedelmek ajándéka",
+        "slug": "7",
+        "url": "/uj/NUM/7"
+      },
+      {
+        "number": 8,
+        "title": "Az arany lámpatartó",
+        "slug": "8",
+        "url": "/uj/NUM/8"
+      },
+      {
+        "number": 9,
+        "title": "A páska megünneplése",
+        "slug": "9",
+        "url": "/uj/NUM/9"
+      },
+      {
+        "number": 10,
+        "title": "Az ezüstharsonák",
+        "slug": "10",
+        "url": "/uj/NUM/10"
+      },
+      {
+        "number": 11,
+        "title": "A táborégés",
+        "slug": "11",
+        "url": "/uj/NUM/11"
+      },
+      {
+        "number": 12,
+        "title": "Mirjám poklossága",
+        "slug": "12",
+        "url": "/uj/NUM/12"
+      },
+      {
+        "number": 13,
+        "title": "Mózes kémeket küld Kánaánba",
+        "slug": "13",
+        "url": "/uj/NUM/13"
+      },
+      {
+        "number": 14,
+        "title": "A nép zúgolódása és bűnhődése",
+        "slug": "14",
+        "url": "/uj/NUM/14"
+      },
+      {
+        "number": 15,
+        "title": "Áldozati rendelkezések",
+        "slug": "15",
+        "url": "/uj/NUM/15"
+      },
+      {
+        "number": 16,
+        "title": "Kórah, Dátán és Abírám lázadása",
+        "slug": "16",
+        "url": "/uj/NUM/16"
+      },
+      {
+        "number": 17,
+        "title": "Áron vesszeje kivirágzik",
+        "slug": "17",
+        "url": "/uj/NUM/17"
+      },
+      {
+        "number": 18,
+        "title": "A papok és léviták tiszte és javadalma",
+        "slug": "18",
+        "url": "/uj/NUM/18"
+      },
+      {
+        "number": 19,
+        "title": "A tisztító víz",
+        "slug": "19",
+        "url": "/uj/NUM/19"
+      },
+      {
+        "number": 20,
+        "title": "Mirjám halála ",
+        "slug": "20",
+        "url": "/uj/NUM/20"
+      },
+      {
+        "number": 21,
+        "title": "A rézkígyó",
+        "slug": "21",
+        "url": "/uj/NUM/21"
+      },
+      {
+        "number": 22,
+        "title": "Bálák hívatja Bálámot",
+        "slug": "22",
+        "url": "/uj/NUM/22"
+      },
+      {
+        "number": 23,
+        "title": "Bálám megáldja Izráelt",
+        "slug": "23",
+        "url": "/uj/NUM/23"
+      },
+      {
+        "number": 24,
+        "title": "Bálám Jákób csillagáról jövendöl",
+        "slug": "24",
+        "url": "/uj/NUM/24"
+      },
+      {
+        "number": 25,
+        "title": "Izráel paráznasága és bűnhődése",
+        "slug": "25",
+        "url": "/uj/NUM/25"
+      },
+      {
+        "number": 26,
+        "title": "Népszámlálás Móáb síkságán",
+        "slug": "26",
+        "url": "/uj/NUM/26"
+      },
+      {
+        "number": 27,
+        "title": "Örökösödés leányágon Izráelben",
+        "slug": "27",
+        "url": "/uj/NUM/27"
+      },
+      {
+        "number": 28,
+        "title": "A mindennapi égőáldozat",
+        "slug": "28",
+        "url": "/uj/NUM/28"
+      },
+      {
+        "number": 29,
+        "title": "Áldozat a kürtzengés ünnepén",
+        "slug": "29",
+        "url": "/uj/NUM/29"
+      },
+      {
+        "number": 30,
+        "title": "Az asszonyok fogadalma",
+        "slug": "30",
+        "url": "/uj/NUM/30"
+      },
+      {
+        "number": 31,
+        "title": "Izráel bosszút áll Midjánon",
+        "slug": "31",
+        "url": "/uj/NUM/31"
+      },
+      {
+        "number": 32,
+        "title": "A Jordántól keletre eső országrész felosztása",
+        "slug": "32",
+        "url": "/uj/NUM/32"
+      },
+      {
+        "number": 33,
+        "title": "Izráel táborhelyei a pusztában",
+        "slug": "33",
+        "url": "/uj/NUM/33"
+      },
+      {
+        "number": 34,
+        "title": "Az ígéret földjének határai",
+        "slug": "34",
+        "url": "/uj/NUM/34"
+      },
+      {
+        "number": 35,
+        "title": "A léviták városai",
+        "slug": "35",
+        "url": "/uj/NUM/35"
+      },
+      {
+        "number": 36,
+        "title": "Örökösödés leányágon",
+        "slug": "36",
+        "url": "/uj/NUM/36"
+      }
+    ]
+  },
+  {
+    "title": "Mózes ötödik könyve",
+    "toc2": "5Mózes",
+    "toc3": "5Móz",
+    "slug": "DEU",
+    "url": "/uj/DEU",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Visszatekintés Izráel pusztai vándorlására",
+        "slug": "1",
+        "url": "/uj/DEU/1"
+      },
+      {
+        "number": 2,
+        "title": "Izráel kikerüli Edóm, Móáb és Ammón országát",
+        "slug": "2",
+        "url": "/uj/DEU/2"
+      },
+      {
+        "number": 3,
+        "title": "Izráel legyőzi Básán királyát",
+        "slug": "3",
+        "url": "/uj/DEU/3"
+      },
+      {
+        "number": 4,
+        "title": "Mózes a törvény megtartására inti népét",
+        "slug": "4",
+        "url": "/uj/DEU/4"
+      },
+      {
+        "number": 5,
+        "title": "A Tízparancsolat",
+        "slug": "5",
+        "url": "/uj/DEU/5"
+      },
+      {
+        "number": 6,
+        "title": "A nagy parancsolat: Szeresd az  Urat!",
+        "slug": "6",
+        "url": "/uj/DEU/6"
+      },
+      {
+        "number": 7,
+        "title": "Parancs a kánaáni bálványimádás kiirtására",
+        "slug": "7",
+        "url": "/uj/DEU/7"
+      },
+      {
+        "number": 8,
+        "title": "Isten jósága hűségre kötelez",
+        "slug": "8",
+        "url": "/uj/DEU/8"
+      },
+      {
+        "number": 9,
+        "title": "Emlékeztetés Izráel nyakasságára",
+        "slug": "9",
+        "url": "/uj/DEU/9"
+      },
+      {
+        "number": 10,
+        "title": "Új törvénytáblák. Áron halála",
+        "slug": "10",
+        "url": "/uj/DEU/10"
+      },
+      {
+        "number": 11,
+        "title": "Emlékeztetés az  Úr csodáira",
+        "slug": "11",
+        "url": "/uj/DEU/11"
+      },
+      {
+        "number": 12,
+        "title": "Csak egy helyen szabad áldozni",
+        "slug": "12",
+        "url": "/uj/DEU/12"
+      },
+      {
+        "number": 13,
+        "title": "A bálványimádásra csábítók büntetése",
+        "slug": "13",
+        "url": "/uj/DEU/13"
+      },
+      {
+        "number": 14,
+        "title": "A pogányos gyász tilalma",
+        "slug": "14",
+        "url": "/uj/DEU/14"
+      },
+      {
+        "number": 15,
+        "title": "Az elengedés esztendeje",
+        "slug": "15",
+        "url": "/uj/DEU/15"
+      },
+      {
+        "number": 16,
+        "title": "A három főünnep",
+        "slug": "16",
+        "url": "/uj/DEU/16"
+      },
+      {
+        "number": 17,
+        "title": "A legfőbb törvényszék",
+        "slug": "17",
+        "url": "/uj/DEU/17"
+      },
+      {
+        "number": 18,
+        "title": "A lévita papok javadalma",
+        "slug": "18",
+        "url": "/uj/DEU/18"
+      },
+      {
+        "number": 19,
+        "title": "Menedékvárosok",
+        "slug": "19",
+        "url": "/uj/DEU/19"
+      },
+      {
+        "number": 20,
+        "title": "A hadviselés szabályai",
+        "slug": "20",
+        "url": "/uj/DEU/20"
+      },
+      {
+        "number": 21,
+        "title": "Engesztelés ismeretlen tettes által meggyilkoltakért",
+        "slug": "21",
+        "url": "/uj/DEU/21"
+      },
+      {
+        "number": 22,
+        "title": "Az elveszett jószág megőrzése",
+        "slug": "22",
+        "url": "/uj/DEU/22"
+      },
+      {
+        "number": 23,
+        "title": "Kik tartozhatnak az  Úr gyülekezetéhez?",
+        "slug": "23",
+        "url": "/uj/DEU/23"
+      },
+      {
+        "number": 24,
+        "title": "A házassági elválás",
+        "slug": "24",
+        "url": "/uj/DEU/24"
+      },
+      {
+        "number": 25,
+        "title": "A botbüntetés",
+        "slug": "25",
+        "url": "/uj/DEU/25"
+      },
+      {
+        "number": 26,
+        "title": "Az új termés bemutatása",
+        "slug": "26",
+        "url": "/uj/DEU/26"
+      },
+      {
+        "number": 27,
+        "title": "Az emlékkövek felállítása",
+        "slug": "27",
+        "url": "/uj/DEU/27"
+      },
+      {
+        "number": 28,
+        "title": "Áldások ígérete",
+        "slug": "28",
+        "url": "/uj/DEU/28"
+      },
+      {
+        "number": 29,
+        "title": "Intés a szövetség megtartására",
+        "slug": "29",
+        "url": "/uj/DEU/29"
+      },
+      {
+        "number": 30,
+        "title": "Az élet és a halál útja",
+        "slug": "30",
+        "url": "/uj/DEU/30"
+      },
+      {
+        "number": 31,
+        "title": "Józsué Mózes utódja",
+        "slug": "31",
+        "url": "/uj/DEU/31"
+      },
+      {
+        "number": 32,
+        "title": "Mózes éneke",
+        "slug": "32",
+        "url": "/uj/DEU/32"
+      },
+      {
+        "number": 33,
+        "title": "Mózes áldásai",
+        "slug": "33",
+        "url": "/uj/DEU/33"
+      },
+      {
+        "number": 34,
+        "title": "Mózes halála",
+        "slug": "34",
+        "url": "/uj/DEU/34"
+      }
+    ]
+  },
+  {
+    "title": "Józsué könyve",
+    "toc2": "Józsué",
+    "toc3": "Józs",
+    "slug": "JOS",
+    "url": "/uj/JOS",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Isten parancsa és ígérete Józsuénak",
+        "slug": "1",
+        "url": "/uj/JOS/1"
+      },
+      {
+        "number": 2,
+        "title": "Józsué kémeket küld Jerikóba",
+        "slug": "2",
+        "url": "/uj/JOS/2"
+      },
+      {
+        "number": 3,
+        "title": "Megérkezés a Jordánhoz",
+        "slug": "3",
+        "url": "/uj/JOS/3"
+      },
+      {
+        "number": 4,
+        "title": "A tizenkét emlékkő felállítása",
+        "slug": "4",
+        "url": "/uj/JOS/4"
+      },
+      {
+        "number": 5,
+        "title": "Körülmetélkedés és páskaünnep Kánaánban",
+        "slug": "5",
+        "url": "/uj/JOS/5"
+      },
+      {
+        "number": 6,
+        "title": "Jerikó bevétele",
+        "slug": "6",
+        "url": "/uj/JOS/6"
+      },
+      {
+        "number": 7,
+        "title": "Izráel veresége Ajnál",
+        "slug": "7",
+        "url": "/uj/JOS/7"
+      },
+      {
+        "number": 8,
+        "title": "Haditerv Aj elfoglalására",
+        "slug": "8",
+        "url": "/uj/JOS/8"
+      },
+      {
+        "number": 9,
+        "title": "Izráel és a ravasz gibeóniak",
+        "slug": "9",
+        "url": "/uj/JOS/9"
+      },
+      {
+        "number": 10,
+        "title": "A kánaániak megtámadják Gibeónt",
+        "slug": "10",
+        "url": "/uj/JOS/10"
+      },
+      {
+        "number": 11,
+        "title": "Ütközet Mérómnál",
+        "slug": "11",
+        "url": "/uj/JOS/11"
+      },
+      {
+        "number": 12,
+        "title": "A legyőzött királyok felsorolása",
+        "slug": "12",
+        "url": "/uj/JOS/12"
+      },
+      {
+        "number": 13,
+        "title": "Az el nem foglalt területek",
+        "slug": "13",
+        "url": "/uj/JOS/13"
+      },
+      {
+        "number": 14,
+        "title": "A Jordánon inneni terület felosztása",
+        "slug": "14",
+        "url": "/uj/JOS/14"
+      },
+      {
+        "number": 15,
+        "title": "Júda határai",
+        "slug": "15",
+        "url": "/uj/JOS/15"
+      },
+      {
+        "number": 16,
+        "title": "József fiainak öröksége",
+        "slug": "16",
+        "url": "/uj/JOS/16"
+      },
+      {
+        "number": 17,
+        "title": "Manassé öröksége",
+        "slug": "17",
+        "url": "/uj/JOS/17"
+      },
+      {
+        "number": 18,
+        "title": "Az ország többi részének összeírása",
+        "slug": "18",
+        "url": "/uj/JOS/18"
+      },
+      {
+        "number": 19,
+        "title": "Simeon öröksége",
+        "slug": "19",
+        "url": "/uj/JOS/19"
+      },
+      {
+        "number": 20,
+        "title": "A menedékvárosok",
+        "slug": "20",
+        "url": "/uj/JOS/20"
+      },
+      {
+        "number": 21,
+        "title": "A léviták városai",
+        "slug": "21",
+        "url": "/uj/JOS/21"
+      },
+      {
+        "number": 22,
+        "title": "Józsué elbocsátja a Jordánon túli törzseket",
+        "slug": "22",
+        "url": "/uj/JOS/22"
+      },
+      {
+        "number": 23,
+        "title": "Józsué intelmei",
+        "slug": "23",
+        "url": "/uj/JOS/23"
+      },
+      {
+        "number": 24,
+        "title": "Józsué megújítja a szövetséget Sikemben",
+        "slug": "24",
+        "url": "/uj/JOS/24"
+      }
+    ]
+  },
+  {
+    "title": "A bírák könyve",
+    "toc2": "Bírák",
+    "toc3": "Bír",
+    "slug": "JDG",
+    "url": "/uj/JDG",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Júda és Simeon törzsének harcai",
+        "slug": "1",
+        "url": "/uj/JDG/1"
+      },
+      {
+        "number": 2,
+        "title": "Az  Úr angyala inti Izráelt",
+        "slug": "2",
+        "url": "/uj/JDG/2"
+      },
+      {
+        "number": 3,
+        "title": "Otníél legyőzi Arámot",
+        "slug": "3",
+        "url": "/uj/JDG/3"
+      },
+      {
+        "number": 4,
+        "title": "Bárák legyőzi Siserát",
+        "slug": "4",
+        "url": "/uj/JDG/4"
+      },
+      {
+        "number": 5,
+        "title": "Debóra éneke",
+        "slug": "5",
+        "url": "/uj/JDG/5"
+      },
+      {
+        "number": 6,
+        "title": "Isten Midján kezébe adja Izráelt",
+        "slug": "6",
+        "url": "/uj/JDG/6"
+      },
+      {
+        "number": 7,
+        "title": "Gedeon seregét háromszázra csökkenti az  Úr",
+        "slug": "7",
+        "url": "/uj/JDG/7"
+      },
+      {
+        "number": 8,
+        "title": "A féltékeny efraimiak",
+        "slug": "8",
+        "url": "/uj/JDG/8"
+      },
+      {
+        "number": 9,
+        "title": "Abímelek királysága Sikemben",
+        "slug": "9",
+        "url": "/uj/JDG/9"
+      },
+      {
+        "number": 10,
+        "title": "Tólá és Jáír bírák",
+        "slug": "10",
+        "url": "/uj/JDG/10"
+      },
+      {
+        "number": 11,
+        "title": "Jeftét vezérré választják",
+        "slug": "11",
+        "url": "/uj/JDG/11"
+      },
+      {
+        "number": 12,
+        "title": "Jefte és az efraimiak viszálya",
+        "slug": "12",
+        "url": "/uj/JDG/12"
+      },
+      {
+        "number": 13,
+        "title": "Ígéret Sámson születéséről",
+        "slug": "13",
+        "url": "/uj/JDG/13"
+      },
+      {
+        "number": 14,
+        "title": "Sámson házassága",
+        "slug": "14",
+        "url": "/uj/JDG/14"
+      },
+      {
+        "number": 15,
+        "title": "Sámson felgyújtja a filiszteusok gabonáját",
+        "slug": "15",
+        "url": "/uj/JDG/15"
+      },
+      {
+        "number": 16,
+        "title": "Sámson Gázában",
+        "slug": "16",
+        "url": "/uj/JDG/16"
+      },
+      {
+        "number": 17,
+        "title": "Míká bálványozása",
+        "slug": "17",
+        "url": "/uj/JDG/17"
+      },
+      {
+        "number": 18,
+        "title": "Dán törzse új lakóhelyet keres",
+        "slug": "18",
+        "url": "/uj/JDG/18"
+      },
+      {
+        "number": 19,
+        "title": "Egy lévita Betlehembe utazik",
+        "slug": "19",
+        "url": "/uj/JDG/19"
+      },
+      {
+        "number": 20,
+        "title": "Izráel hadjáratot indít Benjámin ellen",
+        "slug": "20",
+        "url": "/uj/JDG/20"
+      },
+      {
+        "number": 21,
+        "title": "Benjámin törzsének helyreállítása",
+        "slug": "21",
+        "url": "/uj/JDG/21"
+      }
+    ]
+  },
+  {
+    "title": "Ruth könyve",
+    "toc2": "Ruth",
+    "toc3": "Ruth",
+    "slug": "RUT",
+    "url": "/uj/RUT",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Naomi sorsa Móáb országában",
+        "slug": "1",
+        "url": "/uj/RUT/1"
+      },
+      {
+        "number": 2,
+        "title": "Ruth kalászt szed Bóáz szántóföldjén",
+        "slug": "2",
+        "url": "/uj/RUT/2"
+      },
+      {
+        "number": 3,
+        "title": "Naomi tanácsa",
+        "slug": "3",
+        "url": "/uj/RUT/3"
+      },
+      {
+        "number": 4,
+        "title": "Bóáz tárgyal Naomi rokonával",
+        "slug": "4",
+        "url": "/uj/RUT/4"
+      }
+    ]
+  },
+  {
+    "title": "Sámuel első könyve",
+    "toc2": "1Sámuel",
+    "toc3": "1Sám",
+    "slug": "1SA",
+    "url": "/uj/1SA",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Sámuel születése",
+        "slug": "1",
+        "url": "/uj/1SA/1"
+      },
+      {
+        "number": 2,
+        "title": "Anna hálaéneke",
+        "slug": "2",
+        "url": "/uj/1SA/2"
+      },
+      {
+        "number": 3,
+        "title": "Sámuel elhívatása",
+        "slug": "3",
+        "url": "/uj/1SA/3"
+      },
+      {
+        "number": 4,
+        "title": "A filiszteusok megverik Izráelt",
+        "slug": "4",
+        "url": "/uj/1SA/4"
+      },
+      {
+        "number": 5,
+        "title": "A szövetség ládája a filiszteusoknál",
+        "slug": "5",
+        "url": "/uj/1SA/5"
+      },
+      {
+        "number": 6,
+        "title": "A filiszteusok visszaküldik a szövetség ládáját",
+        "slug": "6",
+        "url": "/uj/1SA/6"
+      },
+      {
+        "number": 7,
+        "title": "Izráel legyőzi a filiszteusokat",
+        "slug": "7",
+        "url": "/uj/1SA/7"
+      },
+      {
+        "number": 8,
+        "title": "Izráel királyt kíván",
+        "slug": "8",
+        "url": "/uj/1SA/8"
+      },
+      {
+        "number": 9,
+        "title": "Saul keresi apja szamarait",
+        "slug": "9",
+        "url": "/uj/1SA/9"
+      },
+      {
+        "number": 10,
+        "title": "Sámuel királlyá keni Sault",
+        "slug": "10",
+        "url": "/uj/1SA/10"
+      },
+      {
+        "number": 11,
+        "title": "Saul legyőzi az ammóniakat",
+        "slug": "11",
+        "url": "/uj/1SA/11"
+      },
+      {
+        "number": 12,
+        "title": "Sámuel búcsúbeszéde",
+        "slug": "12",
+        "url": "/uj/1SA/12"
+      },
+      {
+        "number": 13,
+        "title": "Harc a filiszteusokkal",
+        "slug": "13",
+        "url": "/uj/1SA/13"
+      },
+      {
+        "number": 14,
+        "title": "Jónátán hőstette",
+        "slug": "14",
+        "url": "/uj/1SA/14"
+      },
+      {
+        "number": 15,
+        "title": "Háború Amálék ellen",
+        "slug": "15",
+        "url": "/uj/1SA/15"
+      },
+      {
+        "number": 16,
+        "title": "Sámuel felkeni Dávidot Izráel királyává",
+        "slug": "16",
+        "url": "/uj/1SA/16"
+      },
+      {
+        "number": 17,
+        "title": "Háború a filiszteusokkal",
+        "slug": "17",
+        "url": "/uj/1SA/17"
+      },
+      {
+        "number": 18,
+        "title": "Jónátán szövetséget köt Dáviddal",
+        "slug": "18",
+        "url": "/uj/1SA/18"
+      },
+      {
+        "number": 19,
+        "title": "Saul Dávid életére tör",
+        "slug": "19",
+        "url": "/uj/1SA/19"
+      },
+      {
+        "number": 20,
+        "title": "Jónátán megmenti Dávidot",
+        "slug": "20",
+        "url": "/uj/1SA/20"
+      },
+      {
+        "number": 21,
+        "title": "Dávid a nóbi szentélybe menekül",
+        "slug": "21",
+        "url": "/uj/1SA/21"
+      },
+      {
+        "number": 22,
+        "title": "Dávid barlangban rejtőzik el",
+        "slug": "22",
+        "url": "/uj/1SA/22"
+      },
+      {
+        "number": 23,
+        "title": "Dávid megszabadítja Keíla városát",
+        "slug": "23",
+        "url": "/uj/1SA/23"
+      },
+      {
+        "number": 24,
+        "title": "Dávid megkíméli Saul életét",
+        "slug": "24",
+        "url": "/uj/1SA/24"
+      },
+      {
+        "number": 25,
+        "title": "Sámuel halála. Nábál és Abígajil",
+        "slug": "25",
+        "url": "/uj/1SA/25"
+      },
+      {
+        "number": 26,
+        "title": "Dávid újból megkíméli Saul életét",
+        "slug": "26",
+        "url": "/uj/1SA/26"
+      },
+      {
+        "number": 27,
+        "title": "Dávid a filiszteusok között",
+        "slug": "27",
+        "url": "/uj/1SA/27"
+      },
+      {
+        "number": 28,
+        "title": "A filiszteusok háborúra készülnek",
+        "slug": "28",
+        "url": "/uj/1SA/28"
+      },
+      {
+        "number": 29,
+        "title": "A filiszteusok nem bíznak Dávidban",
+        "slug": "29",
+        "url": "/uj/1SA/29"
+      },
+      {
+        "number": 30,
+        "title": "Az amálékiak feldúlják Ciklágot",
+        "slug": "30",
+        "url": "/uj/1SA/30"
+      },
+      {
+        "number": 31,
+        "title": "Saul halála és temetése ",
+        "slug": "31",
+        "url": "/uj/1SA/31"
+      }
+    ]
+  },
+  {
+    "title": "Sámuel második könyve",
+    "toc2": "2Sámuel",
+    "toc3": "2Sám",
+    "slug": "2SA",
+    "url": "/uj/2SA",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Dávid hírt kap Saul haláláról",
+        "slug": "1",
+        "url": "/uj/2SA/1"
+      },
+      {
+        "number": 2,
+        "title": "Dávid Júda királya lesz",
+        "slug": "2",
+        "url": "/uj/2SA/2"
+      },
+      {
+        "number": 3,
+        "title": "Dávid pártja felülkerekedik",
+        "slug": "3",
+        "url": "/uj/2SA/3"
+      },
+      {
+        "number": 4,
+        "title": "Ísbósetet meggyilkolják",
+        "slug": "4",
+        "url": "/uj/2SA/4"
+      },
+      {
+        "number": 5,
+        "title": "Dávid egész Izráel királya lesz",
+        "slug": "5",
+        "url": "/uj/2SA/5"
+      },
+      {
+        "number": 6,
+        "title": "Dávid Jeruzsálembe viteti a szövetség ládáját ",
+        "slug": "6",
+        "url": "/uj/2SA/6"
+      },
+      {
+        "number": 7,
+        "title": "Dávid templomot akar építeni",
+        "slug": "7",
+        "url": "/uj/2SA/7"
+      },
+      {
+        "number": 8,
+        "title": "Dávid győzelmei ",
+        "slug": "8",
+        "url": "/uj/2SA/8"
+      },
+      {
+        "number": 9,
+        "title": "Dávid gondoskodik Jónátán fiáról",
+        "slug": "9",
+        "url": "/uj/2SA/9"
+      },
+      {
+        "number": 10,
+        "title": "Dávid harcai az arámokkal ",
+        "slug": "10",
+        "url": "/uj/2SA/10"
+      },
+      {
+        "number": 11,
+        "title": "Dávid és Betsabé",
+        "slug": "11",
+        "url": "/uj/2SA/11"
+      },
+      {
+        "number": 12,
+        "title": "Nátán példázata",
+        "slug": "12",
+        "url": "/uj/2SA/12"
+      },
+      {
+        "number": 13,
+        "title": "Amnón és Támár",
+        "slug": "13",
+        "url": "/uj/2SA/13"
+      },
+      {
+        "number": 14,
+        "title": "Jóáb ki akarja békíteni Dávidot Absolonnal",
+        "slug": "14",
+        "url": "/uj/2SA/14"
+      },
+      {
+        "number": 15,
+        "title": "Absolon lázadása",
+        "slug": "15",
+        "url": "/uj/2SA/15"
+      },
+      {
+        "number": 16,
+        "title": "Cíbá Dávidhoz pártol",
+        "slug": "16",
+        "url": "/uj/2SA/16"
+      },
+      {
+        "number": 17,
+        "title": "Ahítófel és Húsaj tanácsa",
+        "slug": "17",
+        "url": "/uj/2SA/17"
+      },
+      {
+        "number": 18,
+        "title": "Absolon veresége és halála",
+        "slug": "18",
+        "url": "/uj/2SA/18"
+      },
+      {
+        "number": 19,
+        "title": "Dávid siratja Absolont",
+        "slug": "19",
+        "url": "/uj/2SA/19"
+      },
+      {
+        "number": 20,
+        "title": "Seba lázadása",
+        "slug": "20",
+        "url": "/uj/2SA/20"
+      },
+      {
+        "number": 21,
+        "title": "A gibeóniak bosszút állnak Saul utódain",
+        "slug": "21",
+        "url": "/uj/2SA/21"
+      },
+      {
+        "number": 22,
+        "title": "Dávid éneke",
+        "slug": "22",
+        "url": "/uj/2SA/22"
+      },
+      {
+        "number": 23,
+        "title": "Dávid utolsó szavai",
+        "slug": "23",
+        "url": "/uj/2SA/23"
+      },
+      {
+        "number": 24,
+        "title": "Dávid népszámlálása ",
+        "slug": "24",
+        "url": "/uj/2SA/24"
+      }
+    ]
+  },
+  {
+    "title": "A királyok első könyve",
+    "toc2": "1Királyok",
+    "toc3": "1Kir",
+    "slug": "1KI",
+    "url": "/uj/1KI",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Adónijjá királyságra tör",
+        "slug": "1",
+        "url": "/uj/1KI/1"
+      },
+      {
+        "number": 2,
+        "title": "Dávid utolsó intelmei Salamonhoz",
+        "slug": "2",
+        "url": "/uj/1KI/2"
+      },
+      {
+        "number": 3,
+        "title": "Salamon bölcsességet kér az  Úrtól",
+        "slug": "3",
+        "url": "/uj/1KI/3"
+      },
+      {
+        "number": 4,
+        "title": "Salamon tisztviselői",
+        "slug": "4",
+        "url": "/uj/1KI/4"
+      },
+      {
+        "number": 5,
+        "title": "Salamon fényes udvartartása és hírneve",
+        "slug": "5",
+        "url": "/uj/1KI/5"
+      },
+      {
+        "number": 6,
+        "title": "Felépítik a jeruzsálemi templomot",
+        "slug": "6",
+        "url": "/uj/1KI/6"
+      },
+      {
+        "number": 7,
+        "title": "Salamon királyi palotája",
+        "slug": "7",
+        "url": "/uj/1KI/7"
+      },
+      {
+        "number": 8,
+        "title": "A szövetség ládáját a templomba viszik",
+        "slug": "8",
+        "url": "/uj/1KI/8"
+      },
+      {
+        "number": 9,
+        "title": "Az  Úr ígérete és intése Salamonhoz ",
+        "slug": "9",
+        "url": "/uj/1KI/9"
+      },
+      {
+        "number": 10,
+        "title": "Sába királynője meglátogatja Salamont",
+        "slug": "10",
+        "url": "/uj/1KI/10"
+      },
+      {
+        "number": 11,
+        "title": "Salamon bálványozása",
+        "slug": "11",
+        "url": "/uj/1KI/11"
+      },
+      {
+        "number": 12,
+        "title": "Az ország kettészakadása ",
+        "slug": "12",
+        "url": "/uj/1KI/12"
+      },
+      {
+        "number": 13,
+        "title": "Jövendölés a bételi oltárról",
+        "slug": "13",
+        "url": "/uj/1KI/13"
+      },
+      {
+        "number": 14,
+        "title": "Jövendölés Jeroboám háza bukásáról",
+        "slug": "14",
+        "url": "/uj/1KI/14"
+      },
+      {
+        "number": 15,
+        "title": "Abijjá és Ászá uralkodása Júdában",
+        "slug": "15",
+        "url": "/uj/1KI/15"
+      },
+      {
+        "number": 16,
+        "title": "Jövendölés Baasá családja pusztulásáról",
+        "slug": "16",
+        "url": "/uj/1KI/16"
+      },
+      {
+        "number": 17,
+        "title": "Illés története",
+        "slug": "17",
+        "url": "/uj/1KI/17"
+      },
+      {
+        "number": 18,
+        "title": "Aháb üldözi Illést",
+        "slug": "18",
+        "url": "/uj/1KI/18"
+      },
+      {
+        "number": 19,
+        "title": "Jezábel üldözi Illést",
+        "slug": "19",
+        "url": "/uj/1KI/19"
+      },
+      {
+        "number": 20,
+        "title": "Aháb háborúja az arámokkal",
+        "slug": "20",
+        "url": "/uj/1KI/20"
+      },
+      {
+        "number": 21,
+        "title": "Nábót szőlője",
+        "slug": "21",
+        "url": "/uj/1KI/21"
+      },
+      {
+        "number": 22,
+        "title": "Háború Rámót-Gileádért",
+        "slug": "22",
+        "url": "/uj/1KI/22"
+      }
+    ]
+  },
+  {
+    "title": "A királyok második könyve",
+    "toc2": "2Királyok",
+    "toc3": "2Kir",
+    "slug": "2KI",
+    "url": "/uj/2KI",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Ahazjá király és Illés próféta",
+        "slug": "1",
+        "url": "/uj/2KI/1"
+      },
+      {
+        "number": 2,
+        "title": "Isten magához ragadja Illést",
+        "slug": "2",
+        "url": "/uj/2KI/2"
+      },
+      {
+        "number": 3,
+        "title": "Jórám háborúja Móáb ellen",
+        "slug": "3",
+        "url": "/uj/2KI/3"
+      },
+      {
+        "number": 4,
+        "title": "Elizeus csodája az olajjal",
+        "slug": "4",
+        "url": "/uj/2KI/4"
+      },
+      {
+        "number": 5,
+        "title": "Elizeus meggyógyítja Naamánt",
+        "slug": "5",
+        "url": "/uj/2KI/5"
+      },
+      {
+        "number": 6,
+        "title": "A fejsze feljön a víz tetejére",
+        "slug": "6",
+        "url": "/uj/2KI/6"
+      },
+      {
+        "number": 7,
+        "title": "Elizeus bőséget jövendöl",
+        "slug": "7",
+        "url": "/uj/2KI/7"
+      },
+      {
+        "number": 8,
+        "title": "A súnémi asszony visszakapja örökségét",
+        "slug": "8",
+        "url": "/uj/2KI/8"
+      },
+      {
+        "number": 9,
+        "title": "Jéhú pártütése",
+        "slug": "9",
+        "url": "/uj/2KI/9"
+      },
+      {
+        "number": 10,
+        "title": "Jéhú megöleti Aháb fiait és párthíveit",
+        "slug": "10",
+        "url": "/uj/2KI/10"
+      },
+      {
+        "number": 11,
+        "title": "Ataljá királynő Júdában",
+        "slug": "11",
+        "url": "/uj/2KI/11"
+      },
+      {
+        "number": 12,
+        "title": "Jóás kijavíttatja a templomot ",
+        "slug": "12",
+        "url": "/uj/2KI/12"
+      },
+      {
+        "number": 13,
+        "title": "Jóáház és Jóás uralkodása Izráelben",
+        "slug": "13",
+        "url": "/uj/2KI/13"
+      },
+      {
+        "number": 14,
+        "title": "Amacjá uralkodása Júdában ",
+        "slug": "14",
+        "url": "/uj/2KI/14"
+      },
+      {
+        "number": 15,
+        "title": "Azarjá (Uzzijjá) uralkodása Júdában",
+        "slug": "15",
+        "url": "/uj/2KI/15"
+      },
+      {
+        "number": 16,
+        "title": "Áház uralkodása Júdában",
+        "slug": "16",
+        "url": "/uj/2KI/16"
+      },
+      {
+        "number": 17,
+        "title": "Izráel lakossága asszír fogságba kerül",
+        "slug": "17",
+        "url": "/uj/2KI/17"
+      },
+      {
+        "number": 18,
+        "title": "Ezékiás uralkodása Júdában",
+        "slug": "18",
+        "url": "/uj/2KI/18"
+      },
+      {
+        "number": 19,
+        "title": "Ezékiás követeket küld Ézsaiáshoz",
+        "slug": "19",
+        "url": "/uj/2KI/19"
+      },
+      {
+        "number": 20,
+        "title": "Ezékiás betegsége és gyógyulása ",
+        "slug": "20",
+        "url": "/uj/2KI/20"
+      },
+      {
+        "number": 21,
+        "title": "Manassé uralkodása ",
+        "slug": "21",
+        "url": "/uj/2KI/21"
+      },
+      {
+        "number": 22,
+        "title": "Jósiás uralkodása, a templom kijavítása ",
+        "slug": "22",
+        "url": "/uj/2KI/22"
+      },
+      {
+        "number": 23,
+        "title": "Jósiás helyreállítja az igaz istentiszteletet ",
+        "slug": "23",
+        "url": "/uj/2KI/23"
+      },
+      {
+        "number": 24,
+        "title": "Jójákín uralkodása",
+        "slug": "24",
+        "url": "/uj/2KI/24"
+      },
+      {
+        "number": 25,
+        "title": "Nebukadneccar elfoglalja Jeruzsálemet",
+        "slug": "25",
+        "url": "/uj/2KI/25"
+      }
+    ]
+  },
+  {
+    "title": "A krónikák első könyve",
+    "toc2": "1Krónikák",
+    "toc3": "1Krón",
+    "slug": "1CH",
+    "url": "/uj/1CH",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Nemzetségtáblázat Ádámtól Izsákig",
+        "slug": "1",
+        "url": "/uj/1CH/1"
+      },
+      {
+        "number": 2,
+        "title": "Izráel leszármazottai",
+        "slug": "2",
+        "url": "/uj/1CH/2"
+      },
+      {
+        "number": 3,
+        "title": "Dávid leszármazottai ",
+        "slug": "3",
+        "url": "/uj/1CH/3"
+      },
+      {
+        "number": 4,
+        "title": "Júda leszármazottai",
+        "slug": "4",
+        "url": "/uj/1CH/4"
+      },
+      {
+        "number": 5,
+        "title": "Rúben leszármazottai",
+        "slug": "5",
+        "url": "/uj/1CH/5"
+      },
+      {
+        "number": 6,
+        "title": "Lévi leszármazottai: Gérsón és Merárí utódai",
+        "slug": "6",
+        "url": "/uj/1CH/6"
+      },
+      {
+        "number": 7,
+        "title": "Issakár leszármazottai",
+        "slug": "7",
+        "url": "/uj/1CH/7"
+      },
+      {
+        "number": 8,
+        "title": "Benjámin leszármazottai városonként ",
+        "slug": "8",
+        "url": "/uj/1CH/8"
+      },
+      {
+        "number": 9,
+        "title": "A fogság utáni Jeruzsálem névjegyzéke",
+        "slug": "9",
+        "url": "/uj/1CH/9"
+      },
+      {
+        "number": 10,
+        "title": "Saul elesik a gilbóai csatában ",
+        "slug": "10",
+        "url": "/uj/1CH/10"
+      },
+      {
+        "number": 11,
+        "title": "Izráel Dávidot teszi királlyá",
+        "slug": "11",
+        "url": "/uj/1CH/11"
+      },
+      {
+        "number": 12,
+        "title": "Dávid ciklági hívei",
+        "slug": "12",
+        "url": "/uj/1CH/12"
+      },
+      {
+        "number": 13,
+        "title": "A szövetség ládáját elhozzák Kirjat-Jeárímból",
+        "slug": "13",
+        "url": "/uj/1CH/13"
+      },
+      {
+        "number": 14,
+        "title": "Hírám barátsága Dáviddal ",
+        "slug": "14",
+        "url": "/uj/1CH/14"
+      },
+      {
+        "number": 15,
+        "title": "A szövetségláda mellé rendelt léviták",
+        "slug": "15",
+        "url": "/uj/1CH/15"
+      },
+      {
+        "number": 16,
+        "title": "Dávid lévitákat rendel a szövetségládához",
+        "slug": "16",
+        "url": "/uj/1CH/16"
+      },
+      {
+        "number": 17,
+        "title": "Dávid templomot akar építeni ",
+        "slug": "17",
+        "url": "/uj/1CH/17"
+      },
+      {
+        "number": 18,
+        "title": "Dávid győzelmei ",
+        "slug": "18",
+        "url": "/uj/1CH/18"
+      },
+      {
+        "number": 19,
+        "title": "Dávid harcai az arámokkal ",
+        "slug": "19",
+        "url": "/uj/1CH/19"
+      },
+      {
+        "number": 20,
+        "title": "Dávid elfoglalja Ammón fővárosát",
+        "slug": "20",
+        "url": "/uj/1CH/20"
+      },
+      {
+        "number": 21,
+        "title": "Dávid megszámláltatja a népet",
+        "slug": "21",
+        "url": "/uj/1CH/21"
+      },
+      {
+        "number": 22,
+        "title": "Dávid előkészíti a templom építését",
+        "slug": "22",
+        "url": "/uj/1CH/22"
+      },
+      {
+        "number": 23,
+        "title": "Dávid lévitákra vonatkozó rendelkezései",
+        "slug": "23",
+        "url": "/uj/1CH/23"
+      },
+      {
+        "number": 24,
+        "title": "Áron fiainak a beosztása ",
+        "slug": "24",
+        "url": "/uj/1CH/24"
+      },
+      {
+        "number": 25,
+        "title": "A templomi énekesek beosztása",
+        "slug": "25",
+        "url": "/uj/1CH/25"
+      },
+      {
+        "number": 26,
+        "title": "A kapuőrök beosztása",
+        "slug": "26",
+        "url": "/uj/1CH/26"
+      },
+      {
+        "number": 27,
+        "title": "A tizenkét hadseregparancsnok",
+        "slug": "27",
+        "url": "/uj/1CH/27"
+      },
+      {
+        "number": 28,
+        "title": "Dávid beszéde a néphez és Salamonhoz",
+        "slug": "28",
+        "url": "/uj/1CH/28"
+      },
+      {
+        "number": 29,
+        "title": "Adományok a templom építésére",
+        "slug": "29",
+        "url": "/uj/1CH/29"
+      }
+    ]
+  },
+  {
+    "title": "A krónikák második könyve",
+    "toc2": "2Krónikák",
+    "toc3": "2Krón",
+    "slug": "2CH",
+    "url": "/uj/2CH",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Salamon Gibeónban",
+        "slug": "1",
+        "url": "/uj/2CH/1"
+      },
+      {
+        "number": 2,
+        "title": "Hírám kedvező választ ad Salamonnak",
+        "slug": "2",
+        "url": "/uj/2CH/2"
+      },
+      {
+        "number": 3,
+        "title": "A jeruzsálemi templom építése",
+        "slug": "3",
+        "url": "/uj/2CH/3"
+      },
+      {
+        "number": 4,
+        "title": "A templom fölszerelése",
+        "slug": "4",
+        "url": "/uj/2CH/4"
+      },
+      {
+        "number": 5,
+        "title": "A szövetség ládáját a templomba viszik ",
+        "slug": "5",
+        "url": "/uj/2CH/5"
+      },
+      {
+        "number": 6,
+        "title": "Salamon megáldja a gyülekezetet",
+        "slug": "6",
+        "url": "/uj/2CH/6"
+      },
+      {
+        "number": 7,
+        "title": "Isten dicsősége betölti a templomot",
+        "slug": "7",
+        "url": "/uj/2CH/7"
+      },
+      {
+        "number": 8,
+        "title": "Salamon egyéb építkezései ",
+        "slug": "8",
+        "url": "/uj/2CH/8"
+      },
+      {
+        "number": 9,
+        "title": "Sába királynője meglátogatja Salamont ",
+        "slug": "9",
+        "url": "/uj/2CH/9"
+      },
+      {
+        "number": 10,
+        "title": "Az ország kettészakadása ",
+        "slug": "10",
+        "url": "/uj/2CH/10"
+      },
+      {
+        "number": 11,
+        "title": "Roboám uralkodásának első három éve",
+        "slug": "11",
+        "url": "/uj/2CH/11"
+      },
+      {
+        "number": 12,
+        "title": "Roboám bűne és büntetése: Sisák fáraó hadjárata Júda ellen ",
+        "slug": "12",
+        "url": "/uj/2CH/12"
+      },
+      {
+        "number": 13,
+        "title": "Abijjá trónra lépése",
+        "slug": "13",
+        "url": "/uj/2CH/13"
+      },
+      {
+        "number": 14,
+        "title": "Ászá király vallási reformjai ",
+        "slug": "14",
+        "url": "/uj/2CH/14"
+      },
+      {
+        "number": 15,
+        "title": "Azarjá próféta intelme",
+        "slug": "15",
+        "url": "/uj/2CH/15"
+      },
+      {
+        "number": 16,
+        "title": "Ászá Izráel miatt az arámokhoz fordul segítségért",
+        "slug": "16",
+        "url": "/uj/2CH/16"
+      },
+      {
+        "number": 17,
+        "title": "Jósáfát trónra lépése",
+        "slug": "17",
+        "url": "/uj/2CH/17"
+      },
+      {
+        "number": 18,
+        "title": "Jósáfát háborúba vonul Aháb oldalán ",
+        "slug": "18",
+        "url": "/uj/2CH/18"
+      },
+      {
+        "number": 19,
+        "title": "Jéhú látnok megdorgálja Jósáfátot",
+        "slug": "19",
+        "url": "/uj/2CH/19"
+      },
+      {
+        "number": 20,
+        "title": "Az  Úr megszabadítja Jósáfátot a móábiaktól és az ammóniaktól",
+        "slug": "20",
+        "url": "/uj/2CH/20"
+      },
+      {
+        "number": 21,
+        "title": "Jórám trónra lépése ",
+        "slug": "21",
+        "url": "/uj/2CH/21"
+      },
+      {
+        "number": 22,
+        "title": "Ahazjá uralkodása",
+        "slug": "22",
+        "url": "/uj/2CH/22"
+      },
+      {
+        "number": 23,
+        "title": "Jójádá főpap Jóást teszi királlyá ",
+        "slug": "23",
+        "url": "/uj/2CH/23"
+      },
+      {
+        "number": 24,
+        "title": "Jóás kijavíttatja a templomot ",
+        "slug": "24",
+        "url": "/uj/2CH/24"
+      },
+      {
+        "number": 25,
+        "title": "Amacjá trónra lépése ",
+        "slug": "25",
+        "url": "/uj/2CH/25"
+      },
+      {
+        "number": 26,
+        "title": "Uzzijjá trónra lépése",
+        "slug": "26",
+        "url": "/uj/2CH/26"
+      },
+      {
+        "number": 27,
+        "title": "Jótám uralkodása ",
+        "slug": "27",
+        "url": "/uj/2CH/27"
+      },
+      {
+        "number": 28,
+        "title": "Áház istentelen uralkodása ",
+        "slug": "28",
+        "url": "/uj/2CH/28"
+      },
+      {
+        "number": 29,
+        "title": "Ezékiás trónra lépése",
+        "slug": "29",
+        "url": "/uj/2CH/29"
+      },
+      {
+        "number": 30,
+        "title": "Ezékiás meghirdeti a páskaünnepet",
+        "slug": "30",
+        "url": "/uj/2CH/30"
+      },
+      {
+        "number": 31,
+        "title": "Ezékiás gondoskodik a papokról és a lévitákról",
+        "slug": "31",
+        "url": "/uj/2CH/31"
+      },
+      {
+        "number": 32,
+        "title": "Az  Úr megmenti Ezékiást az asszír Szanhérib kezéből ",
+        "slug": "32",
+        "url": "/uj/2CH/32"
+      },
+      {
+        "number": 33,
+        "title": "Manassé bálványimádása ",
+        "slug": "33",
+        "url": "/uj/2CH/33"
+      },
+      {
+        "number": 34,
+        "title": "Jósiás király vallási reformjai",
+        "slug": "34",
+        "url": "/uj/2CH/34"
+      },
+      {
+        "number": 35,
+        "title": "A páska megünneplése",
+        "slug": "35",
+        "url": "/uj/2CH/35"
+      },
+      {
+        "number": 36,
+        "title": "A fáraó Jójákímot teszi királlyá ",
+        "slug": "36",
+        "url": "/uj/2CH/36"
+      }
+    ]
+  },
+  {
+    "title": "Ezsdrás könyve",
+    "toc2": "Ezsdrás",
+    "toc3": "Ezsd",
+    "slug": "EZR",
+    "url": "/uj/EZR",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Círus engedélyt ad a zsidóknak a hazatérésre",
+        "slug": "1",
+        "url": "/uj/EZR/1"
+      },
+      {
+        "number": 2,
+        "title": "A hazatértek névsora",
+        "slug": "2",
+        "url": "/uj/EZR/2"
+      },
+      {
+        "number": 3,
+        "title": "Az égőáldozati oltár fölállítása",
+        "slug": "3",
+        "url": "/uj/EZR/3"
+      },
+      {
+        "number": 4,
+        "title": "Júda ellenségei akadályozzák a templomépítést",
+        "slug": "4",
+        "url": "/uj/EZR/4"
+      },
+      {
+        "number": 5,
+        "title": "A templomépítés folytatása",
+        "slug": "5",
+        "url": "/uj/EZR/5"
+      },
+      {
+        "number": 6,
+        "title": "Dárius rendelete",
+        "slug": "6",
+        "url": "/uj/EZR/6"
+      },
+      {
+        "number": 7,
+        "title": "Ezsdrás Jeruzsálembe érkezik",
+        "slug": "7",
+        "url": "/uj/EZR/7"
+      },
+      {
+        "number": 8,
+        "title": "Az Ezsdrással hazatért családfők",
+        "slug": "8",
+        "url": "/uj/EZR/8"
+      },
+      {
+        "number": 9,
+        "title": "Ezsdrás bűnbánati imádsága",
+        "slug": "9",
+        "url": "/uj/EZR/9"
+      },
+      {
+        "number": 10,
+        "title": "A hazatérteket gyűlésbe hívják",
+        "slug": "10",
+        "url": "/uj/EZR/10"
+      }
+    ]
+  },
+  {
+    "title": "Nehémiás könyve",
+    "toc2": "Nehémiás",
+    "toc3": "Neh",
+    "slug": "NEH",
+    "url": "/uj/NEH",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Nehémiás szomorúsága és imádsága",
+        "slug": "1",
+        "url": "/uj/NEH/1"
+      },
+      {
+        "number": 2,
+        "title": "Nehémiás engedélyt kap a hazatérésre",
+        "slug": "2",
+        "url": "/uj/NEH/2"
+      },
+      {
+        "number": 3,
+        "title": "Jeruzsálem várfalának az építői",
+        "slug": "3",
+        "url": "/uj/NEH/3"
+      },
+      {
+        "number": 4,
+        "title": "Az ellenség nehezíti az építést",
+        "slug": "4",
+        "url": "/uj/NEH/4"
+      },
+      {
+        "number": 5,
+        "title": "Nehémiás harca az uzsorások ellen",
+        "slug": "5",
+        "url": "/uj/NEH/5"
+      },
+      {
+        "number": 6,
+        "title": "Nehémiást fenyegetik ellenfelei",
+        "slug": "6",
+        "url": "/uj/NEH/6"
+      },
+      {
+        "number": 7,
+        "title": "A hazatértek névsora",
+        "slug": "7",
+        "url": "/uj/NEH/7"
+      },
+      {
+        "number": 8,
+        "title": "A törvénykönyv felolvasása",
+        "slug": "8",
+        "url": "/uj/NEH/8"
+      },
+      {
+        "number": 9,
+        "title": "A nép bűnvallása",
+        "slug": "9",
+        "url": "/uj/NEH/9"
+      },
+      {
+        "number": 10,
+        "title": "A nép kötelezi magát a törvény megtartására",
+        "slug": "10",
+        "url": "/uj/NEH/10"
+      },
+      {
+        "number": 11,
+        "title": "Jeruzsálem benépesítése",
+        "slug": "11",
+        "url": "/uj/NEH/11"
+      },
+      {
+        "number": 12,
+        "title": "A fogságból hazatért papok és léviták",
+        "slug": "12",
+        "url": "/uj/NEH/12"
+      },
+      {
+        "number": 13,
+        "title": "Az idegenek kizárása a gyülekezetből",
+        "slug": "13",
+        "url": "/uj/NEH/13"
+      }
+    ]
+  },
+  {
+    "title": "Eszter könyve",
+    "toc2": "Eszter",
+    "toc3": "Eszt",
+    "slug": "EST",
+    "url": "/uj/EST",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Ahasvérós király lakomája",
+        "slug": "1",
+        "url": "/uj/EST/1"
+      },
+      {
+        "number": 2,
+        "title": "Ahasvérósnak királynét keresnek",
+        "slug": "2",
+        "url": "/uj/EST/2"
+      },
+      {
+        "number": 3,
+        "title": "Hámán ki akarja irtani a zsidókat",
+        "slug": "3",
+        "url": "/uj/EST/3"
+      },
+      {
+        "number": 4,
+        "title": "Mordokaj Eszter segítségét kéri",
+        "slug": "4",
+        "url": "/uj/EST/4"
+      },
+      {
+        "number": 5,
+        "title": "Eszter királyné lakomája",
+        "slug": "5",
+        "url": "/uj/EST/5"
+      },
+      {
+        "number": 6,
+        "title": "A király kitünteti Mordokajt",
+        "slug": "6",
+        "url": "/uj/EST/6"
+      },
+      {
+        "number": 7,
+        "title": "Hámán bukása",
+        "slug": "7",
+        "url": "/uj/EST/7"
+      },
+      {
+        "number": 8,
+        "title": "A zsidók szabadulása",
+        "slug": "8",
+        "url": "/uj/EST/8"
+      },
+      {
+        "number": 9,
+        "title": "A zsidók bosszút állnak ellenségeiken",
+        "slug": "9",
+        "url": "/uj/EST/9"
+      },
+      {
+        "number": 10,
+        "title": "Ahasvérós király nagysága és Mordokaj tekintélye",
+        "slug": "10",
+        "url": "/uj/EST/10"
+      }
+    ]
+  },
+  {
+    "title": "Jób könyve",
+    "toc2": "Jób",
+    "toc3": "Jób",
+    "slug": "JOB",
+    "url": "/uj/JOB",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Az istenfélő Jób gazdagsága",
+        "slug": "1",
+        "url": "/uj/JOB/1"
+      },
+      {
+        "number": 2,
+        "title": "Jób a betegségben is istenfélő marad",
+        "slug": "2",
+        "url": "/uj/JOB/2"
+      },
+      {
+        "number": 3,
+        "title": "Jób panasza",
+        "slug": "3",
+        "url": "/uj/JOB/3"
+      },
+      {
+        "number": 4,
+        "title": "Elífáz első beszéde: Ártatlanul senki sem szenved",
+        "slug": "4",
+        "url": "/uj/JOB/4"
+      },
+      {
+        "number": 5,
+        "title": "Jób csak Istentől várhat segítséget",
+        "slug": "5",
+        "url": "/uj/JOB/5"
+      },
+      {
+        "number": 6,
+        "title": "Jób első válasza: Ártatlanul vádolják",
+        "slug": "6",
+        "url": "/uj/JOB/6"
+      },
+      {
+        "number": 7,
+        "title": "Jób újabb panasza",
+        "slug": "7",
+        "url": "/uj/JOB/7"
+      },
+      {
+        "number": 8,
+        "title": "Bildád első beszéde: A kegyes embert megáldja Isten",
+        "slug": "8",
+        "url": "/uj/JOB/8"
+      },
+      {
+        "number": 9,
+        "title": "Jób második válasza: Istennek mindig igaza van",
+        "slug": "9",
+        "url": "/uj/JOB/9"
+      },
+      {
+        "number": 10,
+        "title": "Jób kutatja szenvedése okát",
+        "slug": "10",
+        "url": "/uj/JOB/10"
+      },
+      {
+        "number": 11,
+        "title": "Cófár első beszéde: Jóbnak meg kell alázkodnia",
+        "slug": "11",
+        "url": "/uj/JOB/11"
+      },
+      {
+        "number": 12,
+        "title": "Jób harmadik válasza: Csak Isten bölcs és hatalmas",
+        "slug": "12",
+        "url": "/uj/JOB/12"
+      },
+      {
+        "number": 13,
+        "title": "Jób vádolja barátait",
+        "slug": "13",
+        "url": "/uj/JOB/13"
+      },
+      {
+        "number": 14,
+        "title": "A halál után nincs reménység",
+        "slug": "14",
+        "url": "/uj/JOB/14"
+      },
+      {
+        "number": 15,
+        "title": "Elífáz második beszéde: Önteltséggel vádolja Jóbot",
+        "slug": "15",
+        "url": "/uj/JOB/15"
+      },
+      {
+        "number": 16,
+        "title": "Jób negyedik válasza: Ártatlanságának Isten a tanúja",
+        "slug": "16",
+        "url": "/uj/JOB/16"
+      },
+      {
+        "number": 17,
+        "title": "Jób barátai rosszindulatúak",
+        "slug": "17",
+        "url": "/uj/JOB/17"
+      },
+      {
+        "number": 18,
+        "title": "Bildád második beszéde: A bűnösökre pusztulás és feledés vár",
+        "slug": "18",
+        "url": "/uj/JOB/18"
+      },
+      {
+        "number": 19,
+        "title": "Jób ötödik válasza: Elhagyták az emberek",
+        "slug": "19",
+        "url": "/uj/JOB/19"
+      },
+      {
+        "number": 20,
+        "title": "Cófár második beszéde: A gonoszok jóléte mulandó",
+        "slug": "20",
+        "url": "/uj/JOB/20"
+      },
+      {
+        "number": 21,
+        "title": "Jób hatodik válasza: A gonoszokat utoléri a büntetés",
+        "slug": "21",
+        "url": "/uj/JOB/21"
+      },
+      {
+        "number": 22,
+        "title": "Elífáz harmadik beszéde: Jób megérdemelte büntetését",
+        "slug": "22",
+        "url": "/uj/JOB/22"
+      },
+      {
+        "number": 23,
+        "title": "Jób hetedik válasza: Bízik Isten igazságos ítéletében",
+        "slug": "23",
+        "url": "/uj/JOB/23"
+      },
+      {
+        "number": 24,
+        "title": "A gonosz emberek vétkei",
+        "slug": "24",
+        "url": "/uj/JOB/24"
+      },
+      {
+        "number": 25,
+        "title": "Bildád harmadik beszéde: Isten előtt senki sem igaz",
+        "slug": "25",
+        "url": "/uj/JOB/25"
+      },
+      {
+        "number": 26,
+        "title": "Jób nyolcadik válasza: Dicsőíti Isten hatalmát",
+        "slug": "26",
+        "url": "/uj/JOB/26"
+      },
+      {
+        "number": 27,
+        "title": "Jób befejező beszédei: Védi ártatlanságát",
+        "slug": "27",
+        "url": "/uj/JOB/27"
+      },
+      {
+        "number": 28,
+        "title": "Az ember kiaknázza a természet kincseit",
+        "slug": "28",
+        "url": "/uj/JOB/28"
+      },
+      {
+        "number": 29,
+        "title": "Jób visszagondol régi boldogságára",
+        "slug": "29",
+        "url": "/uj/JOB/29"
+      },
+      {
+        "number": 30,
+        "title": "Jóbtól elfordultak az emberek",
+        "slug": "30",
+        "url": "/uj/JOB/30"
+      },
+      {
+        "number": 31,
+        "title": "Jóbnak tiszta a lelkiismerete",
+        "slug": "31",
+        "url": "/uj/JOB/31"
+      },
+      {
+        "number": 32,
+        "title": "Elíhú első beszéde: Jób barátai rosszul érveltek",
+        "slug": "32",
+        "url": "/uj/JOB/32"
+      },
+      {
+        "number": 33,
+        "title": "Isten megbocsát a megtérőknek",
+        "slug": "33",
+        "url": "/uj/JOB/33"
+      },
+      {
+        "number": 34,
+        "title": "Elíhú második beszéde: Nem igazságtalan az Isten",
+        "slug": "34",
+        "url": "/uj/JOB/34"
+      },
+      {
+        "number": 35,
+        "title": "Elíhú harmadik beszéde: Jóbot méltán bünteti Isten",
+        "slug": "35",
+        "url": "/uj/JOB/35"
+      },
+      {
+        "number": 36,
+        "title": "Elíhú negyedik beszéde: Isten hatalmas és igazságos",
+        "slug": "36",
+        "url": "/uj/JOB/36"
+      },
+      {
+        "number": 37,
+        "title": "Isten igazságosan bánik az emberekkel",
+        "slug": "37",
+        "url": "/uj/JOB/37"
+      },
+      {
+        "number": 38,
+        "title": "Isten első beszéde Jóbhoz: A világmindenség Isten alkotása",
+        "slug": "38",
+        "url": "/uj/JOB/38"
+      },
+      {
+        "number": 39,
+        "title": "39. fejezet",
+        "slug": "39",
+        "url": "/uj/JOB/39"
+      },
+      {
+        "number": 40,
+        "title": "Jób első válasza: Megalázza magát Isten előtt",
+        "slug": "40",
+        "url": "/uj/JOB/40"
+      },
+      {
+        "number": 41,
+        "title": "41. fejezet",
+        "slug": "41",
+        "url": "/uj/JOB/41"
+      },
+      {
+        "number": 42,
+        "title": "Jób bűnbánatot tart",
+        "slug": "42",
+        "url": "/uj/JOB/42"
+      }
+    ]
+  },
+  {
+    "title": "A Zsoltárok könyve",
+    "toc2": "Zsoltárok",
+    "toc3": "Zsolt",
+    "slug": "PSA",
+    "url": "/uj/PSA",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Az igazak és a bűnösök sorsa",
+        "slug": "1",
+        "url": "/uj/PSA/1"
+      },
+      {
+        "number": 2,
+        "title": "Isten és felkentje diadalmaskodik",
+        "slug": "2",
+        "url": "/uj/PSA/2"
+      },
+      {
+        "number": 3,
+        "title": "Imádság veszélyben",
+        "slug": "3",
+        "url": "/uj/PSA/3"
+      },
+      {
+        "number": 4,
+        "title": "Esti imádság",
+        "slug": "4",
+        "url": "/uj/PSA/4"
+      },
+      {
+        "number": 5,
+        "title": "Isten igazán ítél",
+        "slug": "5",
+        "url": "/uj/PSA/5"
+      },
+      {
+        "number": 6,
+        "title": "Imádság halálfélelemben",
+        "slug": "6",
+        "url": "/uj/PSA/6"
+      },
+      {
+        "number": 7,
+        "title": "Ártatlan ember imádsága",
+        "slug": "7",
+        "url": "/uj/PSA/7"
+      },
+      {
+        "number": 8,
+        "title": "A Teremtő és az ember",
+        "slug": "8",
+        "url": "/uj/PSA/8"
+      },
+      {
+        "number": 9,
+        "title": "Isten az igazság őre",
+        "slug": "9",
+        "url": "/uj/PSA/9"
+      },
+      {
+        "number": 10,
+        "title": "Isten az elnyomottak reménysége",
+        "slug": "10",
+        "url": "/uj/PSA/10"
+      },
+      {
+        "number": 11,
+        "title": "Hit a szabadító Istenben",
+        "slug": "11",
+        "url": "/uj/PSA/11"
+      },
+      {
+        "number": 12,
+        "title": "Az ember szava és Isten beszéde",
+        "slug": "12",
+        "url": "/uj/PSA/12"
+      },
+      {
+        "number": 13,
+        "title": "Bizakodás Isten szeretetében",
+        "slug": "13",
+        "url": "/uj/PSA/13"
+      },
+      {
+        "number": 14,
+        "title": "Az emberek romlottsága",
+        "slug": "14",
+        "url": "/uj/PSA/14"
+      },
+      {
+        "number": 15,
+        "title": "Az Istennek tetsző élet",
+        "slug": "15",
+        "url": "/uj/PSA/15"
+      },
+      {
+        "number": 16,
+        "title": "Isten fiaié a legszebb örökség",
+        "slug": "16",
+        "url": "/uj/PSA/16"
+      },
+      {
+        "number": 17,
+        "title": "Könyörgés szabadításért",
+        "slug": "17",
+        "url": "/uj/PSA/17"
+      },
+      {
+        "number": 18,
+        "title": "Győzelmi ének",
+        "slug": "18",
+        "url": "/uj/PSA/18"
+      },
+      {
+        "number": 19,
+        "title": "Az egek hirdetik Isten dicsőségét",
+        "slug": "19",
+        "url": "/uj/PSA/19"
+      },
+      {
+        "number": 20,
+        "title": "Könyörgés győzelemért",
+        "slug": "20",
+        "url": "/uj/PSA/20"
+      },
+      {
+        "number": 21,
+        "title": "Hálaadás a királyért",
+        "slug": "21",
+        "url": "/uj/PSA/21"
+      },
+      {
+        "number": 22,
+        "title": "Az igaz ember szenvedése és szabadulása",
+        "slug": "22",
+        "url": "/uj/PSA/22"
+      },
+      {
+        "number": 23,
+        "title": "A jó pásztor",
+        "slug": "23",
+        "url": "/uj/PSA/23"
+      },
+      {
+        "number": 24,
+        "title": "A dicső király bevonulása",
+        "slug": "24",
+        "url": "/uj/PSA/24"
+      },
+      {
+        "number": 25,
+        "title": "Könyörgés Istenhez vezetésért",
+        "slug": "25",
+        "url": "/uj/PSA/25"
+      },
+      {
+        "number": 26,
+        "title": "Ártatlan ember imádsága",
+        "slug": "26",
+        "url": "/uj/PSA/26"
+      },
+      {
+        "number": 27,
+        "title": "Békesség Istennél",
+        "slug": "27",
+        "url": "/uj/PSA/27"
+      },
+      {
+        "number": 28,
+        "title": "Isten meghallgat",
+        "slug": "28",
+        "url": "/uj/PSA/28"
+      },
+      {
+        "number": 29,
+        "title": "Isten hatalma a zivatarban",
+        "slug": "29",
+        "url": "/uj/PSA/29"
+      },
+      {
+        "number": 30,
+        "title": "Hálaadás az életért",
+        "slug": "30",
+        "url": "/uj/PSA/30"
+      },
+      {
+        "number": 31,
+        "title": "A reménység nem szégyenít meg",
+        "slug": "31",
+        "url": "/uj/PSA/31"
+      },
+      {
+        "number": 32,
+        "title": "Bűnbánat és bűnbocsánat",
+        "slug": "32",
+        "url": "/uj/PSA/32"
+      },
+      {
+        "number": 33,
+        "title": "Isten dicsőítése",
+        "slug": "33",
+        "url": "/uj/PSA/33"
+      },
+      {
+        "number": 34,
+        "title": "Isten megsegíti övéit",
+        "slug": "34",
+        "url": "/uj/PSA/34"
+      },
+      {
+        "number": 35,
+        "title": "Könyörgés oltalomért",
+        "slug": "35",
+        "url": "/uj/PSA/35"
+      },
+      {
+        "number": 36,
+        "title": "Isten az élet forrása",
+        "slug": "36",
+        "url": "/uj/PSA/36"
+      },
+      {
+        "number": 37,
+        "title": "Ne irigyeld a bűnösök szerencséjét!",
+        "slug": "37",
+        "url": "/uj/PSA/37"
+      },
+      {
+        "number": 38,
+        "title": "Bűnbánó ember könyörgése",
+        "slug": "38",
+        "url": "/uj/PSA/38"
+      },
+      {
+        "number": 39,
+        "title": "Vívódó lélek panasza",
+        "slug": "39",
+        "url": "/uj/PSA/39"
+      },
+      {
+        "number": 40,
+        "title": "Hálaadó ének",
+        "slug": "40",
+        "url": "/uj/PSA/40"
+      },
+      {
+        "number": 41,
+        "title": "Elhagyott beteg könyörgése",
+        "slug": "41",
+        "url": "/uj/PSA/41"
+      },
+      {
+        "number": 42,
+        "title": "Vágyódás Isten temploma után",
+        "slug": "42",
+        "url": "/uj/PSA/42"
+      },
+      {
+        "number": 43,
+        "title": "A hit és reménység diadala",
+        "slug": "43",
+        "url": "/uj/PSA/43"
+      },
+      {
+        "number": 44,
+        "title": "A megalázott nép könyörgése",
+        "slug": "44",
+        "url": "/uj/PSA/44"
+      },
+      {
+        "number": 45,
+        "title": "A királyi menyegző",
+        "slug": "45",
+        "url": "/uj/PSA/45"
+      },
+      {
+        "number": 46,
+        "title": "Erős vár a mi Istenünk",
+        "slug": "46",
+        "url": "/uj/PSA/46"
+      },
+      {
+        "number": 47,
+        "title": "Isten a föld királya",
+        "slug": "47",
+        "url": "/uj/PSA/47"
+      },
+      {
+        "number": 48,
+        "title": "Isten városa",
+        "slug": "48",
+        "url": "/uj/PSA/48"
+      },
+      {
+        "number": 49,
+        "title": "Az élet rejtélyei",
+        "slug": "49",
+        "url": "/uj/PSA/49"
+      },
+      {
+        "number": 50,
+        "title": "Az igaz istentisztelet",
+        "slug": "50",
+        "url": "/uj/PSA/50"
+      },
+      {
+        "number": 51,
+        "title": "Bűnbánat és megújulás",
+        "slug": "51",
+        "url": "/uj/PSA/51"
+      },
+      {
+        "number": 52,
+        "title": "Isten megbünteti a bűnöst",
+        "slug": "52",
+        "url": "/uj/PSA/52"
+      },
+      {
+        "number": 53,
+        "title": "Az emberek romlottsága",
+        "slug": "53",
+        "url": "/uj/PSA/53"
+      },
+      {
+        "number": 54,
+        "title": "Könyörgés segítségért",
+        "slug": "54",
+        "url": "/uj/PSA/54"
+      },
+      {
+        "number": 55,
+        "title": "Panasz a hűtlen barátok miatt",
+        "slug": "55",
+        "url": "/uj/PSA/55"
+      },
+      {
+        "number": 56,
+        "title": "Könyörgés nagy veszélyben",
+        "slug": "56",
+        "url": "/uj/PSA/56"
+      },
+      {
+        "number": 57,
+        "title": "Bizalom Istenben",
+        "slug": "57",
+        "url": "/uj/PSA/57"
+      },
+      {
+        "number": 58,
+        "title": "Isten igazságot tesz a földön",
+        "slug": "58",
+        "url": "/uj/PSA/58"
+      },
+      {
+        "number": 59,
+        "title": "Könyörgés oltalomért",
+        "slug": "59",
+        "url": "/uj/PSA/59"
+      },
+      {
+        "number": 60,
+        "title": "Isten megaláz, de fel is magasztal",
+        "slug": "60",
+        "url": "/uj/PSA/60"
+      },
+      {
+        "number": 61,
+        "title": "Vágyódás Istenhez",
+        "slug": "61",
+        "url": "/uj/PSA/61"
+      },
+      {
+        "number": 62,
+        "title": "Megnyugvás Istenben",
+        "slug": "62",
+        "url": "/uj/PSA/62"
+      },
+      {
+        "number": 63,
+        "title": "Sóvárgás Isten után",
+        "slug": "63",
+        "url": "/uj/PSA/63"
+      },
+      {
+        "number": 64,
+        "title": "Isten megfizet",
+        "slug": "64",
+        "url": "/uj/PSA/64"
+      },
+      {
+        "number": 65,
+        "title": "Hálaadás lelki és testi javakért",
+        "slug": "65",
+        "url": "/uj/PSA/65"
+      },
+      {
+        "number": 66,
+        "title": "Isten csodálatos útjai",
+        "slug": "66",
+        "url": "/uj/PSA/66"
+      },
+      {
+        "number": 67,
+        "title": "Isten áldásai",
+        "slug": "67",
+        "url": "/uj/PSA/67"
+      },
+      {
+        "number": 68,
+        "title": "Isten megjelenik népének",
+        "slug": "68",
+        "url": "/uj/PSA/68"
+      },
+      {
+        "number": 69,
+        "title": "Kesergés szenvedés idején",
+        "slug": "69",
+        "url": "/uj/PSA/69"
+      },
+      {
+        "number": 70,
+        "title": "Könyörgés segítségért",
+        "slug": "70",
+        "url": "/uj/PSA/70"
+      },
+      {
+        "number": 71,
+        "title": "Öregember könyörgése",
+        "slug": "71",
+        "url": "/uj/PSA/71"
+      },
+      {
+        "number": 72,
+        "title": "Imádság a királyért",
+        "slug": "72",
+        "url": "/uj/PSA/72"
+      },
+      {
+        "number": 73,
+        "title": "A kételkedő ember megnyugvása",
+        "slug": "73",
+        "url": "/uj/PSA/73"
+      },
+      {
+        "number": 74,
+        "title": "Kesergés a templom pusztulása miatt",
+        "slug": "74",
+        "url": "/uj/PSA/74"
+      },
+      {
+        "number": 75,
+        "title": "Isten a világ Ura",
+        "slug": "75",
+        "url": "/uj/PSA/75"
+      },
+      {
+        "number": 76,
+        "title": "Az  Úr a Sion szabadítója",
+        "slug": "76",
+        "url": "/uj/PSA/76"
+      },
+      {
+        "number": 77,
+        "title": "A csüggedéstől a hálaadásig",
+        "slug": "77",
+        "url": "/uj/PSA/77"
+      },
+      {
+        "number": 78,
+        "title": "A történelem tanítása",
+        "slug": "78",
+        "url": "/uj/PSA/78"
+      },
+      {
+        "number": 79,
+        "title": "Izráel panasza Jeruzsálem pusztulása miatt",
+        "slug": "79",
+        "url": "/uj/PSA/79"
+      },
+      {
+        "number": 80,
+        "title": "Könyörgés megújulásért",
+        "slug": "80",
+        "url": "/uj/PSA/80"
+      },
+      {
+        "number": 81,
+        "title": "Isteni intelmek",
+        "slug": "81",
+        "url": "/uj/PSA/81"
+      },
+      {
+        "number": 82,
+        "title": "Isten megítéli a gonosz bírákat",
+        "slug": "82",
+        "url": "/uj/PSA/82"
+      },
+      {
+        "number": 83,
+        "title": "Imádság segítségért",
+        "slug": "83",
+        "url": "/uj/PSA/83"
+      },
+      {
+        "number": 84,
+        "title": "Sóvárgás a templom után",
+        "slug": "84",
+        "url": "/uj/PSA/84"
+      },
+      {
+        "number": 85,
+        "title": "Vigasztalódás elnyomatás után",
+        "slug": "85",
+        "url": "/uj/PSA/85"
+      },
+      {
+        "number": 86,
+        "title": "Üldözött ember imádsága",
+        "slug": "86",
+        "url": "/uj/PSA/86"
+      },
+      {
+        "number": 87,
+        "title": "Isten városa",
+        "slug": "87",
+        "url": "/uj/PSA/87"
+      },
+      {
+        "number": 88,
+        "title": "Halálos beteg imádsága",
+        "slug": "88",
+        "url": "/uj/PSA/88"
+      },
+      {
+        "number": 89,
+        "title": "Isten szövetsége Dávid házával",
+        "slug": "89",
+        "url": "/uj/PSA/89"
+      },
+      {
+        "number": 90,
+        "title": "Az örökkévaló Isten és a mulandó ember",
+        "slug": "90",
+        "url": "/uj/PSA/90"
+      },
+      {
+        "number": 91,
+        "title": "Az  Úr biztos menedék",
+        "slug": "91",
+        "url": "/uj/PSA/91"
+      },
+      {
+        "number": 92,
+        "title": "Isten igazságának dicsérete",
+        "slug": "92",
+        "url": "/uj/PSA/92"
+      },
+      {
+        "number": 93,
+        "title": "Az  Úr örökké uralkodik",
+        "slug": "93",
+        "url": "/uj/PSA/93"
+      },
+      {
+        "number": 94,
+        "title": "Isten ítélete igazságot teremt",
+        "slug": "94",
+        "url": "/uj/PSA/94"
+      },
+      {
+        "number": 95,
+        "title": "Buzdítás Isten dicséretére",
+        "slug": "95",
+        "url": "/uj/PSA/95"
+      },
+      {
+        "number": 96,
+        "title": "Az  Úr az egész föld királya",
+        "slug": "96",
+        "url": "/uj/PSA/96"
+      },
+      {
+        "number": 97,
+        "title": "Az  Úr ítélni fog",
+        "slug": "97",
+        "url": "/uj/PSA/97"
+      },
+      {
+        "number": 98,
+        "title": "Énekeljen az egész világ!",
+        "slug": "98",
+        "url": "/uj/PSA/98"
+      },
+      {
+        "number": 99,
+        "title": "A szent Isten",
+        "slug": "99",
+        "url": "/uj/PSA/99"
+      },
+      {
+        "number": 100,
+        "title": "Adjunk hálát alkotónknak!",
+        "slug": "100",
+        "url": "/uj/PSA/100"
+      },
+      {
+        "number": 101,
+        "title": "Az Isten akaratát követő király",
+        "slug": "101",
+        "url": "/uj/PSA/101"
+      },
+      {
+        "number": 102,
+        "title": "Imádság nyomorúság idején",
+        "slug": "102",
+        "url": "/uj/PSA/102"
+      },
+      {
+        "number": 103,
+        "title": "Ének Isten irgalmáról",
+        "slug": "103",
+        "url": "/uj/PSA/103"
+      },
+      {
+        "number": 104,
+        "title": "A teremtő és megtartó Isten",
+        "slug": "104",
+        "url": "/uj/PSA/104"
+      },
+      {
+        "number": 105,
+        "title": "Ének Izráel történetéről",
+        "slug": "105",
+        "url": "/uj/PSA/105"
+      },
+      {
+        "number": 106,
+        "title": "Izráel bűnei a pusztában",
+        "slug": "106",
+        "url": "/uj/PSA/106"
+      },
+      {
+        "number": 107,
+        "title": "Hálaadó ének nagy ünnepen",
+        "slug": "107",
+        "url": "/uj/PSA/107"
+      },
+      {
+        "number": 108,
+        "title": "Reggeli ének háborús időben",
+        "slug": "108",
+        "url": "/uj/PSA/108"
+      },
+      {
+        "number": 109,
+        "title": "Panasz rosszakarók miatt",
+        "slug": "109",
+        "url": "/uj/PSA/109"
+      },
+      {
+        "number": 110,
+        "title": "A Messiás pap és király",
+        "slug": "110",
+        "url": "/uj/PSA/110"
+      },
+      {
+        "number": 111,
+        "title": "Nagyok az  Úr tettei",
+        "slug": "111",
+        "url": "/uj/PSA/111"
+      },
+      {
+        "number": 112,
+        "title": "Az istenfélelem jutalma",
+        "slug": "112",
+        "url": "/uj/PSA/112"
+      },
+      {
+        "number": 113,
+        "title": "Az  Úr fensége és kegyelme",
+        "slug": "113",
+        "url": "/uj/PSA/113"
+      },
+      {
+        "number": 114,
+        "title": "A pusztai vándorlás csodái",
+        "slug": "114",
+        "url": "/uj/PSA/114"
+      },
+      {
+        "number": 115,
+        "title": "Istené a dicsőség, nem a bálványoké",
+        "slug": "115",
+        "url": "/uj/PSA/115"
+      },
+      {
+        "number": 116,
+        "title": "Hálaadás és fogadalom",
+        "slug": "116",
+        "url": "/uj/PSA/116"
+      },
+      {
+        "number": 117,
+        "title": "Dicsérje az  Urat minden nép",
+        "slug": "117",
+        "url": "/uj/PSA/117"
+      },
+      {
+        "number": 118,
+        "title": "Hálaadás a templomban",
+        "slug": "118",
+        "url": "/uj/PSA/118"
+      },
+      {
+        "number": 119,
+        "title": "A törvény magasztalása",
+        "slug": "119",
+        "url": "/uj/PSA/119"
+      },
+      {
+        "number": 120,
+        "title": "Imádság idegen földön",
+        "slug": "120",
+        "url": "/uj/PSA/120"
+      },
+      {
+        "number": 121,
+        "title": "Izráel védelmezője",
+        "slug": "121",
+        "url": "/uj/PSA/121"
+      },
+      {
+        "number": 122,
+        "title": "Zarándokok áldáskívánása",
+        "slug": "122",
+        "url": "/uj/PSA/122"
+      },
+      {
+        "number": 123,
+        "title": "Kigúnyolt nép imádsága",
+        "slug": "123",
+        "url": "/uj/PSA/123"
+      },
+      {
+        "number": 124,
+        "title": "Hálaadás szabadításért",
+        "slug": "124",
+        "url": "/uj/PSA/124"
+      },
+      {
+        "number": 125,
+        "title": "Az  Úr megtartja a benne bízókat",
+        "slug": "125",
+        "url": "/uj/PSA/125"
+      },
+      {
+        "number": 126,
+        "title": "Az  Úr nagy tetteinek dicsérete",
+        "slug": "126",
+        "url": "/uj/PSA/126"
+      },
+      {
+        "number": 127,
+        "title": "Emberé a munka, Istené az áldás",
+        "slug": "127",
+        "url": "/uj/PSA/127"
+      },
+      {
+        "number": 128,
+        "title": "Az istenfélők házán áldás van",
+        "slug": "128",
+        "url": "/uj/PSA/128"
+      },
+      {
+        "number": 129,
+        "title": "Sion ellenségei megszégyenülnek",
+        "slug": "129",
+        "url": "/uj/PSA/129"
+      },
+      {
+        "number": 130,
+        "title": "Kiáltás a mélységből",
+        "slug": "130",
+        "url": "/uj/PSA/130"
+      },
+      {
+        "number": 131,
+        "title": "Alázatos ember éneke",
+        "slug": "131",
+        "url": "/uj/PSA/131"
+      },
+      {
+        "number": 132,
+        "title": "Imádság Dávidért és a Sionért",
+        "slug": "132",
+        "url": "/uj/PSA/132"
+      },
+      {
+        "number": 133,
+        "title": "A testvéri szeretet áldása",
+        "slug": "133",
+        "url": "/uj/PSA/133"
+      },
+      {
+        "number": 134,
+        "title": "A zarándokok búcsúéneke",
+        "slug": "134",
+        "url": "/uj/PSA/134"
+      },
+      {
+        "number": 135,
+        "title": "Az  Úr mindenható",
+        "slug": "135",
+        "url": "/uj/PSA/135"
+      },
+      {
+        "number": 136,
+        "title": "Hálaadó ének",
+        "slug": "136",
+        "url": "/uj/PSA/136"
+      },
+      {
+        "number": 137,
+        "title": "A babiloni foglyok panasza",
+        "slug": "137",
+        "url": "/uj/PSA/137"
+      },
+      {
+        "number": 138,
+        "title": "Hálaadás Isten hűséges szeretetéért",
+        "slug": "138",
+        "url": "/uj/PSA/138"
+      },
+      {
+        "number": 139,
+        "title": "Isten mindenütt jelen van",
+        "slug": "139",
+        "url": "/uj/PSA/139"
+      },
+      {
+        "number": 140,
+        "title": "Segítségkérés a rágalmazókkal szemben",
+        "slug": "140",
+        "url": "/uj/PSA/140"
+      },
+      {
+        "number": 141,
+        "title": "Imádság kísértés idején",
+        "slug": "141",
+        "url": "/uj/PSA/141"
+      },
+      {
+        "number": 142,
+        "title": "Elhagyatott ember könyörgése",
+        "slug": "142",
+        "url": "/uj/PSA/142"
+      },
+      {
+        "number": 143,
+        "title": "Könyörgés szabadításért",
+        "slug": "143",
+        "url": "/uj/PSA/143"
+      },
+      {
+        "number": 144,
+        "title": "Imádság háborús időben",
+        "slug": "144",
+        "url": "/uj/PSA/144"
+      },
+      {
+        "number": 145,
+        "title": "A teremtett világ dicséri az  Urat",
+        "slug": "145",
+        "url": "/uj/PSA/145"
+      },
+      {
+        "number": 146,
+        "title": "A teremtő és gondviselő Isten dicsérete",
+        "slug": "146",
+        "url": "/uj/PSA/146"
+      },
+      {
+        "number": 147,
+        "title": "Isten a világnak és Izráelnek Ura",
+        "slug": "147",
+        "url": "/uj/PSA/147"
+      },
+      {
+        "number": 148,
+        "title": "A menny és a föld dicsérje az  Urat!",
+        "slug": "148",
+        "url": "/uj/PSA/148"
+      },
+      {
+        "number": 149,
+        "title": "Sion népének diadaléneke",
+        "slug": "149",
+        "url": "/uj/PSA/149"
+      },
+      {
+        "number": 150,
+        "title": "Minden lélek dicsérje az  Urat!",
+        "slug": "150",
+        "url": "/uj/PSA/150"
+      }
+    ]
+  },
+  {
+    "title": "A példabeszédek könyve",
+    "toc2": "Példabeszédek",
+    "toc3": "Péld",
+    "slug": "PRO",
+    "url": "/uj/PRO",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "A bölcs mondások célja",
+        "slug": "1",
+        "url": "/uj/PRO/1"
+      },
+      {
+        "number": 2,
+        "title": "A bölcsesség Isten útján vezet",
+        "slug": "2",
+        "url": "/uj/PRO/2"
+      },
+      {
+        "number": 3,
+        "title": "Az istenfélelem és a bölcsesség áldást hoz",
+        "slug": "3",
+        "url": "/uj/PRO/3"
+      },
+      {
+        "number": 4,
+        "title": "A bölcsesség felmagasztalja az igazakat",
+        "slug": "4",
+        "url": "/uj/PRO/4"
+      },
+      {
+        "number": 5,
+        "title": "Ne kívánd más asszonyát!",
+        "slug": "5",
+        "url": "/uj/PRO/5"
+      },
+      {
+        "number": 6,
+        "title": "A könnyelműség és a restség szegénységbe visz",
+        "slug": "6",
+        "url": "/uj/PRO/6"
+      },
+      {
+        "number": 7,
+        "title": "7. fejezet",
+        "slug": "7",
+        "url": "/uj/PRO/7"
+      },
+      {
+        "number": 8,
+        "title": "A bölcsesség mindennél nagyobb kincs",
+        "slug": "8",
+        "url": "/uj/PRO/8"
+      },
+      {
+        "number": 9,
+        "title": "A bölcsesség és a balgaság hívogatása",
+        "slug": "9",
+        "url": "/uj/PRO/9"
+      },
+      {
+        "number": 10,
+        "title": "A bölcsesség gyümölcse igazság",
+        "slug": "10",
+        "url": "/uj/PRO/10"
+      },
+      {
+        "number": 11,
+        "title": "Az igazság áldást ad, a bűn átkot",
+        "slug": "11",
+        "url": "/uj/PRO/11"
+      },
+      {
+        "number": 12,
+        "title": "A bölcs és a bolond viselkedése",
+        "slug": "12",
+        "url": "/uj/PRO/12"
+      },
+      {
+        "number": 13,
+        "title": "13. fejezet",
+        "slug": "13",
+        "url": "/uj/PRO/13"
+      },
+      {
+        "number": 14,
+        "title": "A bölcsesség és a balgaság kétféle gyümölcse",
+        "slug": "14",
+        "url": "/uj/PRO/14"
+      },
+      {
+        "number": 15,
+        "title": "A bölcs ember osztályrésze élet, a bolondé halál",
+        "slug": "15",
+        "url": "/uj/PRO/15"
+      },
+      {
+        "number": 16,
+        "title": "Az  Úr szereti a benne bízókat",
+        "slug": "16",
+        "url": "/uj/PRO/16"
+      },
+      {
+        "number": 17,
+        "title": "A bölcs ember meggondolja, mit beszél",
+        "slug": "17",
+        "url": "/uj/PRO/17"
+      },
+      {
+        "number": 18,
+        "title": "18. fejezet",
+        "slug": "18",
+        "url": "/uj/PRO/18"
+      },
+      {
+        "number": 19,
+        "title": "A kegyes szegénység lelkileg gazdagít",
+        "slug": "19",
+        "url": "/uj/PRO/19"
+      },
+      {
+        "number": 20,
+        "title": "Bölcs tanácsok, melyek a könnyelműségtől óvnak",
+        "slug": "20",
+        "url": "/uj/PRO/20"
+      },
+      {
+        "number": 21,
+        "title": "Az igazakat megáldja, a bűnösöket megítéli az Isten",
+        "slug": "21",
+        "url": "/uj/PRO/21"
+      },
+      {
+        "number": 22,
+        "title": "A jóakaratú emberekről gondot visel az  Úr",
+        "slug": "22",
+        "url": "/uj/PRO/22"
+      },
+      {
+        "number": 23,
+        "title": "Józanság és mértéktartás ajánlása",
+        "slug": "23",
+        "url": "/uj/PRO/23"
+      },
+      {
+        "number": 24,
+        "title": "A meggondolatlanság és a restség romlásba dönt",
+        "slug": "24",
+        "url": "/uj/PRO/24"
+      },
+      {
+        "number": 25,
+        "title": "Bölcs hasonlatok gyűjteménye",
+        "slug": "25",
+        "url": "/uj/PRO/25"
+      },
+      {
+        "number": 26,
+        "title": "26. fejezet",
+        "slug": "26",
+        "url": "/uj/PRO/26"
+      },
+      {
+        "number": 27,
+        "title": "Ne dicsekedj a holnappal, hanem munkálkodj érte!",
+        "slug": "27",
+        "url": "/uj/PRO/27"
+      },
+      {
+        "number": 28,
+        "title": "Jobb tisztes szegénységben élni, mint bűnnel szerzett gazdagságban",
+        "slug": "28",
+        "url": "/uj/PRO/28"
+      },
+      {
+        "number": 29,
+        "title": "A lélek fegyelmezése csak jóra vezet",
+        "slug": "29",
+        "url": "/uj/PRO/29"
+      },
+      {
+        "number": 30,
+        "title": "Ágúr beszéde",
+        "slug": "30",
+        "url": "/uj/PRO/30"
+      },
+      {
+        "number": 31,
+        "title": "Anyai jótanácsok a király számára",
+        "slug": "31",
+        "url": "/uj/PRO/31"
+      }
+    ]
+  },
+  {
+    "title": "A prédikátor könyve",
+    "toc2": "Prédikátor",
+    "toc3": "Préd",
+    "slug": "ECC",
+    "url": "/uj/ECC",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Nincs semmi új a nap alatt",
+        "slug": "1",
+        "url": "/uj/ECC/1"
+      },
+      {
+        "number": 2,
+        "title": "A gazdagság és az élvezetek hiábavalók",
+        "slug": "2",
+        "url": "/uj/ECC/2"
+      },
+      {
+        "number": 3,
+        "title": "Mindennek megvan a maga ideje",
+        "slug": "3",
+        "url": "/uj/ECC/3"
+      },
+      {
+        "number": 4,
+        "title": "Az elnyomás és az önzés sok bajt okoz",
+        "slug": "4",
+        "url": "/uj/ECC/4"
+      },
+      {
+        "number": 5,
+        "title": "Többet ér a kapzsiságnál a józan életöröm",
+        "slug": "5",
+        "url": "/uj/ECC/5"
+      },
+      {
+        "number": 6,
+        "title": "A gazdagság és a tekintély mulandó",
+        "slug": "6",
+        "url": "/uj/ECC/6"
+      },
+      {
+        "number": 7,
+        "title": "A bölcs mértéktartás megóv a gonosztól",
+        "slug": "7",
+        "url": "/uj/ECC/7"
+      },
+      {
+        "number": 8,
+        "title": "A felsőbbségnek engedelmeskedni kell",
+        "slug": "8",
+        "url": "/uj/ECC/8"
+      },
+      {
+        "number": 9,
+        "title": "Örülj az életnek, míg tart!",
+        "slug": "9",
+        "url": "/uj/ECC/9"
+      },
+      {
+        "number": 10,
+        "title": "A bölcs és az ostoba magatartás eredménye",
+        "slug": "10",
+        "url": "/uj/ECC/10"
+      },
+      {
+        "number": 11,
+        "title": "Féld Istent, mert ítélőszéke elé kerülsz!",
+        "slug": "11",
+        "url": "/uj/ECC/11"
+      },
+      {
+        "number": 12,
+        "title": "12. fejezet",
+        "slug": "12",
+        "url": "/uj/ECC/12"
+      }
+    ]
+  },
+  {
+    "title": "Énekek éneke",
+    "toc2": "Énekek",
+    "toc3": "Énekek",
+    "slug": "SNG",
+    "url": "/uj/SNG",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "A vőlegény és a menyasszony találkozása",
+        "slug": "1",
+        "url": "/uj/SNG/1"
+      },
+      {
+        "number": 2,
+        "title": "A szerelem öröme a tavasz szépségében",
+        "slug": "2",
+        "url": "/uj/SNG/2"
+      },
+      {
+        "number": 3,
+        "title": "A vőlegény érkezése",
+        "slug": "3",
+        "url": "/uj/SNG/3"
+      },
+      {
+        "number": 4,
+        "title": "A menyasszony szépsége",
+        "slug": "4",
+        "url": "/uj/SNG/4"
+      },
+      {
+        "number": 5,
+        "title": "A menyasszony keresi vőlegényét, és leírja szépségét",
+        "slug": "5",
+        "url": "/uj/SNG/5"
+      },
+      {
+        "number": 6,
+        "title": "Az egymásra találás öröme",
+        "slug": "6",
+        "url": "/uj/SNG/6"
+      },
+      {
+        "number": 7,
+        "title": "A vőlegény és a menyasszony boldog együttléte",
+        "slug": "7",
+        "url": "/uj/SNG/7"
+      },
+      {
+        "number": 8,
+        "title": "A szeretet mindennél drágább kincs",
+        "slug": "8",
+        "url": "/uj/SNG/8"
+      }
+    ]
+  },
+  {
+    "title": "Ézsaiás próféta könyve",
+    "toc2": "Ézsaiás",
+    "toc3": "Ézs",
+    "slug": "ISA",
+    "url": "/uj/ISA",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Izráel bűne és büntetése",
+        "slug": "1",
+        "url": "/uj/ISA/1"
+      },
+      {
+        "number": 2,
+        "title": "A béke korszaka",
+        "slug": "2",
+        "url": "/uj/ISA/2"
+      },
+      {
+        "number": 3,
+        "title": "Jeruzsálem nyomorúsága az ítélet idején",
+        "slug": "3",
+        "url": "/uj/ISA/3"
+      },
+      {
+        "number": 4,
+        "title": "Az új Jeruzsálem dicsősége",
+        "slug": "4",
+        "url": "/uj/ISA/4"
+      },
+      {
+        "number": 5,
+        "title": "Dal a terméketlen szőlőről",
+        "slug": "5",
+        "url": "/uj/ISA/5"
+      },
+      {
+        "number": 6,
+        "title": "Ézsaiás elhívatása",
+        "slug": "6",
+        "url": "/uj/ISA/6"
+      },
+      {
+        "number": 7,
+        "title": "A szír–efraimi háború",
+        "slug": "7",
+        "url": "/uj/ISA/7"
+      },
+      {
+        "number": 8,
+        "title": "Ézsaiás fiának jelképes neve",
+        "slug": "8",
+        "url": "/uj/ISA/8"
+      },
+      {
+        "number": 9,
+        "title": "Isten megbünteti Izráelt",
+        "slug": "9",
+        "url": "/uj/ISA/9"
+      },
+      {
+        "number": 10,
+        "title": "A gonosz vezetők ítélete",
+        "slug": "10",
+        "url": "/uj/ISA/10"
+      },
+      {
+        "number": 11,
+        "title": "A Messiás békét hoz a földre",
+        "slug": "11",
+        "url": "/uj/ISA/11"
+      },
+      {
+        "number": 12,
+        "title": "Istent magasztaló ének",
+        "slug": "12",
+        "url": "/uj/ISA/12"
+      },
+      {
+        "number": 13,
+        "title": "Jövendölés Babilon pusztulásáról",
+        "slug": "13",
+        "url": "/uj/ISA/13"
+      },
+      {
+        "number": 14,
+        "title": "Gúnydal a babiloni király bukásáról",
+        "slug": "14",
+        "url": "/uj/ISA/14"
+      },
+      {
+        "number": 15,
+        "title": "Jövendölés Móáb ellen",
+        "slug": "15",
+        "url": "/uj/ISA/15"
+      },
+      {
+        "number": 16,
+        "title": "Móáb népe Júdában talál menedékre",
+        "slug": "16",
+        "url": "/uj/ISA/16"
+      },
+      {
+        "number": 17,
+        "title": "Jövendölés Arám és Izráel ellen",
+        "slug": "17",
+        "url": "/uj/ISA/17"
+      },
+      {
+        "number": 18,
+        "title": "Jövendölés Etiópiáról",
+        "slug": "18",
+        "url": "/uj/ISA/18"
+      },
+      {
+        "number": 19,
+        "title": "Jövendölés Egyiptom bukásáról",
+        "slug": "19",
+        "url": "/uj/ISA/19"
+      },
+      {
+        "number": 20,
+        "title": "Jövendölés Egyiptom és Etiópia bukásáról",
+        "slug": "20",
+        "url": "/uj/ISA/20"
+      },
+      {
+        "number": 21,
+        "title": "Jövendölés Babilon ellen",
+        "slug": "21",
+        "url": "/uj/ISA/21"
+      },
+      {
+        "number": 22,
+        "title": "Jeruzsálem megaláztatása",
+        "slug": "22",
+        "url": "/uj/ISA/22"
+      },
+      {
+        "number": 23,
+        "title": "Tírusz és Szidón pusztulása",
+        "slug": "23",
+        "url": "/uj/ISA/23"
+      },
+      {
+        "number": 24,
+        "title": "Isten ítéletet tart a világ fölött",
+        "slug": "24",
+        "url": "/uj/ISA/24"
+      },
+      {
+        "number": 25,
+        "title": "A megváltottak hálaéneke",
+        "slug": "25",
+        "url": "/uj/ISA/25"
+      },
+      {
+        "number": 26,
+        "title": "Isten népének hálaéneke",
+        "slug": "26",
+        "url": "/uj/ISA/26"
+      },
+      {
+        "number": 27,
+        "title": "Isten összegyűjti szétszórt népét",
+        "slug": "27",
+        "url": "/uj/ISA/27"
+      },
+      {
+        "number": 28,
+        "title": "Jövendölés Samária pusztulásáról",
+        "slug": "28",
+        "url": "/uj/ISA/28"
+      },
+      {
+        "number": 29,
+        "title": "Jeruzsálem ostroma és szabadulása",
+        "slug": "29",
+        "url": "/uj/ISA/29"
+      },
+      {
+        "number": 30,
+        "title": "Egyiptom nem ad segítséget",
+        "slug": "30",
+        "url": "/uj/ISA/30"
+      },
+      {
+        "number": 31,
+        "title": "Jeruzsálemet megmenti az  Úr",
+        "slug": "31",
+        "url": "/uj/ISA/31"
+      },
+      {
+        "number": 32,
+        "title": "A Messiás-király uralkodása",
+        "slug": "32",
+        "url": "/uj/ISA/32"
+      },
+      {
+        "number": 33,
+        "title": "Csodálatos szabadulás az asszír veszélyből",
+        "slug": "33",
+        "url": "/uj/ISA/33"
+      },
+      {
+        "number": 34,
+        "title": "Edóm elpusztul",
+        "slug": "34",
+        "url": "/uj/ISA/34"
+      },
+      {
+        "number": 35,
+        "title": "Isten népe visszatér hazájába",
+        "slug": "35",
+        "url": "/uj/ISA/35"
+      },
+      {
+        "number": 36,
+        "title": "Szanhérib hadjárata Jeruzsálem ellen ",
+        "slug": "36",
+        "url": "/uj/ISA/36"
+      },
+      {
+        "number": 37,
+        "title": "Ezékiás követeket küld Ézsaiáshoz",
+        "slug": "37",
+        "url": "/uj/ISA/37"
+      },
+      {
+        "number": 38,
+        "title": "Ezékiás gyógyulása és hálaéneke",
+        "slug": "38",
+        "url": "/uj/ISA/38"
+      },
+      {
+        "number": 39,
+        "title": "Babiloni követek Ezékiásnál ",
+        "slug": "39",
+        "url": "/uj/ISA/39"
+      },
+      {
+        "number": 40,
+        "title": "Örömhír a fogságban",
+        "slug": "40",
+        "url": "/uj/ISA/40"
+      },
+      {
+        "number": 41,
+        "title": "Isten szabadulással biztatja népét",
+        "slug": "41",
+        "url": "/uj/ISA/41"
+      },
+      {
+        "number": 42,
+        "title": "Az  Úr szolgája szelíd és szabadító",
+        "slug": "42",
+        "url": "/uj/ISA/42"
+      },
+      {
+        "number": 43,
+        "title": "Isten Izráel megváltója",
+        "slug": "43",
+        "url": "/uj/ISA/43"
+      },
+      {
+        "number": 44,
+        "title": "Az  Úr Lelkét ígéri népének",
+        "slug": "44",
+        "url": "/uj/ISA/44"
+      },
+      {
+        "number": 45,
+        "title": "Egyedül az  Úr ad szabadulást",
+        "slug": "45",
+        "url": "/uj/ISA/45"
+      },
+      {
+        "number": 46,
+        "title": "A tehetetlen bálványok és a hatalmas Isten",
+        "slug": "46",
+        "url": "/uj/ISA/46"
+      },
+      {
+        "number": 47,
+        "title": "Babilon bukása",
+        "slug": "47",
+        "url": "/uj/ISA/47"
+      },
+      {
+        "number": 48,
+        "title": "Izráel képmutató és hűtlen",
+        "slug": "48",
+        "url": "/uj/ISA/48"
+      },
+      {
+        "number": 49,
+        "title": "Az  Úr a népekhez küldi szolgáját",
+        "slug": "49",
+        "url": "/uj/ISA/49"
+      },
+      {
+        "number": 50,
+        "title": "Isten nem vetette el népét",
+        "slug": "50",
+        "url": "/uj/ISA/50"
+      },
+      {
+        "number": 51,
+        "title": "Isten megtartja ígéretét",
+        "slug": "51",
+        "url": "/uj/ISA/51"
+      },
+      {
+        "number": 52,
+        "title": "A szabadulás örömhíre",
+        "slug": "52",
+        "url": "/uj/ISA/52"
+      },
+      {
+        "number": 53,
+        "title": "53. fejezet",
+        "slug": "53",
+        "url": "/uj/ISA/53"
+      },
+      {
+        "number": 54,
+        "title": "Isten örök hűsége és irgalma",
+        "slug": "54",
+        "url": "/uj/ISA/54"
+      },
+      {
+        "number": 55,
+        "title": "Isten hívó szava",
+        "slug": "55",
+        "url": "/uj/ISA/55"
+      },
+      {
+        "number": 56,
+        "title": "Idegeneknek is szól a kegyelem",
+        "slug": "56",
+        "url": "/uj/ISA/56"
+      },
+      {
+        "number": 57,
+        "title": "A bálványimádók ítélete",
+        "slug": "57",
+        "url": "/uj/ISA/57"
+      },
+      {
+        "number": 58,
+        "title": "Igaz istentisztelet",
+        "slug": "58",
+        "url": "/uj/ISA/58"
+      },
+      {
+        "number": 59,
+        "title": "Bűn és bűnbánat",
+        "slug": "59",
+        "url": "/uj/ISA/59"
+      },
+      {
+        "number": 60,
+        "title": "A megváltott nép boldogsága",
+        "slug": "60",
+        "url": "/uj/ISA/60"
+      },
+      {
+        "number": 61,
+        "title": "Eljön a kegyelem ideje",
+        "slug": "61",
+        "url": "/uj/ISA/61"
+      },
+      {
+        "number": 62,
+        "title": "Jeruzsálem boldog jövője",
+        "slug": "62",
+        "url": "/uj/ISA/62"
+      },
+      {
+        "number": 63,
+        "title": "Ítélet a népek fölött",
+        "slug": "63",
+        "url": "/uj/ISA/63"
+      },
+      {
+        "number": 64,
+        "title": "64. fejezet",
+        "slug": "64",
+        "url": "/uj/ISA/64"
+      },
+      {
+        "number": 65,
+        "title": "A bálványimádás",
+        "slug": "65",
+        "url": "/uj/ISA/65"
+      },
+      {
+        "number": 66,
+        "title": "A hamis vallásosság ítélete",
+        "slug": "66",
+        "url": "/uj/ISA/66"
+      }
+    ]
+  },
+  {
+    "title": "Jeremiás próféta könyve",
+    "toc2": "Jeremiás",
+    "toc3": "Jer",
+    "slug": "JER",
+    "url": "/uj/JER",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Isten prófétává teszi Jeremiást",
+        "slug": "1",
+        "url": "/uj/JER/1"
+      },
+      {
+        "number": 2,
+        "title": "A hűtlenné vált Izráel",
+        "slug": "2",
+        "url": "/uj/JER/2"
+      },
+      {
+        "number": 3,
+        "title": "Isten vádolja népét",
+        "slug": "3",
+        "url": "/uj/JER/3"
+      },
+      {
+        "number": 4,
+        "title": "Új kezdet",
+        "slug": "4",
+        "url": "/uj/JER/4"
+      },
+      {
+        "number": 5,
+        "title": "Isten szörnyű ítélete jogos",
+        "slug": "5",
+        "url": "/uj/JER/5"
+      },
+      {
+        "number": 6,
+        "title": "Közel a vég",
+        "slug": "6",
+        "url": "/uj/JER/6"
+      },
+      {
+        "number": 7,
+        "title": "A templomba vetett hamis hit",
+        "slug": "7",
+        "url": "/uj/JER/7"
+      },
+      {
+        "number": 8,
+        "title": "A csillagimádás büntetése",
+        "slug": "8",
+        "url": "/uj/JER/8"
+      },
+      {
+        "number": 9,
+        "title": "Az egész nép romlott",
+        "slug": "9",
+        "url": "/uj/JER/9"
+      },
+      {
+        "number": 10,
+        "title": "Isten és a bálványok",
+        "slug": "10",
+        "url": "/uj/JER/10"
+      },
+      {
+        "number": 11,
+        "title": "Ítélet a szövetség megszegése miatt",
+        "slug": "11",
+        "url": "/uj/JER/11"
+      },
+      {
+        "number": 12,
+        "title": "Miért boldogulnak a bűnösök?",
+        "slug": "12",
+        "url": "/uj/JER/12"
+      },
+      {
+        "number": 13,
+        "title": "Az övről mondott példázat",
+        "slug": "13",
+        "url": "/uj/JER/13"
+      },
+      {
+        "number": 14,
+        "title": "A nagy szárazság",
+        "slug": "14",
+        "url": "/uj/JER/14"
+      },
+      {
+        "number": 15,
+        "title": "Isten elutasítja a próféta kérését",
+        "slug": "15",
+        "url": "/uj/JER/15"
+      },
+      {
+        "number": 16,
+        "title": "Jeremiás élete ítéletet példáz",
+        "slug": "16",
+        "url": "/uj/JER/16"
+      },
+      {
+        "number": 17,
+        "title": "Júda bűne és bűnhődése",
+        "slug": "17",
+        "url": "/uj/JER/17"
+      },
+      {
+        "number": 18,
+        "title": "Jeremiás a fazekasnál",
+        "slug": "18",
+        "url": "/uj/JER/18"
+      },
+      {
+        "number": 19,
+        "title": "Az eltört cserépedény",
+        "slug": "19",
+        "url": "/uj/JER/19"
+      },
+      {
+        "number": 20,
+        "title": "Jeremiás kesereg, hogy próféta lett",
+        "slug": "20",
+        "url": "/uj/JER/20"
+      },
+      {
+        "number": 21,
+        "title": "Jeremiás válaszol a király követeinek",
+        "slug": "21",
+        "url": "/uj/JER/21"
+      },
+      {
+        "number": 22,
+        "title": "Jövendölés a királyi ház és Jeruzsálem ellen",
+        "slug": "22",
+        "url": "/uj/JER/22"
+      },
+      {
+        "number": 23,
+        "title": "A hűtlen pásztorok és az eljövendő király",
+        "slug": "23",
+        "url": "/uj/JER/23"
+      },
+      {
+        "number": 24,
+        "title": "Látomás a két kosár fügéről",
+        "slug": "24",
+        "url": "/uj/JER/24"
+      },
+      {
+        "number": 25,
+        "title": "Babilónia Isten büntetésének az eszköze",
+        "slug": "25",
+        "url": "/uj/JER/25"
+      },
+      {
+        "number": 26,
+        "title": "Jeremiást elfogják",
+        "slug": "26",
+        "url": "/uj/JER/26"
+      },
+      {
+        "number": 27,
+        "title": "Jeremiás igát vesz a nyakába",
+        "slug": "27",
+        "url": "/uj/JER/27"
+      },
+      {
+        "number": 28,
+        "title": "Hananjá és Jeremiás összetűzése",
+        "slug": "28",
+        "url": "/uj/JER/28"
+      },
+      {
+        "number": 29,
+        "title": "Jeremiás levelet ír a száműzötteknek",
+        "slug": "29",
+        "url": "/uj/JER/29"
+      },
+      {
+        "number": 30,
+        "title": "Vigasztaló ígéret a népnek",
+        "slug": "30",
+        "url": "/uj/JER/30"
+      },
+      {
+        "number": 31,
+        "title": "Jövendölés a hazatérésről",
+        "slug": "31",
+        "url": "/uj/JER/31"
+      },
+      {
+        "number": 32,
+        "title": "Jeremiás földet vásárol",
+        "slug": "32",
+        "url": "/uj/JER/32"
+      },
+      {
+        "number": 33,
+        "title": "Jeruzsálem és Júda sorsa jóra fordul",
+        "slug": "33",
+        "url": "/uj/JER/33"
+      },
+      {
+        "number": 34,
+        "title": "Cidkijjá sorsa megpecsételődik",
+        "slug": "34",
+        "url": "/uj/JER/34"
+      },
+      {
+        "number": 35,
+        "title": "A rékábiak példaadó engedelmessége",
+        "slug": "35",
+        "url": "/uj/JER/35"
+      },
+      {
+        "number": 36,
+        "title": "Jeremiás leíratja jövendöléseit",
+        "slug": "36",
+        "url": "/uj/JER/36"
+      },
+      {
+        "number": 37,
+        "title": "Jeremiás válasza a király követeinek",
+        "slug": "37",
+        "url": "/uj/JER/37"
+      },
+      {
+        "number": 38,
+        "title": "Jeremiás a ciszternában",
+        "slug": "38",
+        "url": "/uj/JER/38"
+      },
+      {
+        "number": 39,
+        "title": "Jeruzsálemet elfoglalják a káldeusok",
+        "slug": "39",
+        "url": "/uj/JER/39"
+      },
+      {
+        "number": 40,
+        "title": "Jeremiás Gedaljá helytartónál",
+        "slug": "40",
+        "url": "/uj/JER/40"
+      },
+      {
+        "number": 41,
+        "title": "Jismáél megöli a helytartót és híveit",
+        "slug": "41",
+        "url": "/uj/JER/41"
+      },
+      {
+        "number": 42,
+        "title": "A vezetők Jeremiástól kérnek tanácsot",
+        "slug": "42",
+        "url": "/uj/JER/42"
+      },
+      {
+        "number": 43,
+        "title": "A kivándorlók magukkal hurcolják Jeremiást",
+        "slug": "43",
+        "url": "/uj/JER/43"
+      },
+      {
+        "number": 44,
+        "title": "Jeremiás vitája honfitársaival",
+        "slug": "44",
+        "url": "/uj/JER/44"
+      },
+      {
+        "number": 45,
+        "title": "A próféta vigasztalja Bárúkot",
+        "slug": "45",
+        "url": "/uj/JER/45"
+      },
+      {
+        "number": 46,
+        "title": "Jövendölések idegen népek ellen",
+        "slug": "46",
+        "url": "/uj/JER/46"
+      },
+      {
+        "number": 47,
+        "title": "Jövendölés a filiszteusokról",
+        "slug": "47",
+        "url": "/uj/JER/47"
+      },
+      {
+        "number": 48,
+        "title": "Jövendölés Móábról",
+        "slug": "48",
+        "url": "/uj/JER/48"
+      },
+      {
+        "number": 49,
+        "title": "Jövendölés Ammónról",
+        "slug": "49",
+        "url": "/uj/JER/49"
+      },
+      {
+        "number": 50,
+        "title": "Jövendölés Babilóniáról",
+        "slug": "50",
+        "url": "/uj/JER/50"
+      },
+      {
+        "number": 51,
+        "title": "Babilónia pusztulása Isten akarata",
+        "slug": "51",
+        "url": "/uj/JER/51"
+      },
+      {
+        "number": 52,
+        "title": "Nebukadneccar elfoglalja Jeruzsálemet",
+        "slug": "52",
+        "url": "/uj/JER/52"
+      }
+    ]
+  },
+  {
+    "title": "Jeremiás siralmai",
+    "toc2": "Jeremiás siralmai",
+    "toc3": "JSir",
+    "slug": "LAM",
+    "url": "/uj/LAM",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Első ének: Az elpusztult Jeruzsálem",
+        "slug": "1",
+        "url": "/uj/LAM/1"
+      },
+      {
+        "number": 2,
+        "title": "Második ének: Júda és Jeruzsálem megtapasztalta Istene haragját",
+        "slug": "2",
+        "url": "/uj/LAM/2"
+      },
+      {
+        "number": 3,
+        "title": "Harmadik ének: A kegyesek szenvedése és annak értelme",
+        "slug": "3",
+        "url": "/uj/LAM/3"
+      },
+      {
+        "number": 4,
+        "title": "Negyedik ének: Az ostromolt Jeruzsálem ínsége",
+        "slug": "4",
+        "url": "/uj/LAM/4"
+      },
+      {
+        "number": 5,
+        "title": "Ötödik ének: Könyörgés irgalomért",
+        "slug": "5",
+        "url": "/uj/LAM/5"
+      }
+    ]
+  },
+  {
+    "title": "Ezékiel próféta könyve",
+    "toc2": "Ezékiel",
+    "toc3": "Ez",
+    "slug": "EZK",
+    "url": "/uj/EZK",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Ezékiel látomása",
+        "slug": "1",
+        "url": "/uj/EZK/1"
+      },
+      {
+        "number": 2,
+        "title": "Ezékiel prófétai küldetése",
+        "slug": "2",
+        "url": "/uj/EZK/2"
+      },
+      {
+        "number": 3,
+        "title": "Az igehirdetés kötelessége",
+        "slug": "3",
+        "url": "/uj/EZK/3"
+      },
+      {
+        "number": 4,
+        "title": "Jeruzsálem ostromának kiábrázolása",
+        "slug": "4",
+        "url": "/uj/EZK/4"
+      },
+      {
+        "number": 5,
+        "title": "Jövendölés Jeruzsálem pusztulásáról",
+        "slug": "5",
+        "url": "/uj/EZK/5"
+      },
+      {
+        "number": 6,
+        "title": "Ítélethirdetés a bálványimádás miatt",
+        "slug": "6",
+        "url": "/uj/EZK/6"
+      },
+      {
+        "number": 7,
+        "title": "A harag napja",
+        "slug": "7",
+        "url": "/uj/EZK/7"
+      },
+      {
+        "number": 8,
+        "title": "Bálványimádás a jeruzsálemi templomban",
+        "slug": "8",
+        "url": "/uj/EZK/8"
+      },
+      {
+        "number": 9,
+        "title": "Látomás Jeruzsálem pusztulásáról",
+        "slug": "9",
+        "url": "/uj/EZK/9"
+      },
+      {
+        "number": 10,
+        "title": "Isten tüzet küld Jeruzsálemre",
+        "slug": "10",
+        "url": "/uj/EZK/10"
+      },
+      {
+        "number": 11,
+        "title": "Ítélet Júda elöljárói fölött",
+        "slug": "11",
+        "url": "/uj/EZK/11"
+      },
+      {
+        "number": 12,
+        "title": "Ezékiel jelképesen ábrázolja a fogságot",
+        "slug": "12",
+        "url": "/uj/EZK/12"
+      },
+      {
+        "number": 13,
+        "title": "Hamis próféták ítélete",
+        "slug": "13",
+        "url": "/uj/EZK/13"
+      },
+      {
+        "number": 14,
+        "title": "A bálványimádók nem kaphatnak kijelentést",
+        "slug": "14",
+        "url": "/uj/EZK/14"
+      },
+      {
+        "number": 15,
+        "title": "A haszontalan szőlőtőke példázata",
+        "slug": "15",
+        "url": "/uj/EZK/15"
+      },
+      {
+        "number": 16,
+        "title": "Példázat a hűtlen Jeruzsálemről",
+        "slug": "16",
+        "url": "/uj/EZK/16"
+      },
+      {
+        "number": 17,
+        "title": "Példázat a szőlőtőkéről és a saskeselyűről",
+        "slug": "17",
+        "url": "/uj/EZK/17"
+      },
+      {
+        "number": 18,
+        "title": "Tanítás az egyéni felelősségről",
+        "slug": "18",
+        "url": "/uj/EZK/18"
+      },
+      {
+        "number": 19,
+        "title": "Jelképes gyászének Júda két királyáról",
+        "slug": "19",
+        "url": "/uj/EZK/19"
+      },
+      {
+        "number": 20,
+        "title": "Történelmi lecke Izráel hűtlenségéről",
+        "slug": "20",
+        "url": "/uj/EZK/20"
+      },
+      {
+        "number": 21,
+        "title": "Ítéletes prófécia Jeruzsálem ellen",
+        "slug": "21",
+        "url": "/uj/EZK/21"
+      },
+      {
+        "number": 22,
+        "title": "Jeruzsálem bűnei és bűnhődése",
+        "slug": "22",
+        "url": "/uj/EZK/22"
+      },
+      {
+        "number": 23,
+        "title": "Példázat a két házasságtörő asszonyról",
+        "slug": "23",
+        "url": "/uj/EZK/23"
+      },
+      {
+        "number": 24,
+        "title": "Példázat a rozsdás fazékról",
+        "slug": "24",
+        "url": "/uj/EZK/24"
+      },
+      {
+        "number": 25,
+        "title": "Ítélethirdetés Ammón ellen",
+        "slug": "25",
+        "url": "/uj/EZK/25"
+      },
+      {
+        "number": 26,
+        "title": "Jövendölés Tírusz ostromáról és pusztulásáról",
+        "slug": "26",
+        "url": "/uj/EZK/26"
+      },
+      {
+        "number": 27,
+        "title": "Tírusz összeomlása",
+        "slug": "27",
+        "url": "/uj/EZK/27"
+      },
+      {
+        "number": 28,
+        "title": "Tírusz elpusztul felfuvalkodottsága miatt",
+        "slug": "28",
+        "url": "/uj/EZK/28"
+      },
+      {
+        "number": 29,
+        "title": "Jövendölés Egyiptom lehanyatlásáról",
+        "slug": "29",
+        "url": "/uj/EZK/29"
+      },
+      {
+        "number": 30,
+        "title": "Ítélet jön Egyiptomra",
+        "slug": "30",
+        "url": "/uj/EZK/30"
+      },
+      {
+        "number": 31,
+        "title": "Asszíria intő példa Egyiptom számára",
+        "slug": "31",
+        "url": "/uj/EZK/31"
+      },
+      {
+        "number": 32,
+        "title": "Siratóének Egyiptom fölött",
+        "slug": "32",
+        "url": "/uj/EZK/32"
+      },
+      {
+        "number": 33,
+        "title": "Az őrálló felelőssége",
+        "slug": "33",
+        "url": "/uj/EZK/33"
+      },
+      {
+        "number": 34,
+        "title": "Ítélet a hűtlen pásztorok fölött",
+        "slug": "34",
+        "url": "/uj/EZK/34"
+      },
+      {
+        "number": 35,
+        "title": "Ítélet Edóm országa fölött",
+        "slug": "35",
+        "url": "/uj/EZK/35"
+      },
+      {
+        "number": 36,
+        "title": "Új élet ígérete",
+        "slug": "36",
+        "url": "/uj/EZK/36"
+      },
+      {
+        "number": 37,
+        "title": "Látomás Izráel újjáéledéséről",
+        "slug": "37",
+        "url": "/uj/EZK/37"
+      },
+      {
+        "number": 38,
+        "title": "Góg népe rátámad Izráelre",
+        "slug": "38",
+        "url": "/uj/EZK/38"
+      },
+      {
+        "number": 39,
+        "title": "Góg népe megsemmisül az ítélet napján",
+        "slug": "39",
+        "url": "/uj/EZK/39"
+      },
+      {
+        "number": 40,
+        "title": "Ezékiel látomása az új templomról",
+        "slug": "40",
+        "url": "/uj/EZK/40"
+      },
+      {
+        "number": 41,
+        "title": "A templom körül levő építmények",
+        "slug": "41",
+        "url": "/uj/EZK/41"
+      },
+      {
+        "number": 42,
+        "title": "A papok használatára rendelt kamrák",
+        "slug": "42",
+        "url": "/uj/EZK/42"
+      },
+      {
+        "number": 43,
+        "title": "Isten dicsősége az új templomban",
+        "slug": "43",
+        "url": "/uj/EZK/43"
+      },
+      {
+        "number": 44,
+        "title": "A keleti kaput zárva kell tartani",
+        "slug": "44",
+        "url": "/uj/EZK/44"
+      },
+      {
+        "number": 45,
+        "title": "A szent terület kijelölése",
+        "slug": "45",
+        "url": "/uj/EZK/45"
+      },
+      {
+        "number": 46,
+        "title": "Az áldozati rendtartás folytatása",
+        "slug": "46",
+        "url": "/uj/EZK/46"
+      },
+      {
+        "number": 47,
+        "title": "A templomból forrás fakad",
+        "slug": "47",
+        "url": "/uj/EZK/47"
+      },
+      {
+        "number": 48,
+        "title": "Az új ország felosztása",
+        "slug": "48",
+        "url": "/uj/EZK/48"
+      }
+    ]
+  },
+  {
+    "title": "Dániel próféta könyve",
+    "toc2": "Dániel",
+    "toc3": "Dán",
+    "slug": "DAN",
+    "url": "/uj/DAN",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Dániel és három társa a babilóniai király szolgálatába kerül",
+        "slug": "1",
+        "url": "/uj/DAN/1"
+      },
+      {
+        "number": 2,
+        "title": "Dániel megfejti Nebukadneccar álmát",
+        "slug": "2",
+        "url": "/uj/DAN/2"
+      },
+      {
+        "number": 3,
+        "title": "Három férfi a tüzes kemencében",
+        "slug": "3",
+        "url": "/uj/DAN/3"
+      },
+      {
+        "number": 4,
+        "title": "4. fejezet",
+        "slug": "4",
+        "url": "/uj/DAN/4"
+      },
+      {
+        "number": 5,
+        "title": "Bélsaccar lakomája",
+        "slug": "5",
+        "url": "/uj/DAN/5"
+      },
+      {
+        "number": 6,
+        "title": "Dániel az oroszlánok vermében",
+        "slug": "6",
+        "url": "/uj/DAN/6"
+      },
+      {
+        "number": 7,
+        "title": "Látomás a világbirodalmakról",
+        "slug": "7",
+        "url": "/uj/DAN/7"
+      },
+      {
+        "number": 8,
+        "title": "Látomás egy kos és egy bak küzdelméről",
+        "slug": "8",
+        "url": "/uj/DAN/8"
+      },
+      {
+        "number": 9,
+        "title": "Dániel bűnvalló imádsága",
+        "slug": "9",
+        "url": "/uj/DAN/9"
+      },
+      {
+        "number": 10,
+        "title": "Dánielhez mennyei követ jön",
+        "slug": "10",
+        "url": "/uj/DAN/10"
+      },
+      {
+        "number": 11,
+        "title": "Egyiptom és Szíria harca az uralomért",
+        "slug": "11",
+        "url": "/uj/DAN/11"
+      },
+      {
+        "number": 12,
+        "title": "Jövendölés a próbatétel végéről és a feltámadásról",
+        "slug": "12",
+        "url": "/uj/DAN/12"
+      }
+    ]
+  },
+  {
+    "title": "Hóseás próféta könyve",
+    "toc2": "Hóseás",
+    "toc3": "Hós",
+    "slug": "HOS",
+    "url": "/uj/HOS",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Hóseás házasságkötése és gyermekei",
+        "slug": "1",
+        "url": "/uj/HOS/1"
+      },
+      {
+        "number": 2,
+        "title": "Isten újra megkönyörül népén",
+        "slug": "2",
+        "url": "/uj/HOS/2"
+      },
+      {
+        "number": 3,
+        "title": "Isten neveli népét",
+        "slug": "3",
+        "url": "/uj/HOS/3"
+      },
+      {
+        "number": 4,
+        "title": "A nép és a papok bűne",
+        "slug": "4",
+        "url": "/uj/HOS/4"
+      },
+      {
+        "number": 5,
+        "title": "Fenyegetés Izráel vezetői ellen",
+        "slug": "5",
+        "url": "/uj/HOS/5"
+      },
+      {
+        "number": 6,
+        "title": "A nép bűnbánata csak múló hangulat",
+        "slug": "6",
+        "url": "/uj/HOS/6"
+      },
+      {
+        "number": 7,
+        "title": "Összeesküvések a királyi udvarban",
+        "slug": "7",
+        "url": "/uj/HOS/7"
+      },
+      {
+        "number": 8,
+        "title": "A szövetségszegés következményei",
+        "slug": "8",
+        "url": "/uj/HOS/8"
+      },
+      {
+        "number": 9,
+        "title": "Isten megbünteti hűtlen népét",
+        "slug": "9",
+        "url": "/uj/HOS/9"
+      },
+      {
+        "number": 10,
+        "title": "A bálványimádás vége pusztulás",
+        "slug": "10",
+        "url": "/uj/HOS/10"
+      },
+      {
+        "number": 11,
+        "title": "Isten hűséges szeretete",
+        "slug": "11",
+        "url": "/uj/HOS/11"
+      },
+      {
+        "number": 12,
+        "title": "Izráel népe folytatja ősatyja bűneit",
+        "slug": "12",
+        "url": "/uj/HOS/12"
+      },
+      {
+        "number": 13,
+        "title": "Efraim hűtlensége és büntetése",
+        "slug": "13",
+        "url": "/uj/HOS/13"
+      },
+      {
+        "number": 14,
+        "title": "Ha Izráel megtér, virágozni fog",
+        "slug": "14",
+        "url": "/uj/HOS/14"
+      }
+    ]
+  },
+  {
+    "title": "Jóel próféta könyve",
+    "toc2": "Jóel",
+    "toc3": "Jóel",
+    "slug": "JOL",
+    "url": "/uj/JOL",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "A sáskajárás az  Úr napjának az előhírnöke",
+        "slug": "1",
+        "url": "/uj/JOL/1"
+      },
+      {
+        "number": 2,
+        "title": "Tovább tart a sáskajárás",
+        "slug": "2",
+        "url": "/uj/JOL/2"
+      },
+      {
+        "number": 3,
+        "title": "A Lélek kitöltése",
+        "slug": "3",
+        "url": "/uj/JOL/3"
+      },
+      {
+        "number": 4,
+        "title": "Isten ítéletet mond a népek fölött",
+        "slug": "4",
+        "url": "/uj/JOL/4"
+      }
+    ]
+  },
+  {
+    "title": "Ámósz próféta könyve",
+    "toc2": "Ámósz",
+    "toc3": "Ám",
+    "slug": "AMO",
+    "url": "/uj/AMO",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Fenyegető próféciák Izráel szomszédai ellen",
+        "slug": "1",
+        "url": "/uj/AMO/1"
+      },
+      {
+        "number": 2,
+        "title": "Fenyegető prófécia Izráel ellen",
+        "slug": "2",
+        "url": "/uj/AMO/2"
+      },
+      {
+        "number": 3,
+        "title": "A próféta küldetése a választott néphez",
+        "slug": "3",
+        "url": "/uj/AMO/3"
+      },
+      {
+        "number": 4,
+        "title": "Samária asszonyai ellen",
+        "slug": "4",
+        "url": "/uj/AMO/4"
+      },
+      {
+        "number": 5,
+        "title": "A próféta elsiratja Izráelt",
+        "slug": "5",
+        "url": "/uj/AMO/5"
+      },
+      {
+        "number": 6,
+        "title": "A kevélység büntetése",
+        "slug": "6",
+        "url": "/uj/AMO/6"
+      },
+      {
+        "number": 7,
+        "title": "Az első három látomás",
+        "slug": "7",
+        "url": "/uj/AMO/7"
+      },
+      {
+        "number": 8,
+        "title": "A negyedik látomás",
+        "slug": "8",
+        "url": "/uj/AMO/8"
+      },
+      {
+        "number": 9,
+        "title": "Az ötödik látomás: Nincs menekvés az ítélet elől",
+        "slug": "9",
+        "url": "/uj/AMO/9"
+      }
+    ]
+  },
+  {
+    "title": "Abdiás próféta könyve",
+    "toc2": "Abdiás",
+    "toc3": "Abd",
+    "slug": "OBA",
+    "url": "/uj/OBA",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Jövendölés Edóm pusztulásáról",
+        "slug": "1",
+        "url": "/uj/OBA/1"
+      }
+    ]
+  },
+  {
+    "title": "Jónás próféta könyve",
+    "toc2": "Jónás",
+    "toc3": "Jón",
+    "slug": "JON",
+    "url": "/uj/JON",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Jónás engedetlensége és büntetése",
+        "slug": "1",
+        "url": "/uj/JON/1"
+      },
+      {
+        "number": 2,
+        "title": "Jónás imádsága",
+        "slug": "2",
+        "url": "/uj/JON/2"
+      },
+      {
+        "number": 3,
+        "title": "Jónás prédikálására Ninive megtér",
+        "slug": "3",
+        "url": "/uj/JON/3"
+      },
+      {
+        "number": 4,
+        "title": "Jónás vitája Istennel",
+        "slug": "4",
+        "url": "/uj/JON/4"
+      }
+    ]
+  },
+  {
+    "title": "Mikeás próféta könyve",
+    "toc2": "Mikeás",
+    "toc3": "Mik",
+    "slug": "MIC",
+    "url": "/uj/MIC",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Isten megítéli Izráelt",
+        "slug": "1",
+        "url": "/uj/MIC/1"
+      },
+      {
+        "number": 2,
+        "title": "A gazdagok kifosztják a népet",
+        "slug": "2",
+        "url": "/uj/MIC/2"
+      },
+      {
+        "number": 3,
+        "title": "A gonosz vezetők és a hamis próféták ellen",
+        "slug": "3",
+        "url": "/uj/MIC/3"
+      },
+      {
+        "number": 4,
+        "title": "A béke korszaka",
+        "slug": "4",
+        "url": "/uj/MIC/4"
+      },
+      {
+        "number": 5,
+        "title": "A Messiás uralkodása",
+        "slug": "5",
+        "url": "/uj/MIC/5"
+      },
+      {
+        "number": 6,
+        "title": "A helyes istentisztelet",
+        "slug": "6",
+        "url": "/uj/MIC/6"
+      },
+      {
+        "number": 7,
+        "title": "Panasz a nép romlottsága miatt",
+        "slug": "7",
+        "url": "/uj/MIC/7"
+      }
+    ]
+  },
+  {
+    "title": "Náhum próféta könyve",
+    "toc2": "Náhum",
+    "toc3": "Náh",
+    "slug": "NAM",
+    "url": "/uj/NAM",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Jó az  Úr, de a bűnöst megbünteti",
+        "slug": "1",
+        "url": "/uj/NAM/1"
+      },
+      {
+        "number": 2,
+        "title": "Ninive feldúlása",
+        "slug": "2",
+        "url": "/uj/NAM/2"
+      },
+      {
+        "number": 3,
+        "title": "Ninive összeomlása",
+        "slug": "3",
+        "url": "/uj/NAM/3"
+      }
+    ]
+  },
+  {
+    "title": "Habakuk próféta könyve",
+    "toc2": "Habakuk",
+    "toc3": "Hab",
+    "slug": "HAB",
+    "url": "/uj/HAB",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Habakuk panasza, Isten válasza",
+        "slug": "1",
+        "url": "/uj/HAB/1"
+      },
+      {
+        "number": 2,
+        "title": "Az igaz ember hitből él",
+        "slug": "2",
+        "url": "/uj/HAB/2"
+      },
+      {
+        "number": 3,
+        "title": "Isten eljön ítéletre",
+        "slug": "3",
+        "url": "/uj/HAB/3"
+      }
+    ]
+  },
+  {
+    "title": "Zofóniás próféta könyve",
+    "toc2": "Zofóniás",
+    "toc3": "Zof",
+    "slug": "ZEP",
+    "url": "/uj/ZEP",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "A harag napja",
+        "slug": "1",
+        "url": "/uj/ZEP/1"
+      },
+      {
+        "number": 2,
+        "title": "Felhívás megtérésre",
+        "slug": "2",
+        "url": "/uj/ZEP/2"
+      },
+      {
+        "number": 3,
+        "title": "Ítélethirdetés Jeruzsálem ellen",
+        "slug": "3",
+        "url": "/uj/ZEP/3"
+      }
+    ]
+  },
+  {
+    "title": "Haggeus próféta könyve",
+    "toc2": "Haggeus",
+    "toc3": "Hag",
+    "slug": "HAG",
+    "url": "/uj/HAG",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Buzdítás a templom újjáépítésére",
+        "slug": "1",
+        "url": "/uj/HAG/1"
+      },
+      {
+        "number": 2,
+        "title": "Az új templom dicsősége",
+        "slug": "2",
+        "url": "/uj/HAG/2"
+      }
+    ]
+  },
+  {
+    "title": "Zakariás próféta könyve",
+    "toc2": "Zakariás",
+    "toc3": "Zak",
+    "slug": "ZEC",
+    "url": "/uj/ZEC",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Isten megtérést kíván népétől",
+        "slug": "1",
+        "url": "/uj/ZEC/1"
+      },
+      {
+        "number": 2,
+        "title": "Látomás négy szarvról és négy kovácsról",
+        "slug": "2",
+        "url": "/uj/ZEC/2"
+      },
+      {
+        "number": 3,
+        "title": "Jósua főpap kegyelmet nyer",
+        "slug": "3",
+        "url": "/uj/ZEC/3"
+      },
+      {
+        "number": 4,
+        "title": "Látomás a lámpatartóról és a két olajfáról",
+        "slug": "4",
+        "url": "/uj/ZEC/4"
+      },
+      {
+        "number": 5,
+        "title": "Látomás egy irattekercsről",
+        "slug": "5",
+        "url": "/uj/ZEC/5"
+      },
+      {
+        "number": 6,
+        "title": "Látomás négy fogatról",
+        "slug": "6",
+        "url": "/uj/ZEC/6"
+      },
+      {
+        "number": 7,
+        "title": "Kérdés a böjtről",
+        "slug": "7",
+        "url": "/uj/ZEC/7"
+      },
+      {
+        "number": 8,
+        "title": "Boldog jövendő",
+        "slug": "8",
+        "url": "/uj/ZEC/8"
+      },
+      {
+        "number": 9,
+        "title": "Fenyegetés Izráel szomszédai ellen",
+        "slug": "9",
+        "url": "/uj/ZEC/9"
+      },
+      {
+        "number": 10,
+        "title": "A szétszóródott Izráel hazatér",
+        "slug": "10",
+        "url": "/uj/ZEC/10"
+      },
+      {
+        "number": 11,
+        "title": "Prófécia a hűtlen pásztorokról",
+        "slug": "11",
+        "url": "/uj/ZEC/11"
+      },
+      {
+        "number": 12,
+        "title": "Jeruzsálem ellenségei elpusztulnak",
+        "slug": "12",
+        "url": "/uj/ZEC/12"
+      },
+      {
+        "number": 13,
+        "title": "Isten megtisztítja népét",
+        "slug": "13",
+        "url": "/uj/ZEC/13"
+      },
+      {
+        "number": 14,
+        "title": "Végső ítélet. Jeruzsálem felmagasztalása",
+        "slug": "14",
+        "url": "/uj/ZEC/14"
+      }
+    ]
+  },
+  {
+    "title": "Malakiás próféta könyve",
+    "toc2": "Malakiás",
+    "toc3": "Mal",
+    "slug": "MAL",
+    "url": "/uj/MAL",
+    "part": "oszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Az  Úr szereti Izráelt",
+        "slug": "1",
+        "url": "/uj/MAL/1"
+      },
+      {
+        "number": 2,
+        "title": "Feddő beszéd a papok ellen",
+        "slug": "2",
+        "url": "/uj/MAL/2"
+      },
+      {
+        "number": 3,
+        "title": "Visszaélés a templomi ajándékokkal",
+        "slug": "3",
+        "url": "/uj/MAL/3"
+      }
+    ]
+  },
+  {
+    "title": "Máté evangéliuma",
+    "toc2": "Máté",
+    "toc3": "Mt",
+    "slug": "MAT",
+    "url": "/uj/MAT",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Jézus Krisztus származása",
+        "slug": "1",
+        "url": "/uj/MAT/1"
+      },
+      {
+        "number": 2,
+        "title": "A napkeleti bölcsek imádják Jézust",
+        "slug": "2",
+        "url": "/uj/MAT/2"
+      },
+      {
+        "number": 3,
+        "title": "Keresztelő János",
+        "slug": "3",
+        "url": "/uj/MAT/3"
+      },
+      {
+        "number": 4,
+        "title": "Jézus megkísértése",
+        "slug": "4",
+        "url": "/uj/MAT/4"
+      },
+      {
+        "number": 5,
+        "title": "Bevezetés",
+        "slug": "5",
+        "url": "/uj/MAT/5"
+      },
+      {
+        "number": 6,
+        "title": "Az adakozás",
+        "slug": "6",
+        "url": "/uj/MAT/6"
+      },
+      {
+        "number": 7,
+        "title": "A képmutató ítélkezés",
+        "slug": "7",
+        "url": "/uj/MAT/7"
+      },
+      {
+        "number": 8,
+        "title": "Jézus meggyógyít egy leprást",
+        "slug": "8",
+        "url": "/uj/MAT/8"
+      },
+      {
+        "number": 9,
+        "title": "Jézus meggyógyítja a bénát",
+        "slug": "9",
+        "url": "/uj/MAT/9"
+      },
+      {
+        "number": 10,
+        "title": "Jézus kiküldi tizenkét tanítványát ",
+        "slug": "10",
+        "url": "/uj/MAT/10"
+      },
+      {
+        "number": 11,
+        "title": "Keresztelő János kérdése és Jézus válasza",
+        "slug": "11",
+        "url": "/uj/MAT/11"
+      },
+      {
+        "number": 12,
+        "title": "Kalásztépés szombaton",
+        "slug": "12",
+        "url": "/uj/MAT/12"
+      },
+      {
+        "number": 13,
+        "title": "A magvető",
+        "slug": "13",
+        "url": "/uj/MAT/13"
+      },
+      {
+        "number": 14,
+        "title": "Keresztelő János halála",
+        "slug": "14",
+        "url": "/uj/MAT/14"
+      },
+      {
+        "number": 15,
+        "title": "Jézus tanítása a tisztaságról",
+        "slug": "15",
+        "url": "/uj/MAT/15"
+      },
+      {
+        "number": 16,
+        "title": "A farizeusok jelt kívánnak",
+        "slug": "16",
+        "url": "/uj/MAT/16"
+      },
+      {
+        "number": 17,
+        "title": "Jézus megdicsőülése",
+        "slug": "17",
+        "url": "/uj/MAT/17"
+      },
+      {
+        "number": 18,
+        "title": "A kisgyermek példája",
+        "slug": "18",
+        "url": "/uj/MAT/18"
+      },
+      {
+        "number": 19,
+        "title": "Kérdés a házassági elválásról ",
+        "slug": "19",
+        "url": "/uj/MAT/19"
+      },
+      {
+        "number": 20,
+        "title": "A szőlőmunkások",
+        "slug": "20",
+        "url": "/uj/MAT/20"
+      },
+      {
+        "number": 21,
+        "title": "Jézus bevonul Jeruzsálembe",
+        "slug": "21",
+        "url": "/uj/MAT/21"
+      },
+      {
+        "number": 22,
+        "title": "A királyi menyegző",
+        "slug": "22",
+        "url": "/uj/MAT/22"
+      },
+      {
+        "number": 23,
+        "title": "Jézus beszéde az írástudók és a farizeusok ellen",
+        "slug": "23",
+        "url": "/uj/MAT/23"
+      },
+      {
+        "number": 24,
+        "title": "Jézus jövendölése a templomról",
+        "slug": "24",
+        "url": "/uj/MAT/24"
+      },
+      {
+        "number": 25,
+        "title": "A tíz szűz",
+        "slug": "25",
+        "url": "/uj/MAT/25"
+      },
+      {
+        "number": 26,
+        "title": "Jézus utoljára szól szenvedéséről",
+        "slug": "26",
+        "url": "/uj/MAT/26"
+      },
+      {
+        "number": 27,
+        "title": "Jézust átadják Pilátusnak",
+        "slug": "27",
+        "url": "/uj/MAT/27"
+      },
+      {
+        "number": 28,
+        "title": "Jézus feltámadása ",
+        "slug": "28",
+        "url": "/uj/MAT/28"
+      }
+    ]
+  },
+  {
+    "title": "Márk evangéliuma",
+    "toc2": "Márk",
+    "toc3": "Mk",
+    "slug": "MRK",
+    "url": "/uj/MRK",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Keresztelő János",
+        "slug": "1",
+        "url": "/uj/MRK/1"
+      },
+      {
+        "number": 2,
+        "title": "Jézus meggyógyítja a bénát ",
+        "slug": "2",
+        "url": "/uj/MRK/2"
+      },
+      {
+        "number": 3,
+        "title": "Jézus szombaton gyógyít ",
+        "slug": "3",
+        "url": "/uj/MRK/3"
+      },
+      {
+        "number": 4,
+        "title": "A magvető",
+        "slug": "4",
+        "url": "/uj/MRK/4"
+      },
+      {
+        "number": 5,
+        "title": "Jézus meggyógyítja a gadarai megszállottat",
+        "slug": "5",
+        "url": "/uj/MRK/5"
+      },
+      {
+        "number": 6,
+        "title": "Jézus Názáretben",
+        "slug": "6",
+        "url": "/uj/MRK/6"
+      },
+      {
+        "number": 7,
+        "title": "Jézus tanítása a tisztaságról ",
+        "slug": "7",
+        "url": "/uj/MRK/7"
+      },
+      {
+        "number": 8,
+        "title": "Négyezer ember megvendégelése ",
+        "slug": "8",
+        "url": "/uj/MRK/8"
+      },
+      {
+        "number": 9,
+        "title": "Jézus megdicsőülése",
+        "slug": "9",
+        "url": "/uj/MRK/9"
+      },
+      {
+        "number": 10,
+        "title": "Kérdés a házassági elválásról",
+        "slug": "10",
+        "url": "/uj/MRK/10"
+      },
+      {
+        "number": 11,
+        "title": "Jézus bevonul Jeruzsálembe",
+        "slug": "11",
+        "url": "/uj/MRK/11"
+      },
+      {
+        "number": 12,
+        "title": "A gonosz szőlőmunkások ",
+        "slug": "12",
+        "url": "/uj/MRK/12"
+      },
+      {
+        "number": 13,
+        "title": "Jézus jövendölése a templomról ",
+        "slug": "13",
+        "url": "/uj/MRK/13"
+      },
+      {
+        "number": 14,
+        "title": "A nép vezetőinek tanácskozása Jézus ellen",
+        "slug": "14",
+        "url": "/uj/MRK/14"
+      },
+      {
+        "number": 15,
+        "title": "Jézus Pilátus előtt",
+        "slug": "15",
+        "url": "/uj/MRK/15"
+      },
+      {
+        "number": 16,
+        "title": "Jézus feltámadása",
+        "slug": "16",
+        "url": "/uj/MRK/16"
+      }
+    ]
+  },
+  {
+    "title": "Lukács evangéliuma",
+    "toc2": "Lukács",
+    "toc3": "Lk",
+    "slug": "LUK",
+    "url": "/uj/LUK",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Ajánlás",
+        "slug": "1",
+        "url": "/uj/LUK/1"
+      },
+      {
+        "number": 2,
+        "title": "Jézus születése",
+        "slug": "2",
+        "url": "/uj/LUK/2"
+      },
+      {
+        "number": 3,
+        "title": "Keresztelő János",
+        "slug": "3",
+        "url": "/uj/LUK/3"
+      },
+      {
+        "number": 4,
+        "title": "Jézus megkísértése",
+        "slug": "4",
+        "url": "/uj/LUK/4"
+      },
+      {
+        "number": 5,
+        "title": "Péter halfogása",
+        "slug": "5",
+        "url": "/uj/LUK/5"
+      },
+      {
+        "number": 6,
+        "title": "Kalásztépés szombaton",
+        "slug": "6",
+        "url": "/uj/LUK/6"
+      },
+      {
+        "number": 7,
+        "title": "Jézus meggyógyítja a kapernaumi százados szolgáját",
+        "slug": "7",
+        "url": "/uj/LUK/7"
+      },
+      {
+        "number": 8,
+        "title": "A Jézust követő asszonyok",
+        "slug": "8",
+        "url": "/uj/LUK/8"
+      },
+      {
+        "number": 9,
+        "title": "Jézus kiküldi tizenkét tanítványát",
+        "slug": "9",
+        "url": "/uj/LUK/9"
+      },
+      {
+        "number": 10,
+        "title": "Jézus kiküldi hetvenkét tanítványát",
+        "slug": "10",
+        "url": "/uj/LUK/10"
+      },
+      {
+        "number": 11,
+        "title": "Jézus imádkozni tanít",
+        "slug": "11",
+        "url": "/uj/LUK/11"
+      },
+      {
+        "number": 12,
+        "title": "Bátorítás vallástételre",
+        "slug": "12",
+        "url": "/uj/LUK/12"
+      },
+      {
+        "number": 13,
+        "title": "Pilátus vérengzése és a siloámi torony leomlása",
+        "slug": "13",
+        "url": "/uj/LUK/13"
+      },
+      {
+        "number": 14,
+        "title": "Jézus meggyógyít egy vízkórost szombaton",
+        "slug": "14",
+        "url": "/uj/LUK/14"
+      },
+      {
+        "number": 15,
+        "title": "Az elveszett juh",
+        "slug": "15",
+        "url": "/uj/LUK/15"
+      },
+      {
+        "number": 16,
+        "title": "A hamis sáfár",
+        "slug": "16",
+        "url": "/uj/LUK/16"
+      },
+      {
+        "number": 17,
+        "title": "Botránkozás és botránkoztatás",
+        "slug": "17",
+        "url": "/uj/LUK/17"
+      },
+      {
+        "number": 18,
+        "title": "A hamis bíró",
+        "slug": "18",
+        "url": "/uj/LUK/18"
+      },
+      {
+        "number": 19,
+        "title": "Zákeus",
+        "slug": "19",
+        "url": "/uj/LUK/19"
+      },
+      {
+        "number": 20,
+        "title": "Kérdés Jézus hatalmáról ",
+        "slug": "20",
+        "url": "/uj/LUK/20"
+      },
+      {
+        "number": 21,
+        "title": "Az özvegyasszony két fillére ",
+        "slug": "21",
+        "url": "/uj/LUK/21"
+      },
+      {
+        "number": 22,
+        "title": "Júdás elárulja Jézust",
+        "slug": "22",
+        "url": "/uj/LUK/22"
+      },
+      {
+        "number": 23,
+        "title": "Jézus Pilátus előtt",
+        "slug": "23",
+        "url": "/uj/LUK/23"
+      },
+      {
+        "number": 24,
+        "title": "Jézus feltámadása",
+        "slug": "24",
+        "url": "/uj/LUK/24"
+      }
+    ]
+  },
+  {
+    "title": "János evangéliuma",
+    "toc2": "János",
+    "toc3": "Jn",
+    "slug": "JHN",
+    "url": "/uj/JHN",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Az Ige testté lett",
+        "slug": "1",
+        "url": "/uj/JHN/1"
+      },
+      {
+        "number": 2,
+        "title": "A kánai menyegző",
+        "slug": "2",
+        "url": "/uj/JHN/2"
+      },
+      {
+        "number": 3,
+        "title": "Nikodémus Jézusnál",
+        "slug": "3",
+        "url": "/uj/JHN/3"
+      },
+      {
+        "number": 4,
+        "title": "Jézus és a samáriai asszony",
+        "slug": "4",
+        "url": "/uj/JHN/4"
+      },
+      {
+        "number": 5,
+        "title": "Jézus beteget gyógyít szombaton a Betesdánál",
+        "slug": "5",
+        "url": "/uj/JHN/5"
+      },
+      {
+        "number": 6,
+        "title": "Ötezer ember megvendégelése",
+        "slug": "6",
+        "url": "/uj/JHN/6"
+      },
+      {
+        "number": 7,
+        "title": "Jézus Jeruzsálemben a lombsátrak ünnepén",
+        "slug": "7",
+        "url": "/uj/JHN/7"
+      },
+      {
+        "number": 8,
+        "title": "Jézus és a házasságtörő asszony",
+        "slug": "8",
+        "url": "/uj/JHN/8"
+      },
+      {
+        "number": 9,
+        "title": "A vakon született ember meggyógyítása szombaton",
+        "slug": "9",
+        "url": "/uj/JHN/9"
+      },
+      {
+        "number": 10,
+        "title": "A jó pásztor",
+        "slug": "10",
+        "url": "/uj/JHN/10"
+      },
+      {
+        "number": 11,
+        "title": "Lázár feltámasztása",
+        "slug": "11",
+        "url": "/uj/JHN/11"
+      },
+      {
+        "number": 12,
+        "title": "Jézus megkenetése Betániában",
+        "slug": "12",
+        "url": "/uj/JHN/12"
+      },
+      {
+        "number": 13,
+        "title": "Jézus megmossa tanítványai lábát",
+        "slug": "13",
+        "url": "/uj/JHN/13"
+      },
+      {
+        "number": 14,
+        "title": "Jézus az út az Atyához",
+        "slug": "14",
+        "url": "/uj/JHN/14"
+      },
+      {
+        "number": 15,
+        "title": "Az igazi szőlőtő",
+        "slug": "15",
+        "url": "/uj/JHN/15"
+      },
+      {
+        "number": 16,
+        "title": "A Szentlélek elvezet a teljes igazságra",
+        "slug": "16",
+        "url": "/uj/JHN/16"
+      },
+      {
+        "number": 17,
+        "title": "Jézus főpapi imádsága",
+        "slug": "17",
+        "url": "/uj/JHN/17"
+      },
+      {
+        "number": 18,
+        "title": "Jézus elfogatása ",
+        "slug": "18",
+        "url": "/uj/JHN/18"
+      },
+      {
+        "number": 19,
+        "title": "Pilátus kiszolgáltatja Jézust",
+        "slug": "19",
+        "url": "/uj/JHN/19"
+      },
+      {
+        "number": 20,
+        "title": "Az üres sír",
+        "slug": "20",
+        "url": "/uj/JHN/20"
+      },
+      {
+        "number": 21,
+        "title": "Jézus megjelenik a Tibériás-tengernél: a nagy halfogás",
+        "slug": "21",
+        "url": "/uj/JHN/21"
+      }
+    ]
+  },
+  {
+    "title": "Az apostolok cselekedetei",
+    "toc2": "Cselekedetek",
+    "toc3": "ApCsel",
+    "slug": "ACT",
+    "url": "/uj/ACT",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Bevezetés",
+        "slug": "1",
+        "url": "/uj/ACT/1"
+      },
+      {
+        "number": 2,
+        "title": "A Szentlélek kitöltése",
+        "slug": "2",
+        "url": "/uj/ACT/2"
+      },
+      {
+        "number": 3,
+        "title": "Péter meggyógyítja a sántát",
+        "slug": "3",
+        "url": "/uj/ACT/3"
+      },
+      {
+        "number": 4,
+        "title": "Pétert és Jánost börtönbe vetik",
+        "slug": "4",
+        "url": "/uj/ACT/4"
+      },
+      {
+        "number": 5,
+        "title": "Anániás és Szafira",
+        "slug": "5",
+        "url": "/uj/ACT/5"
+      },
+      {
+        "number": 6,
+        "title": "A görög nyelvűek hét gondozója",
+        "slug": "6",
+        "url": "/uj/ACT/6"
+      },
+      {
+        "number": 7,
+        "title": "István védőbeszéde",
+        "slug": "7",
+        "url": "/uj/ACT/7"
+      },
+      {
+        "number": 8,
+        "title": "Saul üldözi az egyházat",
+        "slug": "8",
+        "url": "/uj/ACT/8"
+      },
+      {
+        "number": 9,
+        "title": "Saul megtérése",
+        "slug": "9",
+        "url": "/uj/ACT/9"
+      },
+      {
+        "number": 10,
+        "title": "Kornéliusz és Péter látomása",
+        "slug": "10",
+        "url": "/uj/ACT/10"
+      },
+      {
+        "number": 11,
+        "title": "Péter beszámol Jeruzsálemben a pogányok megtéréséről",
+        "slug": "11",
+        "url": "/uj/ACT/11"
+      },
+      {
+        "number": 12,
+        "title": "Jakab kivégzése, Péter újabb fogsága",
+        "slug": "12",
+        "url": "/uj/ACT/12"
+      },
+      {
+        "number": 13,
+        "title": "A Szentlélek elhívja Barnabást és Pált",
+        "slug": "13",
+        "url": "/uj/ACT/13"
+      },
+      {
+        "number": 14,
+        "title": "Ikóniumban",
+        "slug": "14",
+        "url": "/uj/ACT/14"
+      },
+      {
+        "number": 15,
+        "title": "Vita a pogánykeresztyének körülmetéléséről",
+        "slug": "15",
+        "url": "/uj/ACT/15"
+      },
+      {
+        "number": 16,
+        "title": "Pál Derbében és Lisztrában",
+        "slug": "16",
+        "url": "/uj/ACT/16"
+      },
+      {
+        "number": 17,
+        "title": "Pál Thesszalonikában",
+        "slug": "17",
+        "url": "/uj/ACT/17"
+      },
+      {
+        "number": 18,
+        "title": "Pál Korinthusban",
+        "slug": "18",
+        "url": "/uj/ACT/18"
+      },
+      {
+        "number": 19,
+        "title": "Keresztelő János tanítványai Efezusban",
+        "slug": "19",
+        "url": "/uj/ACT/19"
+      },
+      {
+        "number": 20,
+        "title": "Pál útja Makedónián át Görögországba és vissza Tróászig",
+        "slug": "20",
+        "url": "/uj/ACT/20"
+      },
+      {
+        "number": 21,
+        "title": "Pál útja Milétosztól Jeruzsálemig",
+        "slug": "21",
+        "url": "/uj/ACT/21"
+      },
+      {
+        "number": 22,
+        "title": "Pál beszéde a néphez",
+        "slug": "22",
+        "url": "/uj/ACT/22"
+      },
+      {
+        "number": 23,
+        "title": "Pál beszéde a nagytanács előtt",
+        "slug": "23",
+        "url": "/uj/ACT/23"
+      },
+      {
+        "number": 24,
+        "title": "Pált vádolják Félix előtt",
+        "slug": "24",
+        "url": "/uj/ACT/24"
+      },
+      {
+        "number": 25,
+        "title": "Fesztusz Jeruzsálemben",
+        "slug": "25",
+        "url": "/uj/ACT/25"
+      },
+      {
+        "number": 26,
+        "title": "Pál beszéde Agrippa előtt",
+        "slug": "26",
+        "url": "/uj/ACT/26"
+      },
+      {
+        "number": 27,
+        "title": "Pált Rómába viszik",
+        "slug": "27",
+        "url": "/uj/ACT/27"
+      },
+      {
+        "number": 28,
+        "title": "Pál Málta szigetén",
+        "slug": "28",
+        "url": "/uj/ACT/28"
+      }
+    ]
+  },
+  {
+    "title": "Pál levele a rómaiakhoz",
+    "toc2": "Róma",
+    "toc3": "Róm",
+    "slug": "ROM",
+    "url": "/uj/ROM",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Címzés, üdvözlés",
+        "slug": "1",
+        "url": "/uj/ROM/1"
+      },
+      {
+        "number": 2,
+        "title": "Isten nem személyválogató",
+        "slug": "2",
+        "url": "/uj/ROM/2"
+      },
+      {
+        "number": 3,
+        "title": "Izráel előnye és ítélete",
+        "slug": "3",
+        "url": "/uj/ROM/3"
+      },
+      {
+        "number": 4,
+        "title": "Ábrahám hit által igazult meg",
+        "slug": "4",
+        "url": "/uj/ROM/4"
+      },
+      {
+        "number": 5,
+        "title": "A megigazulás megbékélés Istennel",
+        "slug": "5",
+        "url": "/uj/ROM/5"
+      },
+      {
+        "number": 6,
+        "title": "Keresztség és új élet",
+        "slug": "6",
+        "url": "/uj/ROM/6"
+      },
+      {
+        "number": 7,
+        "title": "Többé nem vagyunk a törvény uralma alatt",
+        "slug": "7",
+        "url": "/uj/ROM/7"
+      },
+      {
+        "number": 8,
+        "title": "Akik Krisztusban vannak, Lélek szerint járnak",
+        "slug": "8",
+        "url": "/uj/ROM/8"
+      },
+      {
+        "number": 9,
+        "title": "Pál fájdalma népe miatt",
+        "slug": "9",
+        "url": "/uj/ROM/9"
+      },
+      {
+        "number": 10,
+        "title": "A törvényből és a hitből való igazság",
+        "slug": "10",
+        "url": "/uj/ROM/10"
+      },
+      {
+        "number": 11,
+        "title": "Isten nem vetette el Izráelt",
+        "slug": "11",
+        "url": "/uj/ROM/11"
+      },
+      {
+        "number": 12,
+        "title": "Az okos istentisztelet",
+        "slug": "12",
+        "url": "/uj/ROM/12"
+      },
+      {
+        "number": 13,
+        "title": "Minden hatalom Istentől van",
+        "slug": "13",
+        "url": "/uj/ROM/13"
+      },
+      {
+        "number": 14,
+        "title": "A hitben erősek ne ítéljék meg az erőtleneket",
+        "slug": "14",
+        "url": "/uj/ROM/14"
+      },
+      {
+        "number": 15,
+        "title": "Az erősek hordozzák az erőtlenek gyengeségeit",
+        "slug": "15",
+        "url": "/uj/ROM/15"
+      },
+      {
+        "number": 16,
+        "title": "Fébé ajánlása és személyes üdvözletek",
+        "slug": "16",
+        "url": "/uj/ROM/16"
+      }
+    ]
+  },
+  {
+    "title": "Pál első levele a korinthusiakhoz",
+    "toc2": "1Korinthus",
+    "toc3": "1Kor",
+    "slug": "1CO",
+    "url": "/uj/1CO",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Címzés, üdvözlés",
+        "slug": "1",
+        "url": "/uj/1CO/1"
+      },
+      {
+        "number": 2,
+        "title": "Pál a megfeszített Krisztust hirdeti",
+        "slug": "2",
+        "url": "/uj/1CO/2"
+      },
+      {
+        "number": 3,
+        "title": "A viszálykodás a lelki kiskorúság jele",
+        "slug": "3",
+        "url": "/uj/1CO/3"
+      },
+      {
+        "number": 4,
+        "title": "Isten titkainak sáfárai",
+        "slug": "4",
+        "url": "/uj/1CO/4"
+      },
+      {
+        "number": 5,
+        "title": "A gyülekezet nem adhat helyet paráznaságnak",
+        "slug": "5",
+        "url": "/uj/1CO/5"
+      },
+      {
+        "number": 6,
+        "title": "Hívők ne pereskedjenek egymással",
+        "slug": "6",
+        "url": "/uj/1CO/6"
+      },
+      {
+        "number": 7,
+        "title": "Házasság és elválás",
+        "slug": "7",
+        "url": "/uj/1CO/7"
+      },
+      {
+        "number": 8,
+        "title": "A bálványáldozati hús kérdése",
+        "slug": "8",
+        "url": "/uj/1CO/8"
+      },
+      {
+        "number": 9,
+        "title": "Pál ingyenessé teszi az evangéliumot",
+        "slug": "9",
+        "url": "/uj/1CO/9"
+      },
+      {
+        "number": 10,
+        "title": "A pusztai vándorlás intő példája",
+        "slug": "10",
+        "url": "/uj/1CO/10"
+      },
+      {
+        "number": 11,
+        "title": "Az asszonyok fejének befedése",
+        "slug": "11",
+        "url": "/uj/1CO/11"
+      },
+      {
+        "number": 12,
+        "title": "A kegyelmi ajándékok sokfélesége és a Lélek egysége",
+        "slug": "12",
+        "url": "/uj/1CO/12"
+      },
+      {
+        "number": 13,
+        "title": "A szeretet",
+        "slug": "13",
+        "url": "/uj/1CO/13"
+      },
+      {
+        "number": 14,
+        "title": "Nyelveken szólás és prófétálás",
+        "slug": "14",
+        "url": "/uj/1CO/14"
+      },
+      {
+        "number": 15,
+        "title": "Krisztus feltámadásának tanúi",
+        "slug": "15",
+        "url": "/uj/1CO/15"
+      },
+      {
+        "number": 16,
+        "title": "Az adakozás rendje",
+        "slug": "16",
+        "url": "/uj/1CO/16"
+      }
+    ]
+  },
+  {
+    "title": "Pál második levele a korinthusiakhoz",
+    "toc2": "2Korinthus",
+    "toc3": "2Kor",
+    "slug": "2CO",
+    "url": "/uj/2CO",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Címzés, üdvözlés",
+        "slug": "1",
+        "url": "/uj/2CO/1"
+      },
+      {
+        "number": 2,
+        "title": "Pál megszomorítójának bűnbánata",
+        "slug": "2",
+        "url": "/uj/2CO/2"
+      },
+      {
+        "number": 3,
+        "title": "Pál ajánlólevele: a korinthusi gyülekezet",
+        "slug": "3",
+        "url": "/uj/2CO/3"
+      },
+      {
+        "number": 4,
+        "title": "Pál nem önmagát prédikálja",
+        "slug": "4",
+        "url": "/uj/2CO/4"
+      },
+      {
+        "number": 5,
+        "title": "Krisztus ítélőszéke elé kell állnunk",
+        "slug": "5",
+        "url": "/uj/2CO/5"
+      },
+      {
+        "number": 6,
+        "title": "Pál szolgálatának gyalázata és dicsősége",
+        "slug": "6",
+        "url": "/uj/2CO/6"
+      },
+      {
+        "number": 7,
+        "title": "Pál szeretete a gyülekezet iránt",
+        "slug": "7",
+        "url": "/uj/2CO/7"
+      },
+      {
+        "number": 8,
+        "title": "Adakozás a jeruzsálemi gyülekezet számára",
+        "slug": "8",
+        "url": "/uj/2CO/8"
+      },
+      {
+        "number": 9,
+        "title": "Az adakozás rendje",
+        "slug": "9",
+        "url": "/uj/2CO/9"
+      },
+      {
+        "number": 10,
+        "title": "Pál megérkezésekor erélyes lesz",
+        "slug": "10",
+        "url": "/uj/2CO/10"
+      },
+      {
+        "number": 11,
+        "title": "Pál önzetlensége és az álapostolok hamissága",
+        "slug": "11",
+        "url": "/uj/2CO/11"
+      },
+      {
+        "number": 12,
+        "title": "Pál erőtlensége és Isten ereje",
+        "slug": "12",
+        "url": "/uj/2CO/12"
+      },
+      {
+        "number": 13,
+        "title": "Pál érkezéséig rendeződjék a gyülekezet",
+        "slug": "13",
+        "url": "/uj/2CO/13"
+      }
+    ]
+  },
+  {
+    "title": "Pál levele a galatákhoz",
+    "toc2": "Galata",
+    "toc3": "Gal",
+    "slug": "GAL",
+    "url": "/uj/GAL",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Címzés, üdvözlés",
+        "slug": "1",
+        "url": "/uj/GAL/1"
+      },
+      {
+        "number": 2,
+        "title": "Pált az apostolok elismerik Jeruzsálemben",
+        "slug": "2",
+        "url": "/uj/GAL/2"
+      },
+      {
+        "number": 3,
+        "title": "A galaták is a hit hallásából kapták a Lelket",
+        "slug": "3",
+        "url": "/uj/GAL/3"
+      },
+      {
+        "number": 4,
+        "title": "Krisztus által Isten fiai vagyunk",
+        "slug": "4",
+        "url": "/uj/GAL/4"
+      },
+      {
+        "number": 5,
+        "title": "Az igazi szabadság a szeretetben való szolgálat",
+        "slug": "5",
+        "url": "/uj/GAL/5"
+      },
+      {
+        "number": 6,
+        "title": "Krisztus törvényének betöltése",
+        "slug": "6",
+        "url": "/uj/GAL/6"
+      }
+    ]
+  },
+  {
+    "title": "Pál levele az efezusiakkoz",
+    "toc2": "Efezus",
+    "toc3": "Ef",
+    "slug": "EPH",
+    "url": "/uj/EPH",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Címzés, üdvözlés",
+        "slug": "1",
+        "url": "/uj/EPH/1"
+      },
+      {
+        "number": 2,
+        "title": "A bűn miatt halottak életre keltése Krisztusban",
+        "slug": "2",
+        "url": "/uj/EPH/2"
+      },
+      {
+        "number": 3,
+        "title": "Pál apostolsága a pogányok között",
+        "slug": "3",
+        "url": "/uj/EPH/3"
+      },
+      {
+        "number": 4,
+        "title": "Az elhívatáshoz méltó élet a hit nagykorúságában és egységében",
+        "slug": "4",
+        "url": "/uj/EPH/4"
+      },
+      {
+        "number": 5,
+        "title": "A világosság gyermekeiként járjatok!",
+        "slug": "5",
+        "url": "/uj/EPH/5"
+      },
+      {
+        "number": 6,
+        "title": "Szülők és gyermekek intése",
+        "slug": "6",
+        "url": "/uj/EPH/6"
+      }
+    ]
+  },
+  {
+    "title": "Pál levele a filippiekhez",
+    "toc2": "Filippi",
+    "toc3": "Fil",
+    "slug": "PHP",
+    "url": "/uj/PHP",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Címzés, üdvözlés",
+        "slug": "1",
+        "url": "/uj/PHP/1"
+      },
+      {
+        "number": 2,
+        "title": "Krisztus példája: engedelmessége a kereszthalálig",
+        "slug": "2",
+        "url": "/uj/PHP/2"
+      },
+      {
+        "number": 3,
+        "title": "Pál Krisztusért kárnak ítélt mindent",
+        "slug": "3",
+        "url": "/uj/PHP/3"
+      },
+      {
+        "number": 4,
+        "title": "Keresztyén élet becsületben és örömben",
+        "slug": "4",
+        "url": "/uj/PHP/4"
+      }
+    ]
+  },
+  {
+    "title": "Pál levele a kolosséiakhoz",
+    "toc2": "Kolossé",
+    "toc3": "Kol",
+    "slug": "COL",
+    "url": "/uj/COL",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Címzés, üdvözlés",
+        "slug": "1",
+        "url": "/uj/COL/1"
+      },
+      {
+        "number": 2,
+        "title": "Pál küzdelme a gyülekezet állhatatosságáért",
+        "slug": "2",
+        "url": "/uj/COL/2"
+      },
+      {
+        "number": 3,
+        "title": "A Krisztusban elrejtett élet",
+        "slug": "3",
+        "url": "/uj/COL/3"
+      },
+      {
+        "number": 4,
+        "title": "Buzdítás kitartó imádkozásra, bölcs magatartásra",
+        "slug": "4",
+        "url": "/uj/COL/4"
+      }
+    ]
+  },
+  {
+    "title": "Pál első levele a thesszalonikaiakhoz",
+    "toc2": "1Thesszalonika",
+    "toc3": "1Thessz",
+    "slug": "1TH",
+    "url": "/uj/1TH",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Címzés, üdvözlés",
+        "slug": "1",
+        "url": "/uj/1TH/1"
+      },
+      {
+        "number": 2,
+        "title": "Pál emlékeztet a gyülekezet alapítására",
+        "slug": "2",
+        "url": "/uj/1TH/2"
+      },
+      {
+        "number": 3,
+        "title": "Timóteus útján jött örvendetes hírek",
+        "slug": "3",
+        "url": "/uj/1TH/3"
+      },
+      {
+        "number": 4,
+        "title": "Intés megszentelődésre",
+        "slug": "4",
+        "url": "/uj/1TH/4"
+      },
+      {
+        "number": 5,
+        "title": "Krisztus eljövetelének várása",
+        "slug": "5",
+        "url": "/uj/1TH/5"
+      }
+    ]
+  },
+  {
+    "title": "Pál második levele a thesszalonikaiakhoz",
+    "toc2": "2Thesszalonika",
+    "toc3": "2Thessz",
+    "slug": "2TH",
+    "url": "/uj/2TH",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Címzés, üdvözlés",
+        "slug": "1",
+        "url": "/uj/2TH/1"
+      },
+      {
+        "number": 2,
+        "title": "Az Úr eljövetelét megelőzi a törvénytipró",
+        "slug": "2",
+        "url": "/uj/2TH/2"
+      },
+      {
+        "number": 3,
+        "title": "Könyörgés az evangélium terjedéséért",
+        "slug": "3",
+        "url": "/uj/2TH/3"
+      }
+    ]
+  },
+  {
+    "title": "Pál első levele Timóteushoz",
+    "toc2": "1Timóteus",
+    "toc3": "1Tim",
+    "slug": "1TI",
+    "url": "/uj/1TI",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Címzés, üdvözlés",
+        "slug": "1",
+        "url": "/uj/1TI/1"
+      },
+      {
+        "number": 2,
+        "title": "Imádkozás minden emberért",
+        "slug": "2",
+        "url": "/uj/1TI/2"
+      },
+      {
+        "number": 3,
+        "title": "A püspökről",
+        "slug": "3",
+        "url": "/uj/1TI/3"
+      },
+      {
+        "number": 4,
+        "title": "Isten minden teremtménye jó",
+        "slug": "4",
+        "url": "/uj/1TI/4"
+      },
+      {
+        "number": 5,
+        "title": "A gyülekezet megintésének módja",
+        "slug": "5",
+        "url": "/uj/1TI/5"
+      },
+      {
+        "number": 6,
+        "title": "A szolgákról",
+        "slug": "6",
+        "url": "/uj/1TI/6"
+      }
+    ]
+  },
+  {
+    "title": "Pál második levele Timóteushoz",
+    "toc2": "2Timóteus",
+    "toc3": "2Tim",
+    "slug": "2TI",
+    "url": "/uj/2TI",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Címzés, üdvözlés",
+        "slug": "1",
+        "url": "/uj/2TI/1"
+      },
+      {
+        "number": 2,
+        "title": "Jézus jó katonájának harca és az üdvösség reménysége",
+        "slug": "2",
+        "url": "/uj/2TI/2"
+      },
+      {
+        "number": 3,
+        "title": "Az utolsó idők ámítói",
+        "slug": "3",
+        "url": "/uj/2TI/3"
+      },
+      {
+        "number": 4,
+        "title": "Az evangéliumi szolgálat hű betöltése",
+        "slug": "4",
+        "url": "/uj/2TI/4"
+      }
+    ]
+  },
+  {
+    "title": "Pál levele Tituszhoz",
+    "toc2": "Titusz",
+    "toc3": "Tit",
+    "slug": "TIT",
+    "url": "/uj/TIT",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Címzés, üdvözlés",
+        "slug": "1",
+        "url": "/uj/TIT/1"
+      },
+      {
+        "number": 2,
+        "title": "Idősek, fiatalok, szolgák",
+        "slug": "2",
+        "url": "/uj/TIT/2"
+      },
+      {
+        "number": 3,
+        "title": "Engedelmesség az elöljárók és szelídség minden ember iránt",
+        "slug": "3",
+        "url": "/uj/TIT/3"
+      }
+    ]
+  },
+  {
+    "title": "Pál levele Filemonhoz",
+    "toc2": "Filemon",
+    "toc3": "Filem",
+    "slug": "PHM",
+    "url": "/uj/PHM",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Címzés, üdvözlés",
+        "slug": "1",
+        "url": "/uj/PHM/1"
+      }
+    ]
+  },
+  {
+    "title": "A zsidókhoz írt levél",
+    "toc2": "Zsidók",
+    "toc3": "Zsid",
+    "slug": "HEB",
+    "url": "/uj/HEB",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Isten tökéletes kijelentése Fia által",
+        "slug": "1",
+        "url": "/uj/HEB/1"
+      },
+      {
+        "number": 2,
+        "title": "Figyeljünk a Jézustól hallottakra!",
+        "slug": "2",
+        "url": "/uj/HEB/2"
+      },
+      {
+        "number": 3,
+        "title": "Krisztus feljebbvaló Mózesnél",
+        "slug": "3",
+        "url": "/uj/HEB/3"
+      },
+      {
+        "number": 4,
+        "title": "Isten népének nyugalma",
+        "slug": "4",
+        "url": "/uj/HEB/4"
+      },
+      {
+        "number": 5,
+        "title": "Krisztus örök üdvösség szerzője lett szenvedése és engedelmessége által",
+        "slug": "5",
+        "url": "/uj/HEB/5"
+      },
+      {
+        "number": 6,
+        "title": "Hit és türelem által örököljük az ígéreteket",
+        "slug": "6",
+        "url": "/uj/HEB/6"
+      },
+      {
+        "number": 7,
+        "title": "Krisztus főpap Melkisédek rendje szerint",
+        "slug": "7",
+        "url": "/uj/HEB/7"
+      },
+      {
+        "number": 8,
+        "title": "Krisztus új szövetség közbenjárója",
+        "slug": "8",
+        "url": "/uj/HEB/8"
+      },
+      {
+        "number": 9,
+        "title": "Krisztus főpapi áldozata nagyobb az ószövetségi áldozatnál",
+        "slug": "9",
+        "url": "/uj/HEB/9"
+      },
+      {
+        "number": 10,
+        "title": "Krisztus áldozata egyszer s mindenkorra érvényes",
+        "slug": "10",
+        "url": "/uj/HEB/10"
+      },
+      {
+        "number": 11,
+        "title": "A hit és példaképei a világ teremtése óta",
+        "slug": "11",
+        "url": "/uj/HEB/11"
+      },
+      {
+        "number": 12,
+        "title": "Jézus a hit szerzője és beteljesítője",
+        "slug": "12",
+        "url": "/uj/HEB/12"
+      },
+      {
+        "number": 13,
+        "title": "Buzdítás szeretetre és tiszta életre",
+        "slug": "13",
+        "url": "/uj/HEB/13"
+      }
+    ]
+  },
+  {
+    "title": "Jakab levele",
+    "toc2": "Jakab",
+    "toc3": "Jak",
+    "slug": "JAS",
+    "url": "/uj/JAS",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Címzés, üdvözlés",
+        "slug": "1",
+        "url": "/uj/JAS/1"
+      },
+      {
+        "number": 2,
+        "title": "A keresztyén hit nem személyválogató",
+        "slug": "2",
+        "url": "/uj/JAS/2"
+      },
+      {
+        "number": 3,
+        "title": "A nyelv bűnei",
+        "slug": "3",
+        "url": "/uj/JAS/3"
+      },
+      {
+        "number": 4,
+        "title": "Alázzátok meg magatokat Isten előtt",
+        "slug": "4",
+        "url": "/uj/JAS/4"
+      },
+      {
+        "number": 5,
+        "title": "A gazdagok ítélete",
+        "slug": "5",
+        "url": "/uj/JAS/5"
+      }
+    ]
+  },
+  {
+    "title": "Péter első levele",
+    "toc2": "1Péter",
+    "toc3": "1Pt",
+    "slug": "1PE",
+    "url": "/uj/1PE",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Címzés, üdvözlés",
+        "slug": "1",
+        "url": "/uj/1PE/1"
+      },
+      {
+        "number": 2,
+        "title": "Épüljetek fel lelki házzá",
+        "slug": "2",
+        "url": "/uj/1PE/2"
+      },
+      {
+        "number": 3,
+        "title": "A házastársak becsüljék meg egymást",
+        "slug": "3",
+        "url": "/uj/1PE/3"
+      },
+      {
+        "number": 4,
+        "title": "Isten akarata szerint éljetek",
+        "slug": "4",
+        "url": "/uj/1PE/4"
+      },
+      {
+        "number": 5,
+        "title": "Presbiterek és ifjak intése",
+        "slug": "5",
+        "url": "/uj/1PE/5"
+      }
+    ]
+  },
+  {
+    "title": "Péter második levele",
+    "toc2": "2Péter",
+    "toc3": "2Pt",
+    "slug": "2PE",
+    "url": "/uj/2PE",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Címzés, üdvözlés",
+        "slug": "1",
+        "url": "/uj/2PE/1"
+      },
+      {
+        "number": 2,
+        "title": "A hamis tanítók tévelygése",
+        "slug": "2",
+        "url": "/uj/2PE/2"
+      },
+      {
+        "number": 3,
+        "title": "Emlékeztetés Pál leveleire",
+        "slug": "3",
+        "url": "/uj/2PE/3"
+      }
+    ]
+  },
+  {
+    "title": "János első levele",
+    "toc2": "1János",
+    "toc3": "1Jn",
+    "slug": "1JN",
+    "url": "/uj/1JN",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Az élet igéjének szemtanúi",
+        "slug": "1",
+        "url": "/uj/1JN/1"
+      },
+      {
+        "number": 2,
+        "title": "Krisztus parancsolatainak megtartása",
+        "slug": "2",
+        "url": "/uj/1JN/2"
+      },
+      {
+        "number": 3,
+        "title": "Isten gyermekei és az ördög gyermekei",
+        "slug": "3",
+        "url": "/uj/1JN/3"
+      },
+      {
+        "number": 4,
+        "title": "A lelkek megvizsgálása",
+        "slug": "4",
+        "url": "/uj/1JN/4"
+      },
+      {
+        "number": 5,
+        "title": "A hit győzelme",
+        "slug": "5",
+        "url": "/uj/1JN/5"
+      }
+    ]
+  },
+  {
+    "title": "János második levele",
+    "toc2": "2János",
+    "toc3": "2Jn",
+    "slug": "2JN",
+    "url": "/uj/2JN",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Címzés, üdvözlés",
+        "slug": "1",
+        "url": "/uj/2JN/1"
+      }
+    ]
+  },
+  {
+    "title": "János harmadik levele",
+    "toc2": "3János",
+    "toc3": "3Jn",
+    "slug": "3JN",
+    "url": "/uj/3JN",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Címzés, üdvözlés",
+        "slug": "1",
+        "url": "/uj/3JN/1"
+      }
+    ]
+  },
+  {
+    "title": "Júdás levele",
+    "toc2": "Júdás",
+    "toc3": "Júd",
+    "slug": "JUD",
+    "url": "/uj/JUD",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "Címzés, üdvözlés",
+        "slug": "1",
+        "url": "/uj/JUD/1"
+      }
+    ]
+  },
+  {
+    "title": "A jelenések könyve",
+    "toc2": "Jelenések",
+    "toc3": "Jel",
+    "slug": "REV",
+    "url": "/uj/REV",
+    "part": "ujszovetseg",
+    "chapter": [
+      {
+        "number": 1,
+        "title": "János bizonyságtétele, áldás az olvasóknak",
+        "slug": "1",
+        "url": "/uj/REV/1"
+      },
+      {
+        "number": 2,
+        "title": "Levél az efezusi gyülekezethez",
+        "slug": "2",
+        "url": "/uj/REV/2"
+      },
+      {
+        "number": 3,
+        "title": "Levél a szárdiszi gyülekezethez",
+        "slug": "3",
+        "url": "/uj/REV/3"
+      },
+      {
+        "number": 4,
+        "title": "A huszonnégy vén és a négy élőlény Isten trónjánál",
+        "slug": "4",
+        "url": "/uj/REV/4"
+      },
+      {
+        "number": 5,
+        "title": "A Bárány átveszi a hétpecsétes könyvet",
+        "slug": "5",
+        "url": "/uj/REV/5"
+      },
+      {
+        "number": 6,
+        "title": "A négy első pecsét és a négy lovas",
+        "slug": "6",
+        "url": "/uj/REV/6"
+      },
+      {
+        "number": 7,
+        "title": "A pecséttel megjelöltek Izráel tizenkét törzséből",
+        "slug": "7",
+        "url": "/uj/REV/7"
+      },
+      {
+        "number": 8,
+        "title": "A hetedik pecsét. A hét trombita",
+        "slug": "8",
+        "url": "/uj/REV/8"
+      },
+      {
+        "number": 9,
+        "title": "Az ötödik trombitaszó",
+        "slug": "9",
+        "url": "/uj/REV/9"
+      },
+      {
+        "number": 10,
+        "title": "A hét mennydörgés szava",
+        "slug": "10",
+        "url": "/uj/REV/10"
+      },
+      {
+        "number": 11,
+        "title": "A templom felmérése. Isten két tanúja",
+        "slug": "11",
+        "url": "/uj/REV/11"
+      },
+      {
+        "number": 12,
+        "title": "A napba öltözött asszony",
+        "slug": "12",
+        "url": "/uj/REV/12"
+      },
+      {
+        "number": 13,
+        "title": "A tízszarvú és hétfejű vadállat",
+        "slug": "13",
+        "url": "/uj/REV/13"
+      },
+      {
+        "number": 14,
+        "title": "A Bárány és kísérete a Sion hegyén",
+        "slug": "14",
+        "url": "/uj/REV/14"
+      },
+      {
+        "number": 15,
+        "title": "A győztesek éneke az üvegtenger mellett",
+        "slug": "15",
+        "url": "/uj/REV/15"
+      },
+      {
+        "number": 16,
+        "title": "A harag hét poharának kiöntése",
+        "slug": "16",
+        "url": "/uj/REV/16"
+      },
+      {
+        "number": 17,
+        "title": "A nagy parázna a vadállaton",
+        "slug": "17",
+        "url": "/uj/REV/17"
+      },
+      {
+        "number": 18,
+        "title": "A nagy Babilon bukásának kihirdetése",
+        "slug": "18",
+        "url": "/uj/REV/18"
+      },
+      {
+        "number": 19,
+        "title": "Öröm a mennyben Babilon bukásán",
+        "slug": "19",
+        "url": "/uj/REV/19"
+      },
+      {
+        "number": 20,
+        "title": "Krisztus ezeréves uralma",
+        "slug": "20",
+        "url": "/uj/REV/20"
+      },
+      {
+        "number": 21,
+        "title": "Új ég és új föld",
+        "slug": "21",
+        "url": "/uj/REV/21"
+      },
+      {
+        "number": 22,
+        "title": "Az élet vize és az élet fája",
+        "slug": "22",
+        "url": "/uj/REV/22"
+      }
+    ]
+  }
+]
