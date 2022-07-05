@@ -37,7 +37,7 @@ $ biblia --showBooks --new
 ```
 
 ```bash
-$ biblia --showBooks --bookDetails Zsolt
+$ biblia --bookDetails Zsolt
 ```
 
 ## 🎥 Demo Video
