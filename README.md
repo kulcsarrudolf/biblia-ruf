@@ -40,9 +40,13 @@ $ biblia --showBooks --new
 $ biblia --bookDetails Zsolt
 ```
 
-## 🎥 Demo Video
+## 🎥 Demo Video (CLI)
 
-[![Demo Video](https://img.youtube.com/vi/99baGzaIYWE/0.jpg)](https://www.youtube.com/watch?v=99baGzaIYWE)
+[![Demo Video](https://img.youtube.com/vi/OTjdE183tpo/0.jpg)](https://www.youtube.com/watch?v=OTjdE183tpo)
+
+## 💻 Demo Project
+
+[CodeSandbox - React Project](https://codesandbox.io/s/biblia-ruf-demo-7krnc9)
 
 ## 📜 License
 
