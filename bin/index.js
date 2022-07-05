@@ -2,7 +2,6 @@
 
 const {
   getBiblePassage,
-  getBibleBooks,
   getBibleBooksOldTestament,
   getBibleBooksNewTestament,
   getBookDetails,
