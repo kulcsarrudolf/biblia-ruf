@@ -26,17 +26,25 @@ const getBiblePassageCli = async () => {
 
 const showBibleBooksCli = () => {
   const currentCommand = process.argv;
-  let bookList = getBibleBooks();
+  let bookList = [];
 
-  if (currentCommand.includes("--old")) {
+  if (currentCommand.includes("--old") || currentCommand[3] === undefined) {
+    console.log("Ószövetség\n");
     bookList = getBibleBooksOldTestament();
+    bookList.forEach((b) => {
+      console.log(`${b.name} (${b.abbreviation})`);
+    });
+
+    console.log("\n");
   }
 
-  if (currentCommand.includes("--new")) {
+  if (currentCommand.includes("--new") || currentCommand[3] === undefined) {
+    console.log("Újszövetség\n");
     bookList = getBibleBooksNewTestament();
+    bookList.forEach((b) => {
+      console.log(`${b.name} (${b.abbreviation})`);
+    });
   }
-
-  console.table(bookList);
 };
 
 const getBookDetailsCli = async () => {
