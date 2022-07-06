@@ -1,6 +1,15 @@
 const { readJSONFile } = require("./utils");
 
-const getBibleBook = async (book) => await readJSONFile(`json/${book}.json`);
+const getBibleBook = async (book) => {
+  let bookContent;
+  try {
+    bookContent = await readJSONFile(`json/${book}.json`);
+  } catch {
+    bookContent = await fetchBooks(book);
+  }
+
+  return bookContent;
+};
 
 const getBiblePassage = async (passage) => {
   const book = passage.split(" ")[0];
