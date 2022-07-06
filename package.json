@@ -4,7 +4,7 @@
   "description": "RÚF Biblia",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,8 @@
   "homepage": "https://github.com/kulcsarrudolf/biblia-ruf#readme",
   "bin": {
     "biblia": "./bin/index.js"
+  },
+  "devDependencies": {
+    "jest": "^28.1.2"
   }
 }
