@@ -15,7 +15,7 @@ const fetchBookDetails = async () => {
 
   const response = await axios.get(BOOK_DETAILS_URL);
 
-  return response.data.book;
+  return response.data;
 };
 
 module.exports = {
