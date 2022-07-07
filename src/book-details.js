@@ -1,4 +1,5 @@
-const { readJSONFile, fetchBooks, fetchBookDetails } = require("./utils");
+const { readJSONFile } = require("./utils/utils");
+const { fetchBooks, fetchBookDetails } = require("./utils/helpers");
 
 const getBookDetails = async (book) => {
   try {
@@ -30,6 +31,8 @@ const getBookDetails = async (book) => {
       verses: verses,
     };
   } catch (err) {
+    console.log(err);
+
     throw {
       message: "Unexpected Error",
       err: err,

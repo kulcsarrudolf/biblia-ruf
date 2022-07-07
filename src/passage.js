@@ -1,4 +1,6 @@
-const { readJSONFile, parsePassage, fetchBooks } = require("./utils");
+const { readJSONFile } = require("./utils/utils");
+const { parsePassage } = require("./utils/passageParser");
+const { fetchBooks } = require("./utils/helpers");
 
 const getBibleBook = async (book) => {
   let bookContent;
@@ -12,7 +14,8 @@ const getBibleBook = async (book) => {
 };
 
 const getBiblePassage = async (passage) => {
-  const { book, chapter, startVerse, endVerse } = parsePassage(passage);
+  const parsedPassage = await parsePassage(passage);
+  const { book, chapter, startVerse, endVerse } = parsedPassage[0];
 
   const currentBook = await getBibleBook(book);
   const currentChapter = currentBook.find((d) => d.chapter == chapter);
