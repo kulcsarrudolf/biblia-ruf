@@ -1,7 +1,7 @@
 {
   "name": "biblia-ruf",
   "version": "2.0.0",
-  "description": "RÚF Biblia — Hungarian Reformed Bible library and CLI tool",
+  "description": "RÚF Biblia — Revideált új fordítás library and CLI tool",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "exports": {

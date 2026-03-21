@@ -6,7 +6,7 @@
 [![GitHub Stars](https://badgen.net/github/stars/kulcsarrudolf/biblia-ruf)](https://github.com/kulcsarrudolf/biblia-ruf)
 [![tests](https://img.shields.io/github/actions/workflow/status/kulcsarrudolf/biblia-ruf/publish.yml?label=tests)](https://github.com/kulcsarrudolf/biblia-ruf/actions)
 
-Hungarian Reformed Bible (RÚF) library and CLI tool. Access Bible passages, search verses, get daily verses — works in Node.js, React, and as a CLI.
+Revideált új fordítás (RÚF) Biblia library and CLI tool. Access Bible passages, search verses, get daily verses — works in Node.js, React, and as a CLI.
 
 ## Installation
 

@@ -9,7 +9,7 @@ export const startRepl = (): void => {
     prompt: "biblia> ",
   });
 
-  console.log("Biblia RÚF — Interactive mode");
+  console.log("Biblia RÚF — Revideált új fordítás — Interactive mode");
   console.log(
     'Type a passage (e.g. "Jn 3:16"), "search <query>", "today", "help", or "exit"\n',
   );

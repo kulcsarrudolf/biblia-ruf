@@ -1,5 +1,5 @@
 export const help = (): void => {
-  console.log("Biblia RÚF — Hungarian Reformed Bible\n");
+  console.log("Biblia RÚF — Revideált új fordítás\n");
   console.log("Usage:");
   console.log('  biblia --p="<passage>"       Get a Bible passage');
   console.log('  biblia --passage="<passage>" Get a Bible passage');
