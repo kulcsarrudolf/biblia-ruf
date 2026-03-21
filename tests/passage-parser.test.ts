@@ -1,4 +1,4 @@
-import { parsePassage } from "../src/utils/passageParser";
+import { parsePassage } from "../src/utils/passage-parser";
 
 test("Passage with full chapter", async () => {
   const passage = "Zsolt 139";

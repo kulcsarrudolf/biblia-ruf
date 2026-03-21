@@ -1,5 +1,5 @@
 import { readJSONFile } from "./utils/utils";
-import { parsePassage } from "./utils/passageParser";
+import { parsePassage } from "./utils/passage-parser";
 import { fetchBooks } from "./utils/helpers";
 import { BibleVerse, ChapterData } from "./types";
 
