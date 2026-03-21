@@ -1,6 +1,6 @@
-const { getBiblePassage } = require("./passage");
+import { getBiblePassage } from "../src/passage";
 
-test("Get on verse from a chapter", async () => {
+test("Get one verse from a chapter", async () => {
   const targetPassage = "Jn 3:16";
   const resultPassage = await getBiblePassage(targetPassage);
 

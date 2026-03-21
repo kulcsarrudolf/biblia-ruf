@@ -1,4 +1,4 @@
-const { parsePassage } = require("./passageParser");
+import { parsePassage } from "../src/utils/passageParser";
 
 test("Passage with full chapter", async () => {
   const passage = "Zsolt 139";

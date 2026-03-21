@@ -1,10 +1,17 @@
-const { getBookDetails } = require("../book-details");
+import { getBookDetails } from "../book-details";
+import { ParsedPassage } from "../types";
 
-const getBookFromPassage = (passage) => passage.split(" ")[0];
-const getChapterFromPassage = (passage) =>
+const getBookFromPassage = (passage: string): string => passage.split(" ")[0];
+
+const getChapterFromPassage = (passage: string): number =>
   parseInt(passage.split(" ")[1].split(":")[0]);
 
-const getVersesFromPassage = async (passage) => {
+interface VerseRange {
+  startVerse: number;
+  endVerse: number;
+}
+
+const getVersesFromPassage = async (passage: string): Promise<VerseRange[]> => {
   const book = getBookFromPassage(passage);
   const chapter = getChapterFromPassage(passage);
 
@@ -24,14 +31,16 @@ const getVersesFromPassage = async (passage) => {
       });
   } else {
     const bookDetails = await getBookDetails(book);
-    const numberOfVerses = bookDetails.verses.get(parseInt(chapter));
+    const numberOfVerses = bookDetails.verses.get(chapter);
 
-    return [{ startVerse: 1, endVerse: numberOfVerses }];
+    return [{ startVerse: 1, endVerse: numberOfVerses ?? 0 }];
   }
 };
 
-const parsePassage = async (inputPassageString) => {
-  const passages = inputPassageString.replaceAll("; ", ";").split(";");
+export const parsePassage = async (
+  inputPassageString: string,
+): Promise<ParsedPassage[]> => {
+  const passages = inputPassageString.replace(/; /g, ";").split(";");
 
   const result = await Promise.all(
     passages.map(async (passage) => {
@@ -45,12 +54,8 @@ const parsePassage = async (inputPassageString) => {
         startVerse: v.startVerse,
         endVerse: v.endVerse,
       }));
-    })
+    }),
   );
 
-  return [].concat.apply([], result);
-};
-
-module.exports = {
-  parsePassage,
+  return ([] as ParsedPassage[]).concat(...result);
 };
