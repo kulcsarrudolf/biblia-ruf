@@ -10,17 +10,17 @@ if [ -n "$(git status --porcelain)" ]; then
 fi
 
 # Run tests
-npm test
+yarn test
 
 git fetch origin
 git rebase origin/main
 
 # Bump version
-npm version "$BUMP" --no-git-tag-version
+yarn version --"$BUMP" --no-git-tag-version
 
 # Commit, tag, and push
 VERSION=$(node -p "require('./package.json').version")
-git add package.json package-lock.json
+git add package.json
 git commit -m "chore: bump version $VERSION"
 git tag "v$VERSION"
 
