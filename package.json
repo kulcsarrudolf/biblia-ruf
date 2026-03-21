@@ -14,7 +14,8 @@
   "files": [
     "dist/**/*",
     "bin/**/*",
-    "json/**/*"
+    "json/**/*",
+    "README.md"
   ],
   "bin": {
     "biblia": "./bin/biblia.js"
