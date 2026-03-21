@@ -20,7 +20,7 @@ npm version "$BUMP" --no-git-tag-version
 
 # Commit, tag, and push
 VERSION=$(node -p "require('./package.json').version")
-git add package.json
+git add package.json package-lock.json
 git commit -m "chore: bump version $VERSION"
 git tag "v$VERSION"
 
