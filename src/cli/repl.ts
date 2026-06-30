@@ -1,21 +1,19 @@
-import * as readline from "readline";
-import { getBiblePassage, searchBible, getDailyVerse } from "../index";
-import { help } from "./help";
+import * as readline from 'readline';
+import { getBiblePassage, searchBible, getDailyVerse } from '../index';
+import { help } from './help';
 
 export const startRepl = (): void => {
   const rl = readline.createInterface({
     input: process.stdin,
     output: process.stdout,
-    prompt: "biblia> ",
+    prompt: 'biblia> ',
   });
 
-  console.log("Biblia RÚF — Revideált új fordítás — Interactive mode");
-  console.log(
-    'Type a passage (e.g. "Jn 3:16"), "search <query>", "today", "help", or "exit"\n',
-  );
+  console.log('Biblia RÚF — Revideált új fordítás — Interactive mode');
+  console.log('Type a passage (e.g. "Jn 3:16"), "search <query>", "today", "help", or "exit"\n');
   rl.prompt();
 
-  rl.on("line", async (line: string) => {
+  rl.on('line', async (line: string) => {
     const input = line.trim();
 
     if (!input) {
@@ -23,18 +21,18 @@ export const startRepl = (): void => {
       return;
     }
 
-    if (input === "exit" || input === "quit") {
+    if (input === 'exit' || input === 'quit') {
       rl.close();
       return;
     }
 
-    if (input === "help") {
+    if (input === 'help') {
       help();
       rl.prompt();
       return;
     }
 
-    if (input === "today") {
+    if (input === 'today') {
       const result = getDailyVerse();
       console.log(`\n${result.reference}`);
       console.log(`${result.text}\n`);
@@ -42,12 +40,12 @@ export const startRepl = (): void => {
       return;
     }
 
-    if (input.startsWith("search ")) {
+    if (input.startsWith('search ')) {
       const query = input.slice(7);
       const results = searchBible(query, { limit: 10 });
       console.log();
       if (results.length === 0) {
-        console.log("No results found.\n");
+        console.log('No results found.\n');
       } else {
         results.forEach((r) => {
           console.log(`${r.reference}: ${r.text}`);
@@ -72,8 +70,8 @@ export const startRepl = (): void => {
     rl.prompt();
   });
 
-  rl.on("close", () => {
-    console.log("\nViszontlátásra!");
+  rl.on('close', () => {
+    console.log('\nViszontlátásra!');
     process.exit(0);
   });
 };

@@ -1,25 +1,22 @@
-import { readJSONFile } from "./utils/utils";
+import { readJSONFile } from './utils/utils';
 import {
   getBibleBooksOldTestament,
   getBibleBooksNewTestament,
   getBibleBooks,
   bibleBooks,
-} from "./books";
-import { SearchOptions, SearchResult, ChapterData, BibleBook } from "./types";
+} from './books';
+import { SearchOptions, SearchResult, ChapterData, BibleBook } from './types';
 
-const getBooksByTestament = (testament?: "old" | "new"): BibleBook[] => {
-  if (testament === "old") return getBibleBooksOldTestament();
-  if (testament === "new") return getBibleBooksNewTestament();
+const getBooksByTestament = (testament?: 'old' | 'new'): BibleBook[] => {
+  if (testament === 'old') return getBibleBooksOldTestament();
+  if (testament === 'new') return getBibleBooksNewTestament();
   return getBibleBooks();
 };
 
 const isOldTestament = (abbreviation: string): boolean =>
   bibleBooks.old.some((b) => b.abbreviation === abbreviation);
 
-export const searchBible = (
-  query: string,
-  options: SearchOptions = {},
-): SearchResult[] => {
+export const searchBible = (query: string, options: SearchOptions = {}): SearchResult[] => {
   const { testament, book, caseSensitive = false, limit = 100 } = options;
 
   let bookList: BibleBook[];
@@ -32,7 +29,7 @@ export const searchBible = (
   }
 
   const results: SearchResult[] = [];
-  const flags = caseSensitive ? "" : "i";
+  const flags = caseSensitive ? '' : 'i';
   const regex = new RegExp(query, flags);
 
   for (const b of bookList) {

@@ -39,7 +39,7 @@ export interface BibliaEntry {
 }
 
 export interface SearchOptions {
-  testament?: "old" | "new";
+  testament?: 'old' | 'new';
   book?: string;
   caseSensitive?: boolean;
   limit?: number;

@@ -1,11 +1,11 @@
-import { readJSONFile } from "./utils/utils";
-import { fetchBooks, fetchBookDetails } from "./utils/helpers";
-import { BookDetails, ChapterData, BibliaEntry } from "./types";
+import { readJSONFile } from './utils/utils';
+import { fetchBooks, fetchBookDetails } from './utils/helpers';
+import { BookDetails, ChapterData, BibliaEntry } from './types';
 
 export const getBookDetails = async (book: string): Promise<BookDetails> => {
   let books: BibliaEntry[];
   try {
-    books = readJSONFile<BibliaEntry[]>("json/biblia.json");
+    books = readJSONFile<BibliaEntry[]>('json/biblia.json');
   } catch {
     books = await fetchBookDetails();
   }

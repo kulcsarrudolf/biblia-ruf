@@ -1,8 +1,8 @@
-import * as fs from "fs";
-import * as path from "path";
-import { ChapterData } from "../types";
-import { readJSONFile } from "./utils";
-import { getBibleBooks } from "../books";
+import * as fs from 'fs';
+import * as path from 'path';
+import { ChapterData } from '../types';
+import { readJSONFile } from './utils';
+import { getBibleBooks } from '../books';
 
 export interface ValidationError {
   book: string;
@@ -13,14 +13,14 @@ const validateBookData = (book: string, data: unknown): ValidationError[] => {
   const errors: ValidationError[] = [];
 
   if (!Array.isArray(data)) {
-    errors.push({ book, message: "Root must be an array" });
+    errors.push({ book, message: 'Root must be an array' });
     return errors;
   }
 
   for (let i = 0; i < data.length; i++) {
     const chapter = data[i] as ChapterData;
 
-    if (typeof chapter.chapter !== "number") {
+    if (typeof chapter.chapter !== 'number') {
       errors.push({
         book,
         message: `Chapter at index ${i}: missing or invalid "chapter" field`,
@@ -37,13 +37,13 @@ const validateBookData = (book: string, data: unknown): ValidationError[] => {
 
     for (let j = 0; j < chapter.verses.length; j++) {
       const verse = chapter.verses[j];
-      if (typeof verse.verse !== "string") {
+      if (typeof verse.verse !== 'string') {
         errors.push({
           book,
           message: `Chapter ${chapter.chapter}, verse index ${j}: missing "verse" field`,
         });
       }
-      if (typeof verse.text !== "string") {
+      if (typeof verse.text !== 'string') {
         errors.push({
           book,
           message: `Chapter ${chapter.chapter}, verse ${verse.verse}: missing "text" field`,

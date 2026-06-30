@@ -1,10 +1,10 @@
-import { getBookDetails } from "../book-details";
-import { ParsedPassage } from "../types";
+import { getBookDetails } from '../book-details';
+import { ParsedPassage } from '../types';
 
-const getBookFromPassage = (passage: string): string => passage.split(" ")[0];
+const getBookFromPassage = (passage: string): string => passage.split(' ')[0];
 
 const getChapterFromPassage = (passage: string): number =>
-  parseInt(passage.split(" ")[1].split(":")[0]);
+  parseInt(passage.split(' ')[1].split(':')[0]);
 
 interface VerseRange {
   startVerse: number;
@@ -15,14 +15,14 @@ const getVersesFromPassage = async (passage: string): Promise<VerseRange[]> => {
   const book = getBookFromPassage(passage);
   const chapter = getChapterFromPassage(passage);
 
-  if (passage.split(" ")[1].split(":")[1]) {
+  if (passage.split(' ')[1].split(':')[1]) {
     return passage
-      .split(" ")[1]
-      .split(":")[1]
-      .split(",")
+      .split(' ')[1]
+      .split(':')[1]
+      .split(',')
       .map((v) => {
-        const startVerse = parseInt(v.split("-")[0]);
-        const endVerse = parseInt(v.split("-")[1]);
+        const startVerse = parseInt(v.split('-')[0]);
+        const endVerse = parseInt(v.split('-')[1]);
 
         return {
           startVerse,
@@ -37,10 +37,8 @@ const getVersesFromPassage = async (passage: string): Promise<VerseRange[]> => {
   }
 };
 
-export const parsePassage = async (
-  inputPassageString: string,
-): Promise<ParsedPassage[]> => {
-  const passages = inputPassageString.replace(/; /g, ";").split(";");
+export const parsePassage = async (inputPassageString: string): Promise<ParsedPassage[]> => {
+  const passages = inputPassageString.replace(/; /g, ';').split(';');
 
   const result = await Promise.all(
     passages.map(async (passage) => {
