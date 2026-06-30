@@ -94,7 +94,7 @@ const todayCli = (): void => {
   console.log(result.text);
 };
 
-const parseCommand = async (): Promise<void> => {
+export const runCli = async (): Promise<void> => {
   const args = process.argv;
 
   if (args.includes('-i')) {
@@ -118,5 +118,3 @@ const parseCommand = async (): Promise<void> => {
     help();
   }
 };
-
-parseCommand();
