@@ -4,7 +4,7 @@
 [![license](https://badgen.net/npm/license/biblia-ruf)](https://github.com/kulcsarrudolf/biblia-ruf/blob/main/LICENSE)
 [![downloads](https://badgen.net/npm/dt/biblia-ruf)](https://www.npmjs.com/package/biblia-ruf)
 [![GitHub Stars](https://badgen.net/github/stars/kulcsarrudolf/biblia-ruf)](https://github.com/kulcsarrudolf/biblia-ruf)
-[![tests](https://img.shields.io/github/actions/workflow/status/kulcsarrudolf/biblia-ruf/publish.yml?label=tests)](https://github.com/kulcsarrudolf/biblia-ruf/actions)
+[![CI](https://img.shields.io/github/actions/workflow/status/kulcsarrudolf/biblia-ruf/ci.yml?label=CI)](https://github.com/kulcsarrudolf/biblia-ruf/actions/workflows/ci.yml)
 
 Revideált új fordítás (RÚF) Biblia library and CLI tool. Access Bible passages, search verses, get daily verses — works in Node.js, React, and as a CLI.
 
