@@ -29,6 +29,7 @@
     "build": "tsup",
     "test": "jest",
     "test:watch": "jest --watch",
+    "coverage": "jest --coverage",
     "format": "prettier --write 'src/**/*.ts' 'tests/**/*.ts'",
     "format:check": "prettier --check 'src/**/*.ts' 'tests/**/*.ts'",
     "lint": "eslint .",
