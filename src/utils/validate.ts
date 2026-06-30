@@ -1,5 +1,3 @@
-import * as fs from 'fs';
-import * as path from 'path';
 import { ChapterData } from '../types';
 import { readJSONFile } from './utils';
 import { getBibleBooks } from '../books';

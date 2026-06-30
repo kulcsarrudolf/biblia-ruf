@@ -1,5 +1,4 @@
 import { readJSONFile } from './utils/utils';
-import { getBibleBooks } from './books';
 import { DailyVerseResult, ChapterData } from './types';
 
 const CURATED_VERSES: {

@@ -1,10 +1,5 @@
 import { readJSONFile } from './utils/utils';
-import {
-  getBibleBooksOldTestament,
-  getBibleBooksNewTestament,
-  getBibleBooks,
-  bibleBooks,
-} from './books';
+import { getBibleBooksOldTestament, getBibleBooksNewTestament, getBibleBooks } from './books';
 import { SearchOptions, SearchResult, ChapterData, BibleBook } from './types';
 
 const getBooksByTestament = (testament?: 'old' | 'new'): BibleBook[] => {
@@ -12,9 +7,6 @@ const getBooksByTestament = (testament?: 'old' | 'new'): BibleBook[] => {
   if (testament === 'new') return getBibleBooksNewTestament();
   return getBibleBooks();
 };
-
-const isOldTestament = (abbreviation: string): boolean =>
-  bibleBooks.old.some((b) => b.abbreviation === abbreviation);
 
 export const searchBible = (query: string, options: SearchOptions = {}): SearchResult[] => {
   const { testament, book, caseSensitive = false, limit = 100 } = options;
