@@ -36,7 +36,9 @@
     "lint:fix": "eslint . --fix",
     "validate": "node -e \"require('./dist/utils/validate').validateAllBooks()\"",
     "prepare": "husky",
-    "release": "bash scripts/release.sh"
+    "changeset": "changeset",
+    "version-packages": "changeset version",
+    "release": "yarn build && changeset publish"
   },
   "repository": {
     "type": "git",
@@ -58,6 +60,7 @@
     "cli"
   ],
   "devDependencies": {
+    "@changesets/cli": "^2.31.0",
     "@commitlint/cli": "^19",
     "@commitlint/config-conventional": "^19",
     "@types/jest": "^29.5.0",
