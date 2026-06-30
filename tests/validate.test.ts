@@ -1,4 +1,4 @@
-import { validateBook, validateAllBooks } from '../src/utils/validate';
+import { validateBook } from '../src/utils/validate';
 import { getBibleBooks } from '../src/books';
 
 test('All 66 book JSON files are valid', () => {
