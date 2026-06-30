@@ -5,43 +5,43 @@ import {
   getBookDetails,
   searchBible,
   getDailyVerse,
-} from "../index";
-import { help } from "./help";
-import { startRepl } from "./repl";
+} from '../index';
+import { help } from './help';
+import { startRepl } from './repl';
 
 const getArgValue = (prefix: string): string | undefined => {
   const arg = process.argv.find((val) => val.startsWith(prefix));
   if (!arg) return undefined;
-  return arg.split("=")[1];
+  return arg.split('=')[1];
 };
 
 const hasArg = (name: string): boolean => process.argv.includes(name);
 
 const getBiblePassageCli = async (): Promise<void> => {
-  const passage = getArgValue("--passage=") ?? getArgValue("--p=");
+  const passage = getArgValue('--passage=') ?? getArgValue('--p=');
   if (!passage) {
-    console.error("No passage provided.");
+    console.error('No passage provided.');
     return;
   }
 
   const result = await getBiblePassage(passage);
-  console.log(passage + "\n");
+  console.log(passage + '\n');
   result.forEach((v) => {
     console.log(`${v.verse}. ${v.text}`);
   });
 };
 
 const showBibleBooksCli = (): void => {
-  if (hasArg("--old") || !hasArg("--new")) {
-    console.log("Ószövetség\n");
+  if (hasArg('--old') || !hasArg('--new')) {
+    console.log('Ószövetség\n');
     getBibleBooksOldTestament().forEach((b) => {
       console.log(`${b.name} (${b.abbreviation})`);
     });
     console.log();
   }
 
-  if (hasArg("--new") || !hasArg("--old")) {
-    console.log("Újszövetség\n");
+  if (hasArg('--new') || !hasArg('--old')) {
+    console.log('Újszövetség\n');
     getBibleBooksNewTestament().forEach((b) => {
       console.log(`${b.name} (${b.abbreviation})`);
     });
@@ -51,7 +51,7 @@ const showBibleBooksCli = (): void => {
 const getBookDetailsCli = async (): Promise<void> => {
   const requestedBook = process.argv[3];
   if (!requestedBook) {
-    console.error("No book provided.");
+    console.error('No book provided.');
     return;
   }
 
@@ -65,21 +65,21 @@ const getBookDetailsCli = async (): Promise<void> => {
 };
 
 const searchCli = async (): Promise<void> => {
-  const query = getArgValue("--search=");
+  const query = getArgValue('--search=');
   if (!query) {
-    console.error("No search query provided.");
+    console.error('No search query provided.');
     return;
   }
 
-  const testament = hasArg("--old")
-    ? ("old" as const)
-    : hasArg("--new")
-      ? ("new" as const)
+  const testament = hasArg('--old')
+    ? ('old' as const)
+    : hasArg('--new')
+      ? ('new' as const)
       : undefined;
 
   const results = searchBible(query, { testament, limit: 20 });
   if (results.length === 0) {
-    console.log("No results found.");
+    console.log('No results found.');
     return;
   }
 
@@ -97,24 +97,22 @@ const todayCli = (): void => {
 const parseCommand = async (): Promise<void> => {
   const args = process.argv;
 
-  if (args.includes("-i")) {
+  if (args.includes('-i')) {
     startRepl();
     return;
   }
 
-  if (
-    args.find((val) => val.startsWith("--p=") || val.startsWith("--passage="))
-  ) {
+  if (args.find((val) => val.startsWith('--p=') || val.startsWith('--passage='))) {
     await getBiblePassageCli();
-  } else if (args.includes("--showBooks")) {
+  } else if (args.includes('--showBooks')) {
     showBibleBooksCli();
-  } else if (args.includes("--bookDetails")) {
+  } else if (args.includes('--bookDetails')) {
     await getBookDetailsCli();
-  } else if (args.find((val) => val.startsWith("--search="))) {
+  } else if (args.find((val) => val.startsWith('--search='))) {
     await searchCli();
-  } else if (args.includes("--today")) {
+  } else if (args.includes('--today')) {
     todayCli();
-  } else if (args.includes("--help")) {
+  } else if (args.includes('--help')) {
     help();
   } else {
     help();

@@ -1,7 +1,7 @@
-import { readJSONFile } from "./utils/utils";
-import { parsePassage } from "./utils/passage-parser";
-import { fetchBooks } from "./utils/helpers";
-import { BibleVerse, ChapterData } from "./types";
+import { readJSONFile } from './utils/utils';
+import { parsePassage } from './utils/passage-parser';
+import { fetchBooks } from './utils/helpers';
+import { BibleVerse, ChapterData } from './types';
 
 const getBibleBook = async (book: string): Promise<ChapterData[]> => {
   try {
@@ -11,9 +11,7 @@ const getBibleBook = async (book: string): Promise<ChapterData[]> => {
   }
 };
 
-export const getBiblePassage = async (
-  passage: string,
-): Promise<BibleVerse[]> => {
+export const getBiblePassage = async (passage: string): Promise<BibleVerse[]> => {
   const parsedPassage = await parsePassage(passage);
   const { book, chapter, startVerse, endVerse } = parsedPassage[0];
 
