@@ -16,7 +16,6 @@
   "files": [
     "dist/**/*",
     "bin/**/*",
-    "json/**/*",
     "README.md"
   ],
   "bin": {
@@ -26,15 +25,19 @@
     "node": ">=18"
   },
   "scripts": {
+    "generate:data": "node scripts/generate-data.mjs",
+    "prebuild": "yarn generate:data",
     "build": "tsup",
+    "pretest": "yarn generate:data",
     "test": "jest",
     "test:watch": "jest --watch",
+    "precoverage": "yarn generate:data",
     "coverage": "jest --coverage",
     "format": "prettier --write 'src/**/*.ts' 'tests/**/*.ts'",
     "format:check": "prettier --check 'src/**/*.ts' 'tests/**/*.ts'",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
-    "validate": "node -e \"require('./dist/utils/validate').validateAllBooks()\"",
+    "validate": "node -e \"require('./dist/index.js').validateAllBooks()\"",
     "prepare": "husky",
     "changeset": "changeset",
     "version-packages": "changeset version",

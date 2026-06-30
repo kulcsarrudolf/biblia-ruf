@@ -1,23 +1,14 @@
-import * as fs from 'fs';
-import * as path from 'path';
+import { BIBLIA_DATA } from '../data/biblia-data';
 
-// Resolve the installed package root by walking up from this file until we find
-// the package.json. This stays correct regardless of how deep the compiled file
-// lives in dist/ (e.g. dist/index.js vs dist/cli/index.js), so JSON data shipped
-// at the package root is always found.
-const findPackageRoot = (start: string): string => {
-  let dir = start;
-  while (dir !== path.dirname(dir)) {
-    if (fs.existsSync(path.join(dir, 'package.json'))) return dir;
-    dir = path.dirname(dir);
-  }
-  return start;
-};
-
-const packageRoot = findPackageRoot(__dirname);
-
+// Data is bundled at build time (see scripts/generate-data.mjs) rather than read
+// from disk, so the package works in the browser as well as in Node. The keys in
+// BIBLIA_DATA are the JSON file names without their extension (e.g. "1Móz",
+// "biblia"), matching the relative paths the rest of the code requests.
 export const readJSONFile = <T>(relativePath: string): T => {
-  const fullPath = path.resolve(packageRoot, relativePath);
-  const rawData = fs.readFileSync(fullPath, 'utf-8');
-  return JSON.parse(rawData) as T;
+  const key = relativePath.replace(/^json\//, '').replace(/\.json$/, '');
+  const data = BIBLIA_DATA[key];
+  if (data === undefined) {
+    throw new Error(`biblia-ruf: no bundled data found for "${relativePath}"`);
+  }
+  return data as T;
 };

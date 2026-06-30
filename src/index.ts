@@ -3,6 +3,8 @@ export { getBibleBooks, getBibleBooksOldTestament, getBibleBooksNewTestament } f
 export { getBookDetails } from './book-details';
 export { searchBible } from './search';
 export { getDailyVerse } from './daily-verse';
+export { validateBook, validateAllBooks } from './utils/validate';
+export { runCli } from './cli';
 
 export type {
   BibleBook,
