@@ -8,8 +8,15 @@ const root = path.resolve(import.meta.dirname, '..');
 const jsonDir = path.join(root, 'json');
 const outFile = path.join(root, 'src', 'data', 'biblia-data.ts');
 
+// macOS returns decomposed filenames from readdir (o + combining acute), while
+// git stores them composed (o with acute as one code point). Without this
+// normalization the generated file would carry whichever form the machine that
+// ran the script happened to see, so regenerating on a Mac rewrote all 24
+// accented import paths and broke the build on Linux. Normalize before sorting,
+// because the two forms also sort differently.
 const files = fs
   .readdirSync(jsonDir)
+  .map((f) => f.normalize('NFC'))
   .filter((f) => f.endsWith('.json'))
   .sort();
 
