@@ -1,5 +1,28 @@
 # Biblia RÚF
 
+> ## Deprecated
+>
+> This package is superseded by [`biblia-hu`](https://github.com/kulcsarrudolf/biblia-hu) ([npm](https://www.npmjs.com/package/biblia-hu)).
+>
+> `biblia-hu` bundles two translations instead of one, the Revideált új fordítás (RÚF 2014) and the Revideált Károli Biblia (2011), behind the same feature set.
+> It stays on maintenance only: no new features land here.
+>
+> ```bash
+> npm install biblia-hu
+> ```
+>
+> | `biblia-ruf`                   | `biblia-hu`                                               |
+> | ------------------------------ | --------------------------------------------------------- |
+> | `getBiblePassage(ref)`         | `biblia('RUF').getPassage(ref)`                           |
+> | `getBibleBooks()`              | `biblia('RUF').getBooks()`                                |
+> | `getBookDetails(book)`         | `biblia('RUF').getBookDetails(book)`                      |
+> | `searchBible(query, options?)` | `biblia('RUF').search(query, options?)`, now asynchronous |
+> | `getDailyVerse(date?)`         | `biblia('RUF').getDailyVerse(date?)`, now asynchronous    |
+> | `biblia --p="Jn 3:16"`         | same flags, plus `-t` to pick a translation               |
+>
+> Verse ids are numbers in `biblia-hu`, not strings.
+> The full migration guide is in the [`biblia-hu` README](https://github.com/kulcsarrudolf/biblia-hu#migrating-from-biblia-ruf).
+
 [![npm version](https://badgen.net/npm/v/biblia-ruf)](https://www.npmjs.com/package/biblia-ruf)
 [![license](https://badgen.net/npm/license/biblia-ruf)](https://github.com/kulcsarrudolf/biblia-ruf/blob/main/LICENSE)
 [![downloads](https://badgen.net/npm/dt/biblia-ruf)](https://www.npmjs.com/package/biblia-ruf)
@@ -27,21 +50,21 @@ import {
   getBookDetails,
   searchBible,
   getDailyVerse,
-} from "biblia-ruf";
+} from 'biblia-ruf';
 
 // Get a passage
-const verses = await getBiblePassage("Jn 3:16");
+const verses = await getBiblePassage('Jn 3:16');
 // [{ verse: "16", text: "Mert úgy szerette Isten a világot..." }]
 
 // Get all Bible books
 const books = getBibleBooks(); // 66 books
 
 // Get book details
-const details = await getBookDetails("Zsolt");
+const details = await getBookDetails('Zsolt');
 // { name: "A Zsoltárok könyve", chapters: 150, ... }
 
 // Search the Bible
-const results = searchBible("szeretet", { limit: 10 });
+const results = searchBible('szeretet', { limit: 10 });
 // [{ reference: "Jn 3:16", text: "...", ... }]
 
 // Get today's verse
@@ -56,9 +79,9 @@ const daily = getDailyVerse();
 Get verses from a Bible passage.
 
 ```typescript
-await getBiblePassage("Jn 3:16");        // Single verse
-await getBiblePassage("Zsolt 139:23-24"); // Verse range
-await getBiblePassage("Zsolt 100");       // Entire chapter
+await getBiblePassage('Jn 3:16'); // Single verse
+await getBiblePassage('Zsolt 139:23-24'); // Verse range
+await getBiblePassage('Zsolt 100'); // Entire chapter
 ```
 
 ### `getBibleBooks(): BibleBook[]`
@@ -78,7 +101,7 @@ Returns 27 New Testament books.
 Get metadata about a Bible book.
 
 ```typescript
-const details = await getBookDetails("Zsolt");
+const details = await getBookDetails('Zsolt');
 // {
 //   name: "A Zsoltárok könyve",
 //   abbreviation: "Zsolt",
@@ -93,20 +116,20 @@ const details = await getBookDetails("Zsolt");
 Full-text search across the Bible.
 
 ```typescript
-searchBible("szeretet");
-searchBible("Isten", { testament: "new", limit: 10 });
-searchBible("hit", { book: "Zsid" });
-searchBible("Jézus", { caseSensitive: true });
+searchBible('szeretet');
+searchBible('Isten', { testament: 'new', limit: 10 });
+searchBible('hit', { book: 'Zsid' });
+searchBible('Jézus', { caseSensitive: true });
 ```
 
 **Options:**
 
-| Option          | Type                 | Default | Description                     |
-| --------------- | -------------------- | ------- | ------------------------------- |
-| `testament`     | `"old"` \| `"new"`   | all     | Filter by testament             |
-| `book`          | `string`             | all     | Filter by book abbreviation     |
-| `caseSensitive` | `boolean`            | `false` | Case sensitive search           |
-| `limit`         | `number`             | `100`   | Maximum number of results       |
+| Option          | Type               | Default | Description                 |
+| --------------- | ------------------ | ------- | --------------------------- |
+| `testament`     | `"old"` \| `"new"` | all     | Filter by testament         |
+| `book`          | `string`           | all     | Filter by book abbreviation |
+| `caseSensitive` | `boolean`          | `false` | Case sensitive search       |
+| `limit`         | `number`           | `100`   | Maximum number of results   |
 
 ### `getDailyVerse(date?: Date): DailyVerseResult`
 
@@ -172,7 +195,7 @@ import type {
   SearchOptions,
   SearchResult,
   DailyVerseResult,
-} from "biblia-ruf";
+} from 'biblia-ruf';
 ```
 
 ## Demo
