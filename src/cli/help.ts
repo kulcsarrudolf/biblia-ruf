@@ -1,5 +1,6 @@
 export const help = (): void => {
-  console.log('Biblia RÚF — Revideált új fordítás\n');
+  console.log('Biblia RÚF, Revideált új fordítás\n');
+  console.log('DEPRECATED: superseded by biblia-hu (npm install biblia-hu).\n');
   console.log('Usage:');
   console.log('  biblia --p="<passage>"       Get a Bible passage');
   console.log('  biblia --passage="<passage>" Get a Bible passage');
