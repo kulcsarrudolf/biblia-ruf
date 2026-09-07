@@ -1,7 +1,7 @@
 {
   "name": "biblia-ruf",
   "version": "2.0.6",
-  "description": "RÚF Biblia — Revideált új fordítás library and CLI tool",
+  "description": "DEPRECATED: superseded by biblia-hu. RÚF Biblia, Revideált új fordítás library and CLI tool",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
